@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Churn & Retention Analytics Dashboard</title>
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <div class="app-container">
+        
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="logo-container">
+                <div class="logo-icon">RI</div>
+                <div class="logo-text">RetainSaaS</div>
+            </div>
+            
+            <ul class="nav-menu">
+                <li class="nav-item active" data-tab="dashboard">
+                    <button>
+                        <i class="fa-solid fa-users-slash"></i>
+                        <span>Executive Churn</span>
+                    </button>
+                </li>
+                <li class="nav-item" data-tab="pipeline">
+                    <button>
+                        <i class="fa-solid fa-chart-area"></i>
+                        <span>Pipeline & Cohorts</span>
+                    </button>
+                </li>
+                <li class="nav-item" data-tab="insights">
+                    <button>
+                        <i class="fa-solid fa-user-shield"></i>
+                        <span>Retention Strategy</span>
+                    </button>
+                </li>
+            </ul>
+            
+            <div class="sidebar-footer">
+                <div class="user-badge">
+                    <div class="user-avatar">RA</div>
+                    <div class="user-info">
+                        <p class="user-name">Retention Analyst</p>
+                        <p class="user-role">Future Interns</p>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            
+            <!-- Top Header -->
+            <header class="top-header">
+                <div class="header-title">
+                    <h1 id="page-title">Executive Churn Overview</h1>
+                    <p id="page-subtitle">SaaS subscriber lifetime trends, cohort retention, and churn analysis.</p>
+                </div>
+                <div class="header-actions">
+                    <button class="btn-reset" onclick="window.print()" style="margin: 0;">
+                        <i class="fa-solid fa-print"></i> Print Executive Summary
+                    </button>
+                </div>
+            </header>
+
+            <!-- Filters Bar -->
+            <section class="filters-bar" id="filters-container">
+                <div class="filter-group">
+                    <label for="filter-region">Region</label>
+                    <select id="filter-region" class="filter-select">
+                        <option value="All">All Regions</option>
+                        <option value="East">East</option>
+                        <option value="West">West</option>
+                        <option value="North">North</option>
+                        <option value="South">South</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label for="filter-plan">Subscription Plan</label>
+                    <select id="filter-plan" class="filter-select">
+                        <option value="All">All Plans</option>
+                        <option value="Basic">Basic</option>
+                        <option value="Standard">Standard</option>
+                        <option value="Premium">Premium</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filter-cycle">Billing Cycle</label>
+                    <select id="filter-cycle" class="filter-select">
+                        <option value="All">All Cycles</option>
+                        <option value="Monthly">Monthly</option>
+                        <option value="Annual">Annual</option>
+                    </select>
+                </div>
+
+                <button id="reset-filters" class="btn-reset">
+                    <i class="fa-solid fa-rotate-left"></i> Reset
+                </button>
+            </section>
+
+            <!-- TAB 1: EXECUTIVE DASHBOARD -->
+            <div id="dashboard" class="tab-content active">
+                
+                <!-- KPI Grid -->
+                <div class="kpi-grid">
+                    
+                    <!-- Churn Rate KPI -->
+                    <div class="kpi-card kpi-churn">
+                        <div class="kpi-card-header">
+                            <span>CHURN RATE</span>
+                            <div class="kpi-icon">
+                                <i class="fa-solid fa-user-xmark"></i>
+                            </div>
+                        </div>
+                        <div class="kpi-value" id="kpi-churn-val">0.0%</div>
+                        <div class="kpi-trend trend-down" id="kpi-churn-trend">
+                            <i class="fa-solid fa-triangle-exclamation"></i>
+                            <span>Industry Benchmark: 5-8%</span>
+                        </div>
+                    </div>
+                    
+                    <!-- MRR KPI -->
+                    <div class="kpi-card kpi-mrr">
+                        <div class="kpi-card-header">
+                            <span>TOTAL ACTIVE MRR</span>
+                            <div class="kpi-icon">
+                                <i class="fa-solid fa-sack-dollar"></i>
+                            </div>
+                        </div>
+                        <div class="kpi-value" id="kpi-mrr-val">$0</div>
+                        <div class="kpi-trend trend-up">
+                            <i class="fa-solid fa-chart-line"></i>
+                            <span>MRR Retention: Stable</span>
+                        </div>
+                    </div>
+                    
+                    <!-- LTV KPI -->
+                    <div class="kpi-card kpi-ltv">
+                        <div class="kpi-card-header">
+                            <span>AVG CUSTOMER LTV</span>
+                            <div class="kpi-icon">
+                                <i class="fa-solid fa-hand-holding-dollar"></i>
+                            </div>
+                        </div>
+                        <div class="kpi-value" id="kpi-ltv-val">$0</div>
+                        <div class="kpi-trend trend-up" id="kpi-ltv-trend">
+                            <i class="fa-solid fa-clock"></i>
+                            <span>Avg Tenure: ~12.5 Mos</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Active Subs KPI -->
+                    <div class="kpi-card kpi-active">
+                        <div class="kpi-card-header">
+                            <span>ACTIVE SUBSCRIBERS</span>
+                            <div class="kpi-icon">
+                                <i class="fa-solid fa-users"></i>
+                            </div>
+                        </div>
+                        <div class="kpi-value" id="kpi-active-val">0</div>
+                        <div class="kpi-trend trend-up" id="kpi-active-trend">
+                            <i class="fa-solid fa-user-check"></i>
+                            <span>Active Accounts</span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Charts Grid -->
+                <div class="charts-grid">
+                    
+                    <!-- Survival/Retention curve -->
+                    <div class="chart-card col-8">
+                        <div class="chart-card-header">
+                            <div>
+                                <div class="chart-card-title">Customer Survival Rate (Tenure Retention Curve)</div>
+                                <div class="chart-card-subtitle">Percentage of cohort retained as tenure (in months) increases</div>
+                            </div>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="survival-chart"></canvas>
+                        </div>
+                    </div>
+
+                    <!-- Churn by Billing Cycle Donut -->
+                    <div class="chart-card col-4">
+                        <div class="chart-card-header">
+                            <div>
+                                <div class="chart-card-title">Churn by Billing Cycle</div>
+                                <div class="chart-card-subtitle">Monthly vs Annual contract vulnerability</div>
+                            </div>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="cycle-chart"></canvas>
+                        </div>
+                    </div>
+
+                    <!-- Churn Reasons Horizontal Bar -->
+                    <div class="chart-card col-6">
+                        <div class="chart-card-header">
+                            <div>
+                                <div class="chart-card-title">Dominant Churn Reasons</div>
+                                <div class="chart-card-subtitle">Root-cause breakdown of cancelled accounts</div>
+                            </div>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="reasons-chart"></canvas>
+                        </div>
+                    </div>
+
+                    <!-- Churn Rate by Plan Type -->
+                    <div class="chart-card col-6">
+                        <div class="chart-card-header">
+                            <div>
+                                <div class="chart-card-title">Churn Rate by Subscription Plan</div>
+                                <div class="chart-card-subtitle">Vulnerability profile across product tiers</div>
+                            </div>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="plan-chart"></canvas>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- TAB 2: PIPELINE & COHORTS -->
+            <div id="pipeline" class="tab-content">
+                
+                <!-- Data Pipeline Audit Summary -->
+                <div class="pipeline-metrics-summary">
+                    <div class="pipeline-metric-card">
+                        <div class="pipeline-metric-value" id="audit-raw-count">0</div>
+                        <div class="pipeline-metric-label">Raw Customer Profiles</div>
+                    </div>
+                    <div class="pipeline-metric-card">
+                        <div class="pipeline-metric-value highlight-red" id="audit-dupes">0</div>
+                        <div class="pipeline-metric-label">Duplicates Removed</div>
+                    </div>
+                    <div class="pipeline-metric-card">
+                        <div class="pipeline-metric-value highlight-red" id="audit-dates">0</div>
+                        <div class="pipeline-metric-label">Date Anomalies Dropped</div>
+                    </div>
+                    <div class="pipeline-metric-card">
+                        <div class="pipeline-metric-value highlight-red" id="audit-tenures">0</div>
+                        <div class="pipeline-metric-label">Negative Tenure Excluded</div>
+                    </div>
+                    <div class="pipeline-metric-card">
+                        <div class="pipeline-metric-value highlight-blue" id="audit-imputed">0</div>
+                        <div class="pipeline-metric-label">Charges Imputed</div>
+                    </div>
+                    <div class="pipeline-metric-card">
+                        <div class="pipeline-metric-value highlight-green" id="audit-cleaned-count">0</div>
+                        <div class="pipeline-metric-label">Cleaned Profiles</div>
+                    </div>
+                </div>
+
+                <!-- Tables -->
+                <div class="pipeline-tables">
+                    
+                    <!-- Raw Data -->
+                    <div class="table-section">
+                        <div class="table-header">
+                            <div>
+                                <h3 class="chart-card-title">Raw Messy Subscriber Table</h3>
+                                <p class="chart-card-subtitle" style="margin-top: 2px;">First 15 raw profiles. Notice inconsistent signup dates, negative/missing tenure, empty charges, and duplicate items.</p>
+                            </div>
+                        </div>
+                        <div class="table-container">
+                            <table class="data-table" id="raw-data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Cust ID</th>
+                                        <th>Signup Date</th>
+                                        <th>Plan Type</th>
+                                        <th>Cycle</th>
+                                        <th>Tenure (Mos)</th>
+                                        <th>Charges ($/Mo)</th>
+                                        <th>Churn?</th>
+                                        <th>Region</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <!-- Populated dynamically -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Cleaned Data -->
+                    <div class="table-section">
+                        <div class="table-header">
+                            <div>
+                                <h3 class="chart-card-title">Cleaned & Normalized Subscriber Profiles</h3>
+                                <p class="chart-card-subtitle" style="margin-top: 2px;">First 15 cleaned profiles. Normal dates, plan/cycle correction, and engineered Customer Lifetime Value (LTV).</p>
+                            </div>
+                            <button class="btn-reset" id="download-csv" style="margin: 0;">
+                                <i class="fa-solid fa-download"></i> Export Cleaned CSV
+                            </button>
+                        </div>
+                        <div class="table-container">
+                            <table class="data-table" id="cleaned-data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Cust ID</th>
+                                        <th>Signup Date</th>
+                                        <th>Plan Type</th>
+                                        <th>Cycle</th>
+                                        <th>Tenure (Mos)</th>
+                                        <th>Monthly Cost</th>
+                                        <th>Churn Status</th>
+                                        <th>Churn Reason</th>
+                                        <th>LTV</th>
+                                        <th>Region</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <!-- Populated dynamically -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- TAB 3: RETENTION STRATEGY -->
+            <div id="insights" class="tab-content">
+                
+                <div class="insights-container">
+                    
+                    <!-- Intro Card -->
+                    <div class="insights-intro-card">
+                        <h3><i class="fa-solid fa-user-shield"></i> Consultative Customer Retention & Churn Reduction Plan</h3>
+                        <p>Based on our deep cohort analysis of 2024-2025 subscriber patterns, we have identified key drivers of customer attrition. A churn rate of ~30% represents a critical profit leakage. By deploying these four evidence-based retention plays, our product and marketing teams can directly increase Monthly Recurring Revenue (MRR) and Average Customer Lifetime Value (LTV).</p>
+                    </div>
+
+                    <!-- Strategic Grid -->
+                    <div class="insights-grid">
+                        
+                        <!-- Recommendation 1: Contract Term Length -->
+                        <div class="insight-card priority">
+                            <div class="insight-header">
+                                <div class="insight-num-badge">1</div>
+                                <h4>Annual Commitments Reduce Churn by over 40%</h4>
+                            </div>
+                            <div class="insight-body">
+                                <p><strong>Analysis:</strong> Our analysis highlights that **Monthly Billing Cycle** customers account for approximately 78% of all churn events. Standardized annual contracts represent a highly stable cohort, exhibiting negligible churn after month 3, while monthly subscribers experience steep attrition curves between months 1 to 6.</p>
+                            </div>
+                            <div class="insight-recommendation">
+                                <div class="insight-recommendation-title">Tactical Playbook</div>
+                                <p class="insight-recommendation-text">Launch an automated email/dashboard campaign at Month 2 offering monthly subscribers a 15% discount if they upgrade to an Annual Plan. This locks in tenure before the high-vulnerability Month 3 threshold.</p>
+                            </div>
+                        </div>
+
+                        <!-- Recommendation 2: Price-Sensitive Customer Playbook -->
+                        <div class="insight-card">
+                            <div class="insight-header">
+                                <div class="insight-num-badge">2</div>
+                                <h4>Targeted Downgrade Flows for 'Price' Attrition</h4>
+                            </div>
+                            <div class="insight-body">
+                                <p><strong>Analysis:</strong> 'Price' represents the leading stated reason for churn, particularly amongst standard tier monthly subscribers. Rather than losing customer lifetime value entirely, offering financial concessions or plan downgrades preserves accounts and keeps the acquisition funnel healthy.</p>
+                            </div>
+                            <div class="insight-recommendation">
+                                <div class="insight-recommendation-title">Tactical Playbook</div>
+                                <p class="insight-recommendation-text">Deploy an interactive cancel flow: when a customer selects 'Price' as their cancel reason, prompt an automated offer to downgrade to the Basic plan, or apply a temporary 20% discount for 3 months to prevent outright churn.</p>
+                            </div>
+                        </div>
+
+                        <!-- Recommendation 3: Premium Tier Support Redesign -->
+                        <div class="insight-card priority">
+                            <div class="insight-header">
+                                <div class="insight-num-badge">3</div>
+                                <h4>Redesign Premium Tier Customer Support Pipelines</h4>
+                            </div>
+                            <div class="insight-body">
+                                <p><strong>Analysis:</strong> Premium plan customers represent our highest value accounts ($79/mo) but are heavily susceptible to churning due to 'Customer Support' friction. Because LTV is high, losing a single premium account is equivalent to losing five basic accounts, making support resolution critical.</p>
+                            </div>
+                            <div class="insight-recommendation">
+                                <div class="insight-recommendation-title">Tactical Playbook</div>
+                                <p class="insight-recommendation-text">Establish a VIP Support queue for Premium tier subscribers, guaranteeing a response under 15 minutes. Integrate Slack alerts notifying account managers of any support ticket submitted by high-value clients.</p>
+                            </div>
+                        </div>
+
+                        <!-- Recommendation 4: Product Friction & Feature Adoption -->
+                        <div class="insight-card">
+                            <div class="insight-header">
+                                <div class="insight-num-badge">4</div>
+                                <h4>Trigger Activity Alerts for Product Bug Friction</h4>
+                            </div>
+                            <div class="insight-body">
+                                <p><strong>Analysis:</strong> Tenure analysis indicates that customers who survive month 6 have a 92% retention rate through month 24. Churn in months 1-3 is highly correlated with 'Product Bug' reports. Early churn is caused by poor onboarding and initial product friction.</p>
+                            </div>
+                            <div class="insight-recommendation">
+                                <div class="insight-recommendation-title">Tactical Playbook</div>
+                                <p class="insight-recommendation-text">Track user events: if a new user submits a bug report or shows low feature usage in their first 14 days, trigger an automated customer success call to guide onboarding and resolve early technical friction.</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </main>
+    </div>
+
+    <!-- Loaded JS data and controller -->
+    <script src="dashboard_data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

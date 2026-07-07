@@ -1,0 +1,1808 @@
+Transaction_ID,Date,Customer_ID,Segment,Product_Name,Category,Quantity,Unit_Price,Revenue,Cost,Profit,Region
+TXN-10001,2025-12-10,CUST-1027,Corporate,Premium Notebook A5,Office Supplies,1,11.95,11.95,4.19,7.76,West
+TXN-10002,2025-08-08,CUST-1049,Corporate,High-Speed USB-C Cable,Technology,5,17.97,89.85,27.21,62.64,South
+TXN-10003,2025-12-13,CUST-1070,Home Office,Filing Cabinet 3-Drawer,Furniture,10,142.8,1428.0,779.4,648.6,East
+TXN-10004,2025-08-31,CUST-1030,Home Office,Sticky Notes Pastel,Office Supplies,2,7.61,15.22,3.74,11.48,North
+TXN-10006,2025-04-30,CUST-1106,Corporate,Gel Pens (Pack of 12),Office Supplies,1,15.02,15.02,4.51,10.51,North
+TXN-10007,2025-01-18,CUST-1086,Home Office,Sticky Notes Pastel,Office Supplies,10,8.0,80.0,20.21,59.79,West
+TXN-10009,2025-12-15,CUST-1131,Corporate,Filing Cabinet 3-Drawer,Furniture,7,143.52,1004.64,561.79,442.85,South
+TXN-10010,2025-09-06,CUST-1046,Consumer,Pro Laptop 15,Technology,5,1199.74,5998.7,4281.27,1717.43,North
+TXN-10011,2025-02-08,CUST-1023,Consumer,Premium Notebook A5,Office Supplies,9,12.28,110.52,39.15,71.37,West
+TXN-10012,2025-05-22,CUST-1118,Corporate,Pro Laptop 15,Technology,4,1149.72,4598.88,3156.21,1442.67,North
+TXN-10013,2025-01-16,CUST-1104,Home Office,Executive Wooden Desk,Furniture,4,464.61,1858.44,1135.88,722.56,South
+TXN-10014,2025-10-13,CUST-1100,Corporate,Executive Wooden Desk,Furniture,10,467.95,4679.5,2831.1,1848.4,West
+TXN-10891,2025-10-08,CUST-1117,Home Office,Smart Bluetooth Speaker,Technology,9,80.32,722.88,355.87,367.01,West
+TXN-10016,2025-10-18,CUST-1066,Home Office,Filing Cabinet 3-Drawer,Furniture,7,144.12,1008.84,556.68,452.16,West
+TXN-10017,2025-07-05,CUST-1025,Consumer,Premium Notebook A5,Office Supplies,10,11.53,115.3,41.15,74.15,South
+TXN-10018,2025-10-27,CUST-1149,Consumer,Standing Desk Frame,Furniture,5,286.17,1430.85,868.96,561.89,South
+TXN-10019,2025-04-24,CUST-1095,Consumer,Premium Notebook A5,Office Supplies,7,11.61,81.27,28.49,52.78,North
+TXN-10020,2025-07-21,CUST-1085,Consumer,Premium Notebook A5,Office Supplies,7,12.26,85.82,29.5,56.32,West
+TXN-10118,2025-12-25,CUST-1096,Home Office,UltraWide Monitor 34,Technology,8,404.69,3237.52,2356.59,880.93,South
+TXN-10022,2025-12-03,CUST-1114,Home Office,Pro Laptop 15,Technology,9,1199.74,10797.66,7523.81,3273.85,South
+TXN-10024,2025-09-29,CUST-1104,Consumer,Filing Cabinet 3-Drawer,Furniture,10,146.29,1462.9,808.25,654.65,North
+TXN-10025,2025-01-24,CUST-1056,Home Office,Pro Laptop 15,Technology,10,1248.92,12489.2,8675.0,3814.2,East
+TXN-10026,2025-02-13,CUST-1032,Corporate,Executive Wooden Desk,Furniture,2,453.36,906.72,543.31,363.41,South
+TXN-10027,2025-02-20,CUST-1087,Consumer,Standing Desk Frame,Furniture,3,289.49,868.47,511.88,356.59,South
+TXN-10028,2025-05-20,CUST-1014,Consumer,Executive Wooden Desk,Furniture,10,450.45,4504.5,2749.55,1754.95,North
+TXN-10029,2025-03-24,CUST-1126,Corporate,Premium Notebook A5,Office Supplies,4,12.25,49.0,17.19,31.81,West
+TXN-10030,2025-04-24,CUST-1108,Corporate,Gel Pens (Pack of 12),Office Supplies,6,15.12,90.72,27.68,63.04,North
+TXN-10031,2025-08-18,CUST-1007,Consumer,Standing Desk Frame,Furniture,5,292.2,1461.0,863.16,597.84,East
+TXN-10032,2025-11-16,CUST-1026,Consumer,UltraWide Monitor 34,Technology,4,389.93,1559.72,1116.6,443.12,South
+TXN-10033,2025-10-07,CUST-1047,Corporate,Premium Notebook A5,Office Supplies,6,12.07,72.42,25.1,47.32,East
+TXN-10034,2025-07-18,CUST-1016,Consumer,Pro Laptop 15,Technology,5,1199.74,5998.7,4194.29,1804.41,South
+TXN-10035,2025-09-18,CUST-1125,Home Office,UltraWide Monitor 34,Technology,5,395.23,1976.15,1398.13,578.02,North
+TXN-10036,2025-04-21,CUST-1127,Consumer,High-Speed USB-C Cable,Technology,8,17.43,139.44,41.16,98.28,West
+TXN-10037,2025-04-28,CUST-1085,Consumer,Standing Desk Frame,Furniture,8,309.89,2479.12,1465.9,1013.22,North
+TXN-10038,2025-10-03,CUST-1105,Home Office,Sticky Notes Pastel,Office Supplies,3,8.34,25.02,6.2,18.82,East
+TXN-10039,2025-10-22,CUST-1094,Home Office,Premium Notebook A5,Office Supplies,2,11.46,22.92,8.06,14.86,East
+TXN-10040,2025-01-11,CUST-1119,Corporate,Ergonomic Chair,Furniture,1,262.41,262.41,173.51,88.9,North
+TXN-10041,2025-03-18,CUST-1133,Consumer,Smart Bluetooth Speaker,Technology,9,82.12,739.08,369.1,369.98,East
+TXN-10042,2025-05-31,CUST-1029,Corporate,Pro Laptop 15,Technology,10,1162.65,11626.5,8031.59,3594.91,East
+TXN-10043,2025-10-24,CUST-1020,Home Office,High-Speed USB-C Cable,Technology,9,18.4,165.6,50.57,115.03,West
+TXN-10044,2025-10-25,CUST-1032,Corporate,Wireless Mouse M2,Technology,9,24.47,220.23,87.3,132.93,West
+TXN-10045,2025-11-06,CUST-1003,Home Office,Wireless Mouse M2,Technology,3,24.75,74.25,30.09,44.16,West
+TXN-10046,2025-11-08,CUST-1108,Corporate,Executive Wooden Desk,Furniture,4,439.0,1756.0,1037.8,718.2,North
+TXN-10047,2025-10-23,CUST-1033,Home Office,Smart Bluetooth Speaker,Technology,9,83.73,753.57,379.2,374.37,North
+TXN-10048,2025-03-17,CUST-1024,Home Office,High-Speed USB-C Cable,Technology,2,17.71,35.42,10.55,24.87,West
+TXN-10049,2025-07-23,CUST-1010,Corporate,Smart Bluetooth Speaker,Technology,10,83.48,834.8,418.07,416.73,East
+TXN-10050,2025-11-13,CUST-1101,Corporate,Smart Bluetooth Speaker,Technology,2,80.56,161.12,79.38,81.74,West
+TXN-10051,2025-04-18,CUST-1083,Consumer,Gel Pens (Pack of 12),Office Supplies,9,14.28,128.52,38.81,89.71,North
+TXN-10052,2025-08-18,CUST-1136,Home Office,Filing Cabinet 3-Drawer,Furniture,6,157.35,944.1,521.33,422.77,West
+TXN-10053,2025-11-28,CUST-1125,Consumer,Executive Wooden Desk,Furniture,1,454.5,454.5,273.02,181.48,North
+TXN-10054,2025-09-11,CUST-1012,Corporate,High-Speed USB-C Cable,Technology,2,17.3,34.6,10.23,24.37,South
+TXN-10055,2025-07-02,CUST-1020,Corporate,Filing Cabinet 3-Drawer,Furniture,7,156.87,1098.09,596.04,502.05,South
+TXN-10056,2025-11-06,CUST-1129,Corporate,Pro Laptop 15,Technology,8,1219.09,9752.72,6761.56,2991.16,South
+TXN-10057,2025-05-11,CUST-1125,Home Office,Premium Notebook A5,Office Supplies,4,11.64,46.56,16.11,30.45,North
+TXN-10058,2025-02-01,CUST-1148,Home Office,Smart Bluetooth Speaker,Technology,3,76.55,229.65,113.75,115.9,East
+TXN-10060,2025-06-25,CUST-1031,Consumer,Premium Notebook A5,Office Supplies,9,11.7,105.3,36.65,68.65,East
+TXN-10061,2025-05-27,CUST-1120,Corporate,Pro Laptop 15,Technology,7,1172.72,8209.04,5681.48,2527.56,West
+TXN-10062,2025-07-10,CUST-1085,Home Office,UltraWide Monitor 34,Technology,1,381.99,381.99,271.67,110.32,South
+TXN-10063,2025-10-12,CUST-1137,Consumer,High-Speed USB-C Cable,Technology,2,17.45,34.9,10.52,24.38,West
+TXN-10064,2025-07-01,CUST-1003,Corporate,Pro Laptop 15,Technology,4,1180.32,4721.28,3303.48,1417.8,East
+TXN-10065,2025-03-26,CUST-1086,Home Office,Sticky Notes Pastel,Office Supplies,1,7.74,7.74,1.95,5.79,North
+TXN-10066,2025-06-23,CUST-1079,Consumer,Ergonomic Chair,Furniture,7,248.42,1738.94,1143.18,595.76,East
+TXN-10067,2025-08-16,CUST-1014,Consumer,Premium Notebook A5,Office Supplies,3,11.52,34.56,12.29,22.27,East
+TXN-10068,2025-08-03,CUST-1134,Corporate,Filing Cabinet 3-Drawer,Furniture,7,148.33,1038.31,571.28,467.03,West
+TXN-10069,2025-07-21,CUST-1048,Home Office,High-Speed USB-C Cable,Technology,5,18.17,90.85,27.06,63.79,North
+TXN-10070,2025-05-27,CUST-1025,Corporate,Standing Desk Frame,Furniture,8,295.92,2367.36,1401.71,965.65,West
+TXN-10071,2025-08-12,CUST-1127,Corporate,Executive Wooden Desk,Furniture,1,458.65,458.65,270.33,188.32,North
+TXN-10072,2025-10-29,CUST-1044,Corporate,Sticky Notes Pastel,Office Supplies,10,8.27,82.7,20.82,61.88,East
+TXN-10073,2025-03-20,CUST-1140,Corporate,Ergonomic Chair,Furniture,5,248.6,1243.0,822.49,420.51,West
+TXN-10074,2025-08-21,CUST-1089,Home Office,High-Speed USB-C Cable,Technology,3,17.99,53.97,16.34,37.63,East
+TXN-10075,2025-07-15,CUST-1046,Consumer,Executive Wooden Desk,Furniture,8,454.12,3632.96,2151.8,1481.16,West
+TXN-10076,2025-03-04,CUST-1100,Consumer,Premium Notebook A5,Office Supplies,9,12.43,111.87,38.77,73.1,South
+TXN-10077,2025-02-27,CUST-1123,Consumer,Smart Bluetooth Speaker,Technology,4,83.23,332.92,167.36,165.56,West
+TXN-10078,2025-04-27,CUST-1060,Consumer,Gel Pens (Pack of 12),Office Supplies,4,15.07,60.28,18.4,41.88,South
+TXN-10510,2025-01-30,CUST-1019,Consumer,Smart Bluetooth Speaker,Technology,3,80.09,240.27,121.99,118.28,West
+TXN-10079,2025-09-02,CUST-1135,Corporate,Pro Laptop 15,Technology,9,1208.29,10874.61,7657.9,3216.71,South
+TXN-10081,2025-07-28,CUST-1059,Corporate,Pro Laptop 15,Technology,8,1246.29,9970.32,6955.3,3015.02,South
+TXN-10082,2025-03-07,CUST-1088,Home Office,UltraWide Monitor 34,Technology,1,391.1,391.1,281.08,110.02,North
+TXN-10083,2025-09-12,CUST-1042,Home Office,Premium Notebook A5,Office Supplies,8,12.56,100.48,34.98,65.5,North
+TXN-10084,2025-02-05,CUST-1129,Consumer,Standing Desk Frame,Furniture,8,290.54,2324.32,1384.36,939.96,South
+TXN-10085,2025-07-17,CUST-1038,Home Office,Filing Cabinet 3-Drawer,Furniture,1,149.96,149.96,82.27,67.69,East
+TXN-10086,2025-12-19,CUST-1035,Corporate,Sticky Notes Pastel,Office Supplies,9,8.01,72.09,18.07,54.02,West
+TXN-10087,2025-03-15,CUST-1086,Home Office,Sticky Notes Pastel,Office Supplies,5,8.23,41.15,10.16,30.99,South
+TXN-10088,2025-01-01,CUST-1074,Home Office,Ergonomic Chair,Furniture,10,243.54,2435.4,1577.17,858.23,West
+TXN-10089,2025-11-23,CUST-1065,Consumer,UltraWide Monitor 34,Technology,6,418.14,2508.84,1803.61,705.23,West
+TXN-10090,2025-07-02,CUST-1104,Corporate,Smart Bluetooth Speaker,Technology,7,81.94,573.58,282.03,291.55,West
+TXN-10091,2025-04-18,CUST-1019,Corporate,Gel Pens (Pack of 12),Office Supplies,8,15.56,124.48,37.41,87.07,South
+TXN-10092,2025-04-21,CUST-1044,Corporate,Sticky Notes Pastel,Office Supplies,10,7.64,76.4,19.16,57.24,West
+TXN-10093,2025-12-03,CUST-1036,Home Office,Executive Wooden Desk,Furniture,1,446.98,446.98,264.97,182.01,South
+TXN-10094,2025-02-18,CUST-1006,Corporate,Smart Bluetooth Speaker,Technology,4,80.88,323.52,162.92,160.6,East
+TXN-10095,2025-03-24,CUST-1117,Corporate,UltraWide Monitor 34,Technology,7,411.05,2877.35,2032.56,844.79,South
+TXN-10097,2025-05-17,CUST-1095,Corporate,Pro Laptop 15,Technology,8,1208.51,9668.08,6753.15,2914.93,North
+TXN-10098,2025-04-20,CUST-1101,Home Office,Sticky Notes Pastel,Office Supplies,6,8.2,49.2,12.31,36.89,South
+TXN-10868,2025-05-20,CUST-1102,Corporate,Smart Bluetooth Speaker,Technology,10,81.87,818.7,404.27,414.43,North
+TXN-10099,2025-05-22,CUST-1062,Consumer,Smart Bluetooth Speaker,Technology,1,76.88,76.88,38.34,38.54,West
+TXN-10100,2025-01-28,CUST-1016,Consumer,Standing Desk Frame,Furniture,8,304.0,2432.0,1432.69,999.31,East
+TXN-10101,2025-03-08,CUST-1125,Corporate,Gel Pens (Pack of 12),Office Supplies,7,14.97,104.79,31.96,72.83,East
+TXN-10103,2025-06-26,CUST-1015,Home Office,Smart Bluetooth Speaker,Technology,4,79.98,319.92,160.73,159.19,North
+TXN-10104,2025-07-13,CUST-1037,Consumer,High-Speed USB-C Cable,Technology,2,17.49,34.98,10.33,24.65,West
+TXN-10105,2025-08-13,CUST-1120,Home Office,UltraWide Monitor 34,Technology,7,392.51,2747.57,1964.79,782.78,West
+TXN-10106,2025-07-29,CUST-1145,Consumer,Standing Desk Frame,Furniture,3,296.52,889.56,538.45,351.11,East
+TXN-10107,2025-03-22,CUST-1141,Home Office,Gel Pens (Pack of 12),Office Supplies,6,15.54,93.24,27.64,65.6,East
+TXN-10108,2025-11-03,CUST-1131,Home Office,Sticky Notes Pastel,Office Supplies,4,8.09,32.36,8.15,24.21,East
+TXN-10109,2025-11-18,CUST-1050,Corporate,Wireless Mouse M2,Technology,7,23.96,167.72,66.47,101.25,West
+TXN-10110,2025-06-21,CUST-1090,Home Office,UltraWide Monitor 34,Technology,7,380.59,2664.13,1881.41,782.72,North
+TXN-10111,2025-08-23,CUST-1080,Home Office,Ergonomic Chair,Furniture,10,255.39,2553.9,1691.19,862.71,South
+TXN-10113,2025-08-30,CUST-1017,Home Office,Premium Notebook A5,Office Supplies,2,11.62,23.24,7.98,15.26,North
+TXN-10114,2025-05-04,CUST-1092,Home Office,Ergonomic Chair,Furniture,6,241.49,1448.94,937.9,511.04,East
+TXN-10116,2025-03-27,CUST-1066,Corporate,Premium Notebook A5,Office Supplies,4,12.08,48.32,16.71,31.61,East
+TXN-10117,2025-04-15,CUST-1084,Corporate,Filing Cabinet 3-Drawer,Furniture,3,155.74,467.22,254.4,212.82,South
+TXN-10119,2025-04-30,CUST-1077,Consumer,Filing Cabinet 3-Drawer,Furniture,1,153.66,153.66,84.65,69.01,North
+TXN-10120,2025-11-27,CUST-1003,Home Office,UltraWide Monitor 34,Technology,7,399.46,2796.22,1997.62,798.6,East
+TXN-10121,2025-10-30,CUST-1114,Consumer,Gel Pens (Pack of 12),Office Supplies,1,14.51,14.51,4.32,10.19,West
+TXN-10122,2025-04-29,CUST-1014,Corporate,Pro Laptop 15,Technology,9,1171.33,10541.97,7406.79,3135.18,East
+TXN-10123,2025-09-02,CUST-1031,Home Office,Ergonomic Chair,Furniture,6,238.98,1433.88,916.97,516.91,West
+TXN-10125,2025-08-23,CUST-1085,Home Office,Smart Bluetooth Speaker,Technology,1,81.0,81.0,41.07,39.93,East
+TXN-10127,2025-08-09,CUST-1135,Home Office,High-Speed USB-C Cable,Technology,10,18.52,185.2,56.6,128.6,West
+TXN-10128,2025-11-28,CUST-1093,Corporate,Gel Pens (Pack of 12),Office Supplies,4,14.28,57.12,17.13,39.99,West
+TXN-10130,2025-03-28,CUST-1100,Consumer,UltraWide Monitor 34,Technology,6,404.98,2429.88,1728.37,701.51,South
+TXN-10131,2025-05-16,CUST-1078,Consumer,Pro Laptop 15,Technology,6,1188.92,7133.52,4944.24,2189.28,West
+TXN-10132,2025-03-12,CUST-1073,Home Office,Wireless Mouse M2,Technology,7,25.42,177.94,70.04,107.9,South
+TXN-10133,2025-07-31,CUST-1041,Home Office,Smart Bluetooth Speaker,Technology,10,82.42,824.2,408.56,415.64,East
+TXN-10134,2025-04-06,CUST-1050,Corporate,UltraWide Monitor 34,Technology,5,403.88,2019.4,1455.79,563.61,North
+TXN-10135,2025-12-20,CUST-1016,Home Office,Filing Cabinet 3-Drawer,Furniture,9,144.89,1304.01,708.86,595.15,East
+TXN-10136,2025-08-30,CUST-1017,Home Office,Pro Laptop 15,Technology,10,1159.66,11596.6,8210.39,3386.21,East
+TXN-10137,2025-05-18,CUST-1150,Corporate,UltraWide Monitor 34,Technology,3,403.11,1209.33,854.27,355.06,East
+TXN-10138,2025-09-19,CUST-1054,Consumer,Standing Desk Frame,Furniture,3,295.34,886.02,533.03,352.99,West
+TXN-10139,2025-02-09,CUST-1040,Consumer,Standing Desk Frame,Furniture,7,293.66,2055.62,1220.42,835.2,South
+TXN-10140,2025-02-06,CUST-1042,Home Office,Premium Notebook A5,Office Supplies,2,11.75,23.5,8.26,15.24,West
+TXN-10141,2025-05-23,CUST-1048,Home Office,Ergonomic Chair,Furniture,1,252.98,252.98,161.98,91.0,North
+TXN-10142,2025-01-06,CUST-1136,Corporate,High-Speed USB-C Cable,Technology,5,17.3,86.5,26.35,60.15,South
+TXN-10143,2025-02-17,CUST-1023,Home Office,Pro Laptop 15,Technology,8,1245.87,9966.96,7042.65,2924.31,North
+TXN-10529,2025-09-17,CUST-1041,Corporate,Sticky Notes Pastel,Office Supplies,7,8.32,58.24,14.41,43.83,South
+TXN-10144,2025-11-27,CUST-1114,Corporate,Filing Cabinet 3-Drawer,Furniture,6,147.51,885.06,495.37,389.69,West
+TXN-10145,2025-08-16,CUST-1143,Corporate,Smart Bluetooth Speaker,Technology,10,79.85,798.5,396.3,402.2,West
+TXN-10146,2025-12-28,CUST-1088,Corporate,UltraWide Monitor 34,Technology,6,387.39,2324.34,1649.12,675.22,North
+TXN-11539,2025-03-14,CUST-1056,Corporate,High-Speed USB-C Cable,Technology,2,18.7,37.4,11.02,26.38,East
+TXN-10147,2025-03-14,CUST-1017,Home Office,Smart Bluetooth Speaker,Technology,5,80.32,401.6,200.32,201.28,South
+TXN-10148,2025-12-03,CUST-1057,Corporate,Wireless Mouse M2,Technology,3,25.87,77.61,30.84,46.77,East
+TXN-10149,2025-03-12,CUST-1068,Corporate,Gel Pens (Pack of 12),Office Supplies,1,14.42,14.42,4.38,10.04,West
+TXN-10150,2025-09-30,CUST-1134,Corporate,Wireless Mouse M2,Technology,2,24.6,49.2,19.45,29.75,South
+TXN-10151,2025-10-06,CUST-1086,Consumer,Smart Bluetooth Speaker,Technology,1,79.11,79.11,39.68,39.43,East
+TXN-10152,2025-06-28,CUST-1014,Consumer,Ergonomic Chair,Furniture,3,252.09,756.27,488.78,267.49,North
+TXN-10153,2025-08-04,CUST-1082,Consumer,Smart Bluetooth Speaker,Technology,2,77.22,154.44,77.3,77.14,West
+TXN-10154,2025-12-28,CUST-1137,Corporate,Gel Pens (Pack of 12),Office Supplies,1,15.42,15.42,4.69,10.73,West
+TXN-10155,2025-06-05,CUST-1115,Corporate,Smart Bluetooth Speaker,Technology,3,80.81,242.43,119.54,122.89,West
+TXN-10156,2025-09-09,CUST-1138,Home Office,Wireless Mouse M2,Technology,9,24.67,222.03,89.72,132.31,East
+TXN-10157,2025-10-20,CUST-1088,Corporate,Gel Pens (Pack of 12),Office Supplies,1,15.11,15.11,4.5,10.61,West
+TXN-10159,2025-07-13,CUST-1138,Corporate,Wireless Mouse M2,Technology,5,24.17,120.85,48.65,72.2,North
+TXN-10160,2025-06-01,CUST-1121,Home Office,Gel Pens (Pack of 12),Office Supplies,10,15.0,150.0,44.66,105.34,West
+TXN-10161,2025-02-04,CUST-1020,Home Office,Wireless Mouse M2,Technology,9,26.1,234.9,92.17,142.73,East
+TXN-10162,2025-11-09,CUST-1069,Consumer,Smart Bluetooth Speaker,Technology,10,82.92,829.2,407.8,421.4,East
+TXN-10163,2025-10-02,CUST-1138,Home Office,Gel Pens (Pack of 12),Office Supplies,7,15.47,108.29,32.61,75.68,West
+TXN-10164,2025-08-28,CUST-1037,Home Office,Gel Pens (Pack of 12),Office Supplies,8,14.31,114.48,34.64,79.84,South
+TXN-10166,2025-10-15,CUST-1074,Consumer,Filing Cabinet 3-Drawer,Furniture,1,150.67,150.67,82.9,67.77,West
+TXN-10168,2025-04-05,CUST-1138,Consumer,Pro Laptop 15,Technology,7,1199.29,8395.03,5962.15,2432.88,East
+TXN-11660,2025-06-20,CUST-1075,Home Office,Filing Cabinet 3-Drawer,Furniture,2,142.81,285.62,154.49,131.13,West
+TXN-11619,2025-11-14,CUST-1087,Home Office,Standing Desk Frame,Furniture,3,309.58,928.74,551.39,377.35,South
+TXN-10169,2025-08-04,CUST-1044,Corporate,Filing Cabinet 3-Drawer,Furniture,1,147.02,147.02,81.6,65.42,North
+TXN-10170,2025-01-22,CUST-1054,Home Office,UltraWide Monitor 34,Technology,5,384.2,1921.0,1394.07,526.93,East
+TXN-10171,2025-04-21,CUST-1018,Home Office,Executive Wooden Desk,Furniture,10,471.33,4713.3,2790.74,1922.56,West
+TXN-10172,2025-08-03,CUST-1052,Corporate,Standing Desk Frame,Furniture,8,288.07,2304.56,1380.89,923.67,East
+TXN-10173,2025-03-21,CUST-1033,Consumer,Wireless Mouse M2,Technology,9,25.35,228.15,92.26,135.89,North
+TXN-10175,2025-09-22,CUST-1102,Corporate,Standing Desk Frame,Furniture,6,292.88,1757.28,1042.77,714.51,North
+TXN-10176,2025-02-11,CUST-1090,Corporate,Premium Notebook A5,Office Supplies,8,11.45,91.6,32.68,58.92,West
+TXN-10177,2025-07-25,CUST-1092,Corporate,Sticky Notes Pastel,Office Supplies,9,7.78,70.02,17.16,52.86,East
+TXN-10178,2025-05-25,CUST-1129,Home Office,High-Speed USB-C Cable,Technology,5,17.57,87.85,26.13,61.72,West
+TXN-10179,2025-01-08,CUST-1049,Home Office,Gel Pens (Pack of 12),Office Supplies,4,15.57,62.28,18.93,43.35,East
+TXN-10180,2025-06-14,CUST-1058,Consumer,Filing Cabinet 3-Drawer,Furniture,2,150.95,301.9,168.31,133.59,East
+TXN-10181,2025-05-07,CUST-1086,Home Office,Smart Bluetooth Speaker,Technology,7,78.77,551.39,275.92,275.47,North
+TXN-10182,2025-07-23,CUST-1046,Corporate,Executive Wooden Desk,Furniture,8,458.08,3664.64,2199.52,1465.12,West
+TXN-10183,2025-03-08,CUST-1004,Corporate,Sticky Notes Pastel,Office Supplies,10,7.8,78.0,19.6,58.4,East
+TXN-10185,2025-06-07,CUST-1121,Home Office,Pro Laptop 15,Technology,5,1184.79,5923.95,4187.05,1736.9,East
+TXN-10186,2025-01-16,CUST-1145,Home Office,Gel Pens (Pack of 12),Office Supplies,4,15.18,60.72,18.06,42.66,East
+TXN-10189,2025-02-26,CUST-1106,Consumer,High-Speed USB-C Cable,Technology,9,17.74,159.66,47.98,111.68,West
+TXN-10190,2025-04-02,CUST-1147,Corporate,UltraWide Monitor 34,Technology,6,415.64,2493.84,1767.14,726.7,East
+TXN-10192,2025-05-16,CUST-1115,Consumer,Smart Bluetooth Speaker,Technology,10,83.23,832.3,415.07,417.23,East
+TXN-10193,2025-12-12,CUST-1047,Corporate,Gel Pens (Pack of 12),Office Supplies,8,14.66,117.28,35.82,81.46,West
+TXN-10194,2025-03-06,CUST-1036,Consumer,Ergonomic Chair,Furniture,7,259.78,1818.46,1188.18,630.28,West
+TXN-10195,2025-03-27,CUST-1113,Home Office,Pro Laptop 15,Technology,9,1168.89,10520.01,7316.67,3203.34,West
+TXN-10196,2025-07-29,CUST-1128,Corporate,Ergonomic Chair,Furniture,2,250.61,501.22,322.38,178.84,South
+TXN-10197,2025-05-06,CUST-1071,Corporate,Ergonomic Chair,Furniture,7,239.1,1673.7,1088.07,585.63,South
+TXN-10198,2025-05-19,CUST-1090,Home Office,Wireless Mouse M2,Technology,6,25.51,153.06,62.2,90.86,West
+TXN-10199,2025-06-11,CUST-1148,Consumer,Sticky Notes Pastel,Office Supplies,6,7.91,47.46,11.68,35.78,East
+TXN-10200,2025-03-09,CUST-1139,Home Office,Gel Pens (Pack of 12),Office Supplies,2,14.62,29.24,8.79,20.45,West
+TXN-10201,2025-10-21,CUST-1101,Corporate,UltraWide Monitor 34,Technology,2,391.09,782.18,573.34,208.84,East
+TXN-10202,2025-08-13,CUST-1035,Corporate,Smart Bluetooth Speaker,Technology,2,82.87,165.74,81.26,84.48,East
+TXN-10918,2025-07-28,CUST-1144,Home Office,Gel Pens (Pack of 12),Office Supplies,5,14.76,73.8,22.46,51.34,South
+TXN-10203,2025-10-21,CUST-1095,Consumer,Ergonomic Chair,Furniture,6,245.49,1472.94,958.59,514.35,West
+TXN-10204,2025-02-26,CUST-1129,Corporate,Standing Desk Frame,Furniture,6,309.05,1854.3,1090.7,763.6,South
+TXN-10205,2025-10-16,CUST-1147,Corporate,UltraWide Monitor 34,Technology,7,383.63,2685.41,1933.23,752.18,East
+TXN-10206,2025-12-21,CUST-1105,Home Office,High-Speed USB-C Cable,Technology,6,17.92,107.52,32.07,75.45,East
+TXN-10207,2025-05-14,CUST-1057,Corporate,Premium Notebook A5,Office Supplies,8,11.45,91.6,32.56,59.04,South
+TXN-10208,2025-12-06,CUST-1006,Consumer,Smart Bluetooth Speaker,Technology,5,81.79,408.95,205.09,203.86,South
+TXN-10209,2025-05-16,CUST-1126,Home Office,Pro Laptop 15,Technology,2,1168.4,2336.8,1619.4,717.4,West
+TXN-10210,2025-08-28,CUST-1107,Corporate,Gel Pens (Pack of 12),Office Supplies,9,14.86,133.74,40.27,93.47,South
+TXN-10211,2025-01-26,CUST-1081,Corporate,Standing Desk Frame,Furniture,6,293.39,1760.34,1073.28,687.06,South
+TXN-10212,2025-08-28,CUST-1130,Home Office,Filing Cabinet 3-Drawer,Furniture,2,147.02,294.04,160.19,133.85,East
+TXN-10213,2025-10-24,CUST-1111,Consumer,Sticky Notes Pastel,Office Supplies,2,7.75,15.5,3.94,11.56,North
+TXN-10214,2025-04-10,CUST-1017,Consumer,Ergonomic Chair,Furniture,8,255.83,2046.64,1306.98,739.66,East
+TXN-10215,2025-04-29,CUST-1146,Home Office,Ergonomic Chair,Furniture,9,255.72,2301.48,1522.66,778.82,North
+TXN-10217,2025-01-25,CUST-1096,Consumer,Executive Wooden Desk,Furniture,7,444.18,3109.26,1864.0,1245.26,South
+TXN-10218,2025-05-27,CUST-1068,Home Office,Wireless Mouse M2,Technology,2,24.15,48.3,19.41,28.89,North
+TXN-10219,2025-09-24,CUST-1119,Corporate,Standing Desk Frame,Furniture,2,303.0,606.0,370.81,235.19,North
+TXN-10220,2025-02-18,CUST-1146,Home Office,Filing Cabinet 3-Drawer,Furniture,7,150.57,1053.99,576.74,477.25,East
+TXN-10221,2025-10-19,CUST-1136,Home Office,Filing Cabinet 3-Drawer,Furniture,2,147.47,294.94,165.14,129.8,North
+TXN-10222,2025-09-27,CUST-1115,Corporate,High-Speed USB-C Cable,Technology,1,18.87,18.87,5.72,13.15,South
+TXN-10223,2025-07-13,CUST-1042,Corporate,Premium Notebook A5,Office Supplies,1,11.78,11.78,4.13,7.65,North
+TXN-10224,2025-08-10,CUST-1046,Corporate,UltraWide Monitor 34,Technology,9,401.1,3609.9,2620.79,989.11,North
+TXN-10225,2025-03-15,CUST-1097,Home Office,Ergonomic Chair,Furniture,2,245.73,491.46,320.78,170.68,West
+TXN-10226,2025-11-06,CUST-1002,Home Office,Gel Pens (Pack of 12),Office Supplies,10,15.27,152.7,46.36,106.34,North
+TXN-10227,2025-04-02,CUST-1026,Home Office,Ergonomic Chair,Furniture,4,249.06,996.24,656.62,339.62,West
+TXN-10228,2025-05-09,CUST-1080,Corporate,High-Speed USB-C Cable,Technology,3,17.82,53.46,16.3,37.16,West
+TXN-10229,2025-08-04,CUST-1101,Corporate,Pro Laptop 15,Technology,10,1243.61,12436.1,8873.16,3562.94,East
+TXN-10230,2025-10-07,CUST-1028,Home Office,UltraWide Monitor 34,Technology,7,400.69,2804.83,2035.47,769.36,East
+TXN-10231,2025-11-28,CUST-1085,Corporate,UltraWide Monitor 34,Technology,6,419.46,2516.76,1820.62,696.14,West
+TXN-10232,2025-03-06,CUST-1120,Corporate,High-Speed USB-C Cable,Technology,8,17.6,140.8,41.65,99.15,South
+TXN-10233,2025-08-14,CUST-1113,Consumer,Sticky Notes Pastel,Office Supplies,10,7.88,78.8,19.56,59.24,South
+TXN-10234,2025-06-05,CUST-1079,Corporate,Premium Notebook A5,Office Supplies,8,12.15,97.2,34.33,62.87,West
+TXN-10235,2025-07-13,CUST-1147,Consumer,UltraWide Monitor 34,Technology,3,395.72,1187.16,869.59,317.57,South
+TXN-10236,2025-07-13,CUST-1009,Corporate,Smart Bluetooth Speaker,Technology,8,81.01,648.08,327.54,320.54,East
+TXN-10237,2025-04-12,CUST-1107,Corporate,Wireless Mouse M2,Technology,10,26.17,261.7,103.21,158.49,East
+TXN-10238,2025-07-11,CUST-1107,Consumer,Gel Pens (Pack of 12),Office Supplies,4,14.52,58.08,17.55,40.53,South
+TXN-10239,2025-05-25,CUST-1108,Home Office,Gel Pens (Pack of 12),Office Supplies,10,15.47,154.7,45.78,108.92,South
+TXN-10240,2025-02-23,CUST-1002,Consumer,High-Speed USB-C Cable,Technology,9,17.99,161.91,48.78,113.13,West
+TXN-10241,2025-04-04,CUST-1071,Home Office,Ergonomic Chair,Furniture,1,242.56,242.56,154.66,87.9,East
+TXN-10242,2025-03-27,CUST-1106,Corporate,Pro Laptop 15,Technology,3,1147.62,3442.86,2424.81,1018.05,South
+TXN-10243,2025-04-10,CUST-1105,Consumer,Standing Desk Frame,Furniture,9,286.93,2582.37,1531.86,1050.51,West
+TXN-10244,2025-11-04,CUST-1096,Home Office,Ergonomic Chair,Furniture,1,256.2,256.2,164.15,92.05,South
+TXN-10245,2025-07-11,CUST-1115,Consumer,Pro Laptop 15,Technology,2,1183.04,2366.08,1637.33,728.75,North
+TXN-10246,2025-12-22,CUST-1150,Home Office,Gel Pens (Pack of 12),Office Supplies,1,14.38,14.38,4.33,10.05,West
+TXN-10247,2025-12-26,CUST-1103,Corporate,Smart Bluetooth Speaker,Technology,10,77.63,776.3,389.62,386.68,East
+TXN-10248,2025-10-06,CUST-1026,Consumer,Standing Desk Frame,Furniture,3,294.38,883.14,538.45,344.69,South
+TXN-10249,2025-05-28,CUST-1104,Home Office,Premium Notebook A5,Office Supplies,2,11.5,23.0,8.0,15.0,North
+TXN-10250,2025-02-22,CUST-1039,Consumer,UltraWide Monitor 34,Technology,4,417.22,1668.88,1224.12,444.76,North
+TXN-10251,2025-10-26,CUST-1111,Home Office,High-Speed USB-C Cable,Technology,1,17.81,17.81,5.3,12.51,South
+TXN-10253,2025-11-26,CUST-1006,Consumer,High-Speed USB-C Cable,Technology,10,18.89,188.9,55.63,133.27,North
+TXN-10254,2025-04-14,CUST-1148,Consumer,Premium Notebook A5,Office Supplies,5,11.61,58.05,20.06,37.99,West
+TXN-10255,2025-01-14,CUST-1029,Home Office,Smart Bluetooth Speaker,Technology,10,79.76,797.6,394.57,403.03,South
+TXN-10256,2025-04-25,CUST-1035,Corporate,Sticky Notes Pastel,Office Supplies,7,8.09,56.63,14.04,42.59,South
+TXN-10258,2025-09-30,CUST-1001,Home Office,Wireless Mouse M2,Technology,8,24.29,194.32,77.65,116.67,West
+TXN-10259,2025-05-27,CUST-1095,Corporate,Smart Bluetooth Speaker,Technology,10,83.16,831.6,414.89,416.71,North
+TXN-10260,2025-07-17,CUST-1113,Consumer,Premium Notebook A5,Office Supplies,3,11.9,35.7,12.46,23.24,West
+TXN-10261,2025-03-27,CUST-1053,Corporate,Smart Bluetooth Speaker,Technology,7,77.14,539.98,271.23,268.75,North
+TXN-10262,2025-04-20,CUST-1086,Home Office,Sticky Notes Pastel,Office Supplies,1,7.68,7.68,1.92,5.76,East
+TXN-10263,2025-06-18,CUST-1099,Corporate,UltraWide Monitor 34,Technology,10,393.31,3933.1,2804.69,1128.41,South
+TXN-10264,2025-09-07,CUST-1021,Corporate,High-Speed USB-C Cable,Technology,5,17.51,87.55,26.69,60.86,West
+TXN-10265,2025-03-06,CUST-1131,Corporate,Sticky Notes Pastel,Office Supplies,4,7.81,31.24,7.75,23.49,East
+TXN-10266,2025-05-29,CUST-1103,Consumer,UltraWide Monitor 34,Technology,2,415.49,830.98,601.88,229.1,West
+TXN-10267,2025-11-30,CUST-1018,Corporate,UltraWide Monitor 34,Technology,9,401.15,3610.35,2582.84,1027.51,West
+TXN-10268,2025-03-28,CUST-1099,Corporate,Sticky Notes Pastel,Office Supplies,7,8.22,57.54,14.57,42.97,North
+TXN-10269,2025-01-29,CUST-1123,Corporate,Ergonomic Chair,Furniture,7,250.51,1753.57,1143.68,609.89,North
+TXN-10270,2025-06-03,CUST-1065,Consumer,UltraWide Monitor 34,Technology,3,397.77,1193.31,857.99,335.32,North
+TXN-10271,2025-01-04,CUST-1102,Home Office,Wireless Mouse M2,Technology,3,25.51,76.53,30.24,46.29,South
+TXN-10272,2025-05-24,CUST-1066,Consumer,UltraWide Monitor 34,Technology,5,411.13,2055.65,1451.49,604.16,North
+TXN-10273,2025-06-20,CUST-1108,Consumer,Filing Cabinet 3-Drawer,Furniture,8,155.2,1241.6,683.5,558.1,South
+TXN-10274,2025-10-31,CUST-1094,Consumer,High-Speed USB-C Cable,Technology,6,17.46,104.76,30.8,73.96,West
+TXN-10275,2025-12-05,CUST-1139,Corporate,Executive Wooden Desk,Furniture,4,456.64,1826.56,1097.03,729.53,East
+TXN-10276,2025-09-04,CUST-1092,Consumer,Sticky Notes Pastel,Office Supplies,3,8.15,24.45,6.1,18.35,West
+TXN-10278,2025-01-09,CUST-1126,Home Office,Smart Bluetooth Speaker,Technology,10,78.12,781.2,384.19,397.01,West
+TXN-10279,2025-12-11,CUST-1061,Home Office,High-Speed USB-C Cable,Technology,4,18.61,74.44,22.42,52.02,West
+TXN-10280,2025-12-19,CUST-1054,Corporate,Pro Laptop 15,Technology,6,1149.73,6898.38,4924.75,1973.63,South
+TXN-10282,2025-11-20,CUST-1027,Corporate,Pro Laptop 15,Technology,4,1157.79,4631.16,3264.04,1367.12,East
+TXN-11220,2025-08-29,CUST-1068,Home Office,Executive Wooden Desk,Furniture,8,443.27,3546.16,2163.16,1383.0,South
+TXN-10283,2025-06-20,CUST-1007,Consumer,UltraWide Monitor 34,Technology,7,409.34,2865.38,2023.53,841.85,West
+TXN-10284,2025-07-17,CUST-1023,Home Office,Premium Notebook A5,Office Supplies,3,12.22,36.66,12.66,24.0,East
+TXN-10285,2025-03-11,CUST-1143,Corporate,High-Speed USB-C Cable,Technology,6,17.88,107.28,32.07,75.21,North
+TXN-10286,2025-02-10,CUST-1017,Corporate,Sticky Notes Pastel,Office Supplies,5,8.27,41.35,10.45,30.9,East
+TXN-10287,2025-08-28,CUST-1083,Corporate,Ergonomic Chair,Furniture,2,259.37,518.74,340.81,177.93,West
+TXN-10288,2025-06-13,CUST-1146,Home Office,Wireless Mouse M2,Technology,1,25.44,25.44,10.3,15.14,West
+TXN-10290,2025-12-26,CUST-1113,Home Office,Sticky Notes Pastel,Office Supplies,7,8.19,57.33,14.29,43.04,North
+TXN-10291,2025-02-23,CUST-1007,Home Office,Filing Cabinet 3-Drawer,Furniture,4,145.57,582.28,314.84,267.44,South
+TXN-10292,2025-01-03,CUST-1064,Home Office,Wireless Mouse M2,Technology,8,24.38,195.04,77.33,117.71,North
+TXN-11061,2025-01-25,CUST-1081,Consumer,High-Speed USB-C Cable,Technology,6,17.99,107.94,32.38,75.56,West
+TXN-10293,2025-03-16,CUST-1001,Home Office,Ergonomic Chair,Furniture,1,241.38,241.38,157.11,84.27,East
+TXN-10294,2025-04-05,CUST-1113,Home Office,Ergonomic Chair,Furniture,3,242.62,727.86,464.74,263.12,North
+TXN-10295,2025-11-28,CUST-1074,Consumer,Standing Desk Frame,Furniture,4,311.63,1246.52,746.91,499.61,West
+TXN-10296,2025-05-06,CUST-1083,Consumer,Premium Notebook A5,Office Supplies,8,11.72,93.76,32.72,61.04,South
+TXN-10297,2025-12-03,CUST-1008,Corporate,Wireless Mouse M2,Technology,6,24.47,146.82,57.7,89.12,West
+TXN-10298,2025-03-30,CUST-1066,Consumer,Premium Notebook A5,Office Supplies,1,11.65,11.65,4.09,7.56,East
+TXN-10299,2025-02-18,CUST-1018,Corporate,Standing Desk Frame,Furniture,1,308.26,308.26,183.78,124.48,North
+TXN-10300,2025-02-04,CUST-1055,Corporate,Sticky Notes Pastel,Office Supplies,8,8.31,66.48,16.72,49.76,West
+TXN-10302,2025-09-30,CUST-1032,Corporate,Pro Laptop 15,Technology,3,1250.46,3751.38,2580.2,1171.18,West
+TXN-10303,2025-05-26,CUST-1020,Corporate,Standing Desk Frame,Furniture,9,311.9,2807.1,1676.96,1130.14,East
+TXN-10304,2025-02-05,CUST-1042,Consumer,Premium Notebook A5,Office Supplies,6,12.11,72.66,25.34,47.32,South
+TXN-10305,2025-05-23,CUST-1033,Corporate,Executive Wooden Desk,Furniture,7,466.68,3266.76,1979.98,1286.78,South
+TXN-10306,2025-03-07,CUST-1120,Corporate,Executive Wooden Desk,Furniture,2,438.05,876.1,515.32,360.78,East
+TXN-10307,2025-12-09,CUST-1043,Home Office,Ergonomic Chair,Furniture,6,259.95,1559.7,997.9,561.8,East
+TXN-10308,2025-08-06,CUST-1040,Home Office,Sticky Notes Pastel,Office Supplies,3,8.34,25.02,6.25,18.77,South
+TXN-10309,2025-08-12,CUST-1013,Corporate,Ergonomic Chair,Furniture,8,260.43,2083.44,1352.15,731.29,North
+TXN-10311,2025-07-25,CUST-1112,Corporate,UltraWide Monitor 34,Technology,6,391.55,2349.3,1710.53,638.77,North
+TXN-10312,2025-07-23,CUST-1001,Consumer,Filing Cabinet 3-Drawer,Furniture,5,147.31,736.55,401.05,335.5,South
+TXN-10313,2025-07-10,CUST-1120,Home Office,Standing Desk Frame,Furniture,9,299.9,2699.1,1646.99,1052.11,West
+TXN-10315,2025-05-16,CUST-1029,Consumer,Pro Laptop 15,Technology,10,1211.87,12118.7,8644.27,3474.43,West
+TXN-10316,2025-08-28,CUST-1007,Consumer,Smart Bluetooth Speaker,Technology,4,82.76,331.04,163.2,167.84,South
+TXN-10317,2025-04-29,CUST-1024,Home Office,Smart Bluetooth Speaker,Technology,6,82.21,493.26,249.54,243.72,South
+TXN-10318,2025-09-06,CUST-1132,Corporate,Wireless Mouse M2,Technology,4,25.81,103.24,41.49,61.75,West
+TXN-10319,2025-11-04,CUST-1058,Home Office,Executive Wooden Desk,Furniture,6,449.75,2698.5,1599.13,1099.37,East
+TXN-10320,2025-01-17,CUST-1076,Home Office,Standing Desk Frame,Furniture,5,299.98,1499.9,894.09,605.81,East
+TXN-10321,2025-04-26,CUST-1006,Corporate,Pro Laptop 15,Technology,4,1192.66,4770.64,3287.45,1483.19,South
+TXN-10322,2025-10-31,CUST-1118,Consumer,Wireless Mouse M2,Technology,10,26.22,262.2,104.83,157.37,North
+TXN-10323,2025-01-05,CUST-1042,Corporate,Gel Pens (Pack of 12),Office Supplies,1,14.38,14.38,4.31,10.07,East
+TXN-10325,2025-03-15,CUST-1141,Home Office,Smart Bluetooth Speaker,Technology,3,81.49,244.47,123.12,121.35,South
+TXN-10326,2025-11-01,CUST-1094,Consumer,Sticky Notes Pastel,Office Supplies,10,8.25,82.5,20.74,61.76,West
+TXN-10327,2025-02-02,CUST-1112,Consumer,Ergonomic Chair,Furniture,6,242.43,1454.58,956.39,498.19,North
+TXN-10328,2025-04-12,CUST-1121,Home Office,Wireless Mouse M2,Technology,2,25.41,50.82,20.56,30.26,West
+TXN-10329,2025-02-28,CUST-1118,Home Office,Filing Cabinet 3-Drawer,Furniture,1,153.92,153.92,83.79,70.13,West
+TXN-11370,2025-01-15,CUST-1113,Consumer,UltraWide Monitor 34,Technology,7,390.83,2735.81,1948.44,787.37,East
+TXN-10331,2025-08-18,CUST-1098,Home Office,Sticky Notes Pastel,Office Supplies,9,8.04,72.36,18.08,54.28,West
+TXN-10332,2025-03-14,CUST-1015,Corporate,High-Speed USB-C Cable,Technology,10,17.47,174.7,53.35,121.35,South
+TXN-10333,2025-04-08,CUST-1133,Home Office,Premium Notebook A5,Office Supplies,7,12.24,85.68,29.83,55.85,North
+TXN-10334,2025-04-19,CUST-1072,Home Office,UltraWide Monitor 34,Technology,9,384.78,3463.02,2528.35,934.67,West
+TXN-10335,2025-04-17,CUST-1055,Corporate,UltraWide Monitor 34,Technology,3,393.41,1180.23,858.15,322.08,West
+TXN-10336,2025-10-28,CUST-1023,Corporate,Smart Bluetooth Speaker,Technology,8,80.35,642.8,316.32,326.48,South
+TXN-10337,2025-03-16,CUST-1149,Home Office,UltraWide Monitor 34,Technology,3,416.24,1248.72,903.57,345.15,East
+TXN-10338,2025-06-05,CUST-1027,Corporate,Pro Laptop 15,Technology,9,1230.98,11078.82,7617.8,3461.02,West
+TXN-10339,2025-01-17,CUST-1037,Home Office,High-Speed USB-C Cable,Technology,3,17.33,51.99,15.78,36.21,South
+TXN-10340,2025-11-26,CUST-1027,Corporate,Smart Bluetooth Speaker,Technology,6,76.07,456.42,228.62,227.8,South
+TXN-10341,2025-02-03,CUST-1086,Corporate,Premium Notebook A5,Office Supplies,1,12.26,12.26,4.37,7.89,West
+TXN-10343,2025-03-15,CUST-1026,Home Office,Gel Pens (Pack of 12),Office Supplies,7,15.37,107.59,31.69,75.9,West
+TXN-10344,2025-07-22,CUST-1101,Consumer,High-Speed USB-C Cable,Technology,6,18.6,111.6,33.41,78.19,West
+TXN-10345,2025-01-05,CUST-1042,Corporate,High-Speed USB-C Cable,Technology,4,17.11,68.44,20.49,47.95,West
+TXN-10346,2025-06-09,CUST-1112,Corporate,Filing Cabinet 3-Drawer,Furniture,6,156.98,941.88,527.64,414.24,West
+TXN-10347,2025-12-31,CUST-1129,Corporate,Ergonomic Chair,Furniture,10,251.86,2518.6,1617.19,901.41,North
+TXN-10348,2025-12-25,CUST-1143,Home Office,Gel Pens (Pack of 12),Office Supplies,10,14.52,145.2,42.96,102.24,North
+TXN-10349,2025-01-13,CUST-1047,Consumer,UltraWide Monitor 34,Technology,9,399.46,3595.14,2574.84,1020.3,South
+TXN-10350,2025-07-22,CUST-1147,Consumer,Pro Laptop 15,Technology,7,1234.63,8642.41,5970.18,2672.23,East
+TXN-10351,2025-11-09,CUST-1086,Corporate,Ergonomic Chair,Furniture,7,240.71,1684.97,1090.85,594.12,South
+TXN-10353,2025-09-24,CUST-1138,Consumer,High-Speed USB-C Cable,Technology,4,17.78,71.12,21.29,49.83,North
+TXN-10354,2025-04-13,CUST-1119,Home Office,Premium Notebook A5,Office Supplies,4,11.49,45.96,15.98,29.98,North
+TXN-10355,2025-08-14,CUST-1071,Home Office,Executive Wooden Desk,Furniture,10,428.9,4289.0,2579.83,1709.17,North
+TXN-10356,2025-10-08,CUST-1045,Home Office,Filing Cabinet 3-Drawer,Furniture,1,143.1,143.1,77.23,65.87,North
+TXN-10357,2025-07-29,CUST-1092,Corporate,Wireless Mouse M2,Technology,1,24.12,24.12,9.82,14.3,North
+TXN-10358,2025-01-15,CUST-1106,Consumer,Premium Notebook A5,Office Supplies,2,11.95,23.9,8.5,15.4,West
+TXN-10359,2025-08-05,CUST-1149,Home Office,Filing Cabinet 3-Drawer,Furniture,1,155.68,155.68,85.89,69.79,East
+TXN-10360,2025-01-01,CUST-1068,Home Office,Sticky Notes Pastel,Office Supplies,2,7.81,15.62,3.9,11.72,East
+TXN-10361,2025-03-19,CUST-1012,Home Office,Ergonomic Chair,Furniture,4,249.06,996.24,649.95,346.29,East
+TXN-10362,2025-10-30,CUST-1102,Home Office,Pro Laptop 15,Technology,8,1231.02,9848.16,6995.15,2853.01,West
+TXN-10363,2025-08-11,CUST-1091,Consumer,Premium Notebook A5,Office Supplies,7,12.34,86.38,30.63,55.75,East
+TXN-10364,2025-01-24,CUST-1071,Consumer,Pro Laptop 15,Technology,2,1183.31,2366.62,1667.28,699.34,East
+TXN-10365,2025-10-16,CUST-1130,Home Office,Executive Wooden Desk,Furniture,5,433.7,2168.5,1322.79,845.71,West
+TXN-10366,2025-03-24,CUST-1028,Home Office,UltraWide Monitor 34,Technology,7,402.58,2818.06,2046.76,771.3,West
+TXN-10367,2025-12-18,CUST-1067,Corporate,Executive Wooden Desk,Furniture,1,460.02,460.02,277.44,182.58,West
+TXN-10369,2025-08-22,CUST-1114,Corporate,Ergonomic Chair,Furniture,3,256.61,769.83,506.32,263.51,West
+TXN-10370,2025-01-12,CUST-1022,Home Office,Executive Wooden Desk,Furniture,8,456.17,3649.36,2188.52,1460.84,South
+TXN-10371,2025-08-31,CUST-1113,Consumer,Premium Notebook A5,Office Supplies,10,11.94,119.4,41.23,78.17,East
+TXN-10372,2025-08-30,CUST-1101,Corporate,Pro Laptop 15,Technology,8,1228.27,9826.16,6972.64,2853.52,East
+TXN-10373,2025-12-01,CUST-1101,Consumer,Wireless Mouse M2,Technology,5,23.94,119.7,48.19,71.51,East
+TXN-10374,2025-10-04,CUST-1019,Corporate,Standing Desk Frame,Furniture,6,297.32,1783.92,1086.23,697.69,West
+TXN-10375,2025-11-04,CUST-1101,Consumer,UltraWide Monitor 34,Technology,10,386.61,3866.1,2732.17,1133.93,South
+TXN-10377,2025-11-09,CUST-1149,Corporate,Pro Laptop 15,Technology,7,1168.61,8180.27,5710.65,2469.62,South
+TXN-10378,2025-01-25,CUST-1085,Home Office,High-Speed USB-C Cable,Technology,6,17.22,103.32,30.56,72.76,South
+TXN-10379,2025-06-07,CUST-1029,Home Office,High-Speed USB-C Cable,Technology,1,18.83,18.83,5.64,13.19,North
+TXN-10380,2025-02-19,CUST-1063,Consumer,UltraWide Monitor 34,Technology,7,392.6,2748.2,1974.03,774.17,West
+TXN-10381,2025-01-13,CUST-1039,Home Office,High-Speed USB-C Cable,Technology,8,17.81,142.48,42.47,100.01,West
+TXN-10382,2025-08-17,CUST-1046,Corporate,High-Speed USB-C Cable,Technology,3,18.2,54.6,16.42,38.18,West
+TXN-10383,2025-10-28,CUST-1111,Home Office,Wireless Mouse M2,Technology,1,24.35,24.35,9.58,14.77,East
+TXN-10384,2025-11-05,CUST-1146,Home Office,Smart Bluetooth Speaker,Technology,8,82.26,658.08,335.23,322.85,South
+TXN-10385,2025-03-24,CUST-1069,Consumer,Standing Desk Frame,Furniture,7,304.73,2133.11,1269.41,863.7,West
+TXN-10386,2025-12-26,CUST-1091,Consumer,High-Speed USB-C Cable,Technology,4,17.73,70.92,21.69,49.23,West
+TXN-10387,2025-08-30,CUST-1094,Home Office,UltraWide Monitor 34,Technology,5,390.44,1952.2,1388.6,563.6,East
+TXN-10388,2025-09-11,CUST-1143,Corporate,Pro Laptop 15,Technology,10,1144.5,11445.0,7875.3,3569.7,South
+TXN-10389,2025-04-14,CUST-1136,Home Office,Pro Laptop 15,Technology,2,1166.06,2332.12,1646.71,685.41,South
+TXN-10390,2025-02-03,CUST-1149,Consumer,Filing Cabinet 3-Drawer,Furniture,9,152.35,1371.15,754.96,616.19,East
+TXN-10391,2025-10-21,CUST-1045,Corporate,Standing Desk Frame,Furniture,9,311.72,2805.48,1690.86,1114.62,West
+TXN-10392,2025-08-06,CUST-1022,Home Office,Ergonomic Chair,Furniture,7,250.42,1752.94,1143.44,609.5,South
+TXN-10393,2025-02-14,CUST-1113,Consumer,Sticky Notes Pastel,Office Supplies,8,8.17,65.36,16.43,48.93,South
+TXN-10394,2025-04-21,CUST-1142,Corporate,Standing Desk Frame,Furniture,9,313.47,2821.23,1704.02,1117.21,West
+TXN-10395,2025-10-31,CUST-1149,Home Office,Sticky Notes Pastel,Office Supplies,2,8.29,16.58,4.18,12.4,East
+TXN-10396,2025-03-26,CUST-1063,Home Office,Ergonomic Chair,Furniture,2,260.83,521.66,333.65,188.01,South
+TXN-10397,2025-09-07,CUST-1032,Consumer,Pro Laptop 15,Technology,3,1199.4,3598.2,2506.15,1092.05,North
+TXN-10398,2025-06-19,CUST-1043,Corporate,Pro Laptop 15,Technology,4,1196.38,4785.52,3310.14,1475.38,East
+TXN-10399,2025-11-30,CUST-1020,Home Office,Premium Notebook A5,Office Supplies,9,12.16,109.44,38.45,70.99,East
+TXN-10400,2025-09-10,CUST-1116,Home Office,Executive Wooden Desk,Furniture,5,435.05,2175.25,1325.81,849.44,North
+TXN-10401,2025-09-17,CUST-1088,Corporate,UltraWide Monitor 34,Technology,8,386.08,3088.64,2199.11,889.53,South
+TXN-10402,2025-09-03,CUST-1082,Home Office,Premium Notebook A5,Office Supplies,1,11.44,11.44,3.95,7.49,South
+TXN-10403,2025-05-05,CUST-1096,Corporate,UltraWide Monitor 34,Technology,5,412.75,2063.75,1478.47,585.28,South
+TXN-10404,2025-09-29,CUST-1052,Consumer,Standing Desk Frame,Furniture,8,306.73,2453.84,1486.78,967.06,South
+TXN-10405,2025-11-04,CUST-1040,Corporate,Smart Bluetooth Speaker,Technology,7,77.74,544.18,267.79,276.39,East
+TXN-10406,2025-08-11,CUST-1055,Consumer,High-Speed USB-C Cable,Technology,8,17.99,143.92,42.59,101.33,East
+TXN-10407,2025-08-20,CUST-1112,Home Office,Sticky Notes Pastel,Office Supplies,2,7.9,15.8,4.01,11.79,South
+TXN-10408,2025-06-01,CUST-1135,Consumer,Executive Wooden Desk,Furniture,9,463.84,4174.56,2472.17,1702.39,West
+TXN-10409,2025-09-24,CUST-1058,Home Office,Sticky Notes Pastel,Office Supplies,2,8.06,16.12,4.03,12.09,West
+TXN-10410,2025-11-16,CUST-1046,Home Office,Gel Pens (Pack of 12),Office Supplies,6,14.29,85.74,25.47,60.27,North
+TXN-10411,2025-02-15,CUST-1072,Home Office,Wireless Mouse M2,Technology,4,23.92,95.68,38.36,57.32,West
+TXN-10412,2025-08-18,CUST-1007,Consumer,Gel Pens (Pack of 12),Office Supplies,7,15.23,106.61,32.47,74.14,South
+TXN-10413,2025-12-01,CUST-1148,Corporate,Filing Cabinet 3-Drawer,Furniture,9,155.74,1401.66,785.77,615.89,South
+TXN-10414,2025-02-14,CUST-1120,Home Office,UltraWide Monitor 34,Technology,9,394.12,3547.08,2552.83,994.25,East
+TXN-10415,2025-10-05,CUST-1139,Home Office,Standing Desk Frame,Furniture,8,300.28,2402.24,1417.56,984.68,South
+TXN-10417,2025-10-28,CUST-1113,Home Office,UltraWide Monitor 34,Technology,8,396.65,3173.2,2286.93,886.27,East
+TXN-10418,2025-12-29,CUST-1047,Corporate,Ergonomic Chair,Furniture,6,261.37,1568.22,1039.1,529.12,South
+TXN-10419,2025-02-17,CUST-1005,Consumer,Gel Pens (Pack of 12),Office Supplies,2,14.46,28.92,8.83,20.09,South
+TXN-11630,2025-01-15,CUST-1031,Home Office,UltraWide Monitor 34,Technology,8,380.36,3042.88,2224.65,818.23,North
+TXN-10420,2025-08-24,CUST-1008,Home Office,UltraWide Monitor 34,Technology,9,416.1,3744.9,2722.92,1021.98,West
+TXN-11901,2025-04-04,CUST-1004,Home Office,Smart Bluetooth Speaker,Technology,10,77.49,774.9,394.27,380.63,North
+TXN-10421,2025-07-03,CUST-1133,Corporate,Sticky Notes Pastel,Office Supplies,3,7.66,22.98,5.83,17.15,North
+TXN-10422,2025-03-16,CUST-1056,Corporate,Filing Cabinet 3-Drawer,Furniture,6,149.37,896.22,486.2,410.02,West
+TXN-10423,2025-08-03,CUST-1009,Corporate,UltraWide Monitor 34,Technology,5,415.38,2076.9,1513.85,563.05,North
+TXN-10424,2025-10-31,CUST-1138,Consumer,Filing Cabinet 3-Drawer,Furniture,9,152.77,1374.93,750.02,624.91,North
+TXN-10425,2025-01-10,CUST-1150,Corporate,Filing Cabinet 3-Drawer,Furniture,7,149.95,1049.65,567.02,482.63,South
+TXN-10426,2025-08-13,CUST-1140,Consumer,Smart Bluetooth Speaker,Technology,1,78.62,78.62,39.52,39.1,South
+TXN-10427,2025-04-01,CUST-1080,Corporate,High-Speed USB-C Cable,Technology,3,18.46,55.38,16.62,38.76,West
+TXN-10428,2025-06-01,CUST-1049,Corporate,Pro Laptop 15,Technology,3,1243.0,3729.0,2608.81,1120.19,West
+TXN-10429,2025-12-24,CUST-1117,Corporate,UltraWide Monitor 34,Technology,4,396.5,1586.0,1139.22,446.78,South
+TXN-10430,2025-01-31,CUST-1023,Consumer,Premium Notebook A5,Office Supplies,6,12.47,74.82,26.0,48.82,West
+TXN-10432,2025-02-19,CUST-1108,Home Office,High-Speed USB-C Cable,Technology,5,18.53,92.65,27.51,65.14,North
+TXN-10433,2025-01-23,CUST-1039,Corporate,Sticky Notes Pastel,Office Supplies,8,8.09,64.72,16.01,48.71,North
+TXN-10434,2025-08-17,CUST-1138,Consumer,Wireless Mouse M2,Technology,3,24.52,73.56,29.73,43.83,North
+TXN-10435,2025-12-06,CUST-1146,Home Office,UltraWide Monitor 34,Technology,5,407.57,2037.85,1447.28,590.57,West
+TXN-10436,2025-07-26,CUST-1144,Corporate,Gel Pens (Pack of 12),Office Supplies,8,15.0,120.0,36.32,83.68,West
+TXN-10437,2025-11-30,CUST-1049,Consumer,Wireless Mouse M2,Technology,9,26.24,236.16,94.16,142.0,North
+TXN-10438,2025-11-22,CUST-1001,Corporate,Gel Pens (Pack of 12),Office Supplies,5,15.4,77.0,23.12,53.88,West
+TXN-10439,2025-01-31,CUST-1097,Consumer,Gel Pens (Pack of 12),Office Supplies,4,15.59,62.36,18.4,43.96,North
+TXN-10440,2025-12-25,CUST-1041,Corporate,Gel Pens (Pack of 12),Office Supplies,2,14.39,28.78,8.8,19.98,South
+TXN-10441,2025-11-13,CUST-1025,Home Office,High-Speed USB-C Cable,Technology,8,18.17,145.36,44.33,101.03,East
+TXN-10443,2025-05-15,CUST-1108,Home Office,Smart Bluetooth Speaker,Technology,10,80.76,807.6,402.27,405.33,East
+TXN-10444,2025-07-22,CUST-1040,Corporate,Premium Notebook A5,Office Supplies,5,12.14,60.7,21.37,39.33,East
+TXN-10445,2025-05-30,CUST-1113,Consumer,UltraWide Monitor 34,Technology,4,415.08,1660.32,1189.79,470.53,East
+TXN-10446,2025-03-19,CUST-1099,Corporate,Standing Desk Frame,Furniture,10,295.26,2952.6,1799.31,1153.29,South
+TXN-10447,2025-08-04,CUST-1025,Consumer,UltraWide Monitor 34,Technology,2,409.85,819.7,583.13,236.57,North
+TXN-10448,2025-07-15,CUST-1146,Consumer,Executive Wooden Desk,Furniture,6,466.38,2798.28,1689.04,1109.24,West
+TXN-10449,2025-04-25,CUST-1084,Corporate,Executive Wooden Desk,Furniture,1,445.25,445.25,269.06,176.19,South
+TXN-10450,2025-07-09,CUST-1083,Corporate,Gel Pens (Pack of 12),Office Supplies,5,15.17,75.85,23.13,52.72,North
+TXN-10451,2025-04-24,CUST-1035,Home Office,High-Speed USB-C Cable,Technology,9,17.5,157.5,48.07,109.43,South
+TXN-10452,2025-05-18,CUST-1013,Consumer,High-Speed USB-C Cable,Technology,1,17.39,17.39,5.16,12.23,North
+TXN-10453,2025-01-31,CUST-1095,Home Office,Standing Desk Frame,Furniture,4,307.53,1230.12,736.72,493.4,South
+TXN-10454,2025-06-02,CUST-1052,Home Office,UltraWide Monitor 34,Technology,4,391.91,1567.64,1135.91,431.73,East
+TXN-10455,2025-05-28,CUST-1069,Consumer,Executive Wooden Desk,Furniture,1,439.83,439.83,267.06,172.77,East
+TXN-11331,2025-12-29,CUST-1063,Consumer,Smart Bluetooth Speaker,Technology,6,82.19,493.14,243.17,249.97,North
+TXN-10456,2025-08-15,CUST-1074,Home Office,Smart Bluetooth Speaker,Technology,6,81.61,489.66,242.92,246.74,East
+TXN-10458,2025-09-29,CUST-1123,Consumer,Smart Bluetooth Speaker,Technology,3,78.6,235.8,118.68,117.12,East
+TXN-10459,2025-12-29,CUST-1058,Consumer,Premium Notebook A5,Office Supplies,6,12.1,72.6,25.62,46.98,North
+TXN-10460,2025-11-16,CUST-1119,Consumer,Standing Desk Frame,Furniture,9,293.78,2644.02,1575.04,1068.98,North
+TXN-10461,2025-08-29,CUST-1131,Home Office,Filing Cabinet 3-Drawer,Furniture,2,142.51,285.02,159.81,125.21,East
+TXN-10462,2025-08-01,CUST-1002,Corporate,Wireless Mouse M2,Technology,10,24.35,243.5,95.94,147.56,South
+TXN-10463,2025-07-04,CUST-1076,Consumer,High-Speed USB-C Cable,Technology,10,18.03,180.3,54.83,125.47,North
+TXN-10464,2025-09-28,CUST-1065,Corporate,High-Speed USB-C Cable,Technology,6,18.53,111.18,33.35,77.83,West
+TXN-10465,2025-04-27,CUST-1080,Home Office,Wireless Mouse M2,Technology,4,23.83,95.32,38.75,56.57,North
+TXN-10466,2025-03-17,CUST-1141,Consumer,UltraWide Monitor 34,Technology,5,399.46,1997.3,1451.24,546.06,West
+TXN-10467,2025-04-04,CUST-1085,Corporate,Ergonomic Chair,Furniture,4,240.23,960.92,629.4,331.52,West
+TXN-10468,2025-11-20,CUST-1143,Consumer,UltraWide Monitor 34,Technology,4,385.75,1543.0,1090.44,452.56,South
+TXN-10469,2025-12-03,CUST-1014,Home Office,Sticky Notes Pastel,Office Supplies,7,7.74,54.18,13.3,40.88,East
+TXN-11377,2025-10-23,CUST-1135,Corporate,Premium Notebook A5,Office Supplies,8,12.16,97.28,34.31,62.97,West
+TXN-10470,2025-01-04,CUST-1032,Corporate,Filing Cabinet 3-Drawer,Furniture,6,154.26,925.56,506.47,419.09,East
+TXN-10471,2025-09-24,CUST-1075,Corporate,Sticky Notes Pastel,Office Supplies,1,8.09,8.09,2.0,6.09,West
+TXN-10472,2025-12-06,CUST-1021,Home Office,Premium Notebook A5,Office Supplies,5,11.92,59.6,20.61,38.99,East
+TXN-10689,2025-07-08,CUST-1004,Consumer,Smart Bluetooth Speaker,Technology,4,78.52,314.08,154.72,159.36,West
+TXN-10474,2025-05-09,CUST-1070,Home Office,Executive Wooden Desk,Furniture,8,467.59,3740.72,2222.74,1517.98,East
+TXN-10475,2025-05-17,CUST-1057,Corporate,Executive Wooden Desk,Furniture,10,442.45,4424.5,2652.49,1772.01,West
+TXN-10476,2025-11-28,CUST-1037,Home Office,Ergonomic Chair,Furniture,9,249.32,2243.88,1443.94,799.94,South
+TXN-10477,2025-02-06,CUST-1144,Consumer,Executive Wooden Desk,Furniture,2,448.49,896.98,548.32,348.66,North
+TXN-10478,2025-04-28,CUST-1108,Home Office,Premium Notebook A5,Office Supplies,8,11.85,94.8,33.83,60.97,South
+TXN-10479,2025-07-02,CUST-1126,Consumer,Premium Notebook A5,Office Supplies,6,12.4,74.4,25.97,48.43,West
+TXN-10480,2025-10-06,CUST-1107,Corporate,Smart Bluetooth Speaker,Technology,5,77.55,387.75,192.75,195.0,West
+TXN-10481,2025-03-23,CUST-1022,Corporate,Filing Cabinet 3-Drawer,Furniture,4,147.47,589.88,330.69,259.19,North
+TXN-10482,2025-09-21,CUST-1078,Consumer,Executive Wooden Desk,Furniture,9,450.45,4054.05,2401.62,1652.43,West
+TXN-10483,2025-10-23,CUST-1071,Home Office,Pro Laptop 15,Technology,3,1225.01,3675.03,2567.01,1108.02,East
+TXN-10484,2025-12-28,CUST-1119,Home Office,Wireless Mouse M2,Technology,1,25.17,25.17,10.19,14.98,North
+TXN-10485,2025-01-09,CUST-1116,Consumer,Filing Cabinet 3-Drawer,Furniture,3,143.67,431.01,238.13,192.88,South
+TXN-10486,2025-11-06,CUST-1044,Home Office,Premium Notebook A5,Office Supplies,2,11.52,23.04,8.23,14.81,East
+TXN-10487,2025-05-27,CUST-1045,Home Office,Filing Cabinet 3-Drawer,Furniture,8,142.88,1143.04,635.99,507.05,South
+TXN-10488,2025-02-10,CUST-1016,Home Office,Filing Cabinet 3-Drawer,Furniture,7,144.5,1011.5,566.44,445.06,South
+TXN-10489,2025-10-31,CUST-1019,Home Office,High-Speed USB-C Cable,Technology,10,18.18,181.8,54.9,126.9,West
+TXN-10490,2025-02-15,CUST-1048,Corporate,Smart Bluetooth Speaker,Technology,7,83.05,581.35,295.67,285.68,East
+TXN-10491,2025-02-21,CUST-1075,Consumer,Executive Wooden Desk,Furniture,6,436.59,2619.54,1600.02,1019.52,East
+TXN-10492,2025-05-09,CUST-1106,Corporate,Premium Notebook A5,Office Supplies,1,11.78,11.78,4.15,7.63,South
+TXN-10493,2025-12-13,CUST-1041,Corporate,Gel Pens (Pack of 12),Office Supplies,4,14.47,57.88,17.64,40.24,North
+TXN-10494,2025-12-14,CUST-1086,Consumer,Filing Cabinet 3-Drawer,Furniture,6,145.4,872.4,482.87,389.53,North
+TXN-10495,2025-09-23,CUST-1113,Corporate,Filing Cabinet 3-Drawer,Furniture,1,156.33,156.33,87.64,68.69,South
+TXN-10497,2025-09-22,CUST-1090,Home Office,Gel Pens (Pack of 12),Office Supplies,1,14.67,14.67,4.45,10.22,East
+TXN-10498,2025-01-04,CUST-1075,Corporate,Pro Laptop 15,Technology,7,1154.12,8078.84,5553.39,2525.45,East
+TXN-10499,2025-03-24,CUST-1104,Home Office,Premium Notebook A5,Office Supplies,6,11.58,69.48,24.6,44.88,North
+TXN-10500,2025-04-21,CUST-1141,Corporate,Ergonomic Chair,Furniture,2,251.15,502.3,324.18,178.12,East
+TXN-10501,2025-01-07,CUST-1100,Consumer,UltraWide Monitor 34,Technology,7,409.12,2863.84,2059.1,804.74,South
+TXN-10502,2025-10-27,CUST-1040,Consumer,Premium Notebook A5,Office Supplies,5,12.0,60.0,20.99,39.01,North
+TXN-10503,2025-12-12,CUST-1018,Home Office,Standing Desk Frame,Furniture,2,285.15,570.3,336.65,233.65,West
+TXN-10504,2025-07-02,CUST-1009,Consumer,UltraWide Monitor 34,Technology,8,387.57,3100.56,2236.74,863.82,East
+TXN-10505,2025-07-04,CUST-1112,Consumer,Filing Cabinet 3-Drawer,Furniture,6,145.94,875.64,475.65,399.99,North
+TXN-10506,2025-06-01,CUST-1039,Corporate,Ergonomic Chair,Furniture,10,260.52,2605.2,1716.31,888.89,West
+TXN-10507,2025-01-14,CUST-1045,Home Office,Wireless Mouse M2,Technology,2,24.81,49.62,19.95,29.67,East
+TXN-10508,2025-06-16,CUST-1095,Corporate,Premium Notebook A5,Office Supplies,2,12.42,24.84,8.54,16.3,North
+TXN-10511,2025-04-18,CUST-1003,Consumer,High-Speed USB-C Cable,Technology,2,17.29,34.58,10.19,24.39,West
+TXN-10512,2025-05-10,CUST-1046,Consumer,Filing Cabinet 3-Drawer,Furniture,7,155.57,1088.99,601.78,487.21,South
+TXN-10513,2025-01-09,CUST-1077,Consumer,Filing Cabinet 3-Drawer,Furniture,5,148.98,744.9,413.27,331.63,East
+TXN-10514,2025-11-27,CUST-1059,Consumer,Sticky Notes Pastel,Office Supplies,6,7.74,46.44,11.5,34.94,East
+TXN-10515,2025-09-27,CUST-1141,Corporate,Filing Cabinet 3-Drawer,Furniture,6,149.95,899.7,488.27,411.43,South
+TXN-10516,2025-12-17,CUST-1043,Consumer,Executive Wooden Desk,Furniture,3,438.98,1316.94,779.23,537.71,South
+TXN-10517,2025-08-03,CUST-1097,Corporate,UltraWide Monitor 34,Technology,1,402.58,402.58,290.7,111.88,South
+TXN-10518,2025-11-24,CUST-1057,Consumer,Gel Pens (Pack of 12),Office Supplies,3,14.96,44.88,13.25,31.63,North
+TXN-10519,2025-01-18,CUST-1051,Corporate,Smart Bluetooth Speaker,Technology,6,80.09,480.54,239.12,241.42,East
+TXN-10520,2025-02-08,CUST-1131,Consumer,UltraWide Monitor 34,Technology,4,416.13,1664.52,1222.26,442.26,South
+TXN-10521,2025-01-04,CUST-1001,Home Office,Ergonomic Chair,Furniture,9,251.56,2264.04,1459.17,804.87,North
+TXN-10522,2025-10-20,CUST-1112,Consumer,Gel Pens (Pack of 12),Office Supplies,2,15.67,31.34,9.5,21.84,West
+TXN-10523,2025-06-10,CUST-1004,Corporate,Pro Laptop 15,Technology,3,1222.11,3666.33,2519.5,1146.83,North
+TXN-10524,2025-04-25,CUST-1098,Consumer,Ergonomic Chair,Furniture,4,256.32,1025.28,653.51,371.77,South
+TXN-10525,2025-08-04,CUST-1116,Corporate,Standing Desk Frame,Furniture,10,303.57,3035.7,1838.72,1196.98,South
+TXN-10526,2025-11-06,CUST-1065,Consumer,Wireless Mouse M2,Technology,5,25.71,128.55,50.66,77.89,North
+TXN-10527,2025-03-13,CUST-1060,Consumer,Gel Pens (Pack of 12),Office Supplies,9,15.11,135.99,40.96,95.03,South
+TXN-10528,2025-08-15,CUST-1004,Corporate,Gel Pens (Pack of 12),Office Supplies,10,15.72,157.2,47.68,109.52,East
+TXN-10530,2025-08-17,CUST-1058,Consumer,Ergonomic Chair,Furniture,9,253.55,2281.95,1475.97,805.98,North
+TXN-10531,2025-04-21,CUST-1084,Home Office,Gel Pens (Pack of 12),Office Supplies,4,15.44,61.76,18.33,43.43,East
+TXN-10532,2025-03-11,CUST-1141,Home Office,Ergonomic Chair,Furniture,10,244.23,2442.3,1589.94,852.36,North
+TXN-10533,2025-04-11,CUST-1027,Corporate,UltraWide Monitor 34,Technology,5,391.17,1955.85,1425.42,530.43,West
+TXN-10534,2025-04-24,CUST-1027,Consumer,Filing Cabinet 3-Drawer,Furniture,9,153.54,1381.86,759.33,622.53,East
+TXN-10627,2025-03-13,CUST-1149,Home Office,Filing Cabinet 3-Drawer,Furniture,10,153.88,1538.8,856.34,682.46,North
+TXN-10535,2025-03-29,CUST-1061,Home Office,Executive Wooden Desk,Furniture,1,442.63,442.63,267.17,175.46,East
+TXN-10536,2025-10-03,CUST-1130,Home Office,Pro Laptop 15,Technology,9,1208.27,10874.43,7563.17,3311.26,South
+TXN-10537,2025-02-23,CUST-1094,Home Office,Smart Bluetooth Speaker,Technology,1,79.78,79.78,39.2,40.58,East
+TXN-10538,2025-05-23,CUST-1146,Home Office,Ergonomic Chair,Furniture,9,244.11,2196.99,1430.24,766.75,East
+TXN-10539,2025-05-23,CUST-1009,Home Office,UltraWide Monitor 34,Technology,6,399.34,2396.04,1755.34,640.7,South
+TXN-10540,2025-08-12,CUST-1078,Corporate,Wireless Mouse M2,Technology,9,25.36,228.24,92.28,135.96,East
+TXN-10541,2025-02-10,CUST-1031,Corporate,Gel Pens (Pack of 12),Office Supplies,3,14.45,43.35,13.14,30.21,East
+TXN-10542,2025-03-23,CUST-1019,Home Office,Standing Desk Frame,Furniture,9,297.01,2673.09,1628.98,1044.11,South
+TXN-10543,2025-09-11,CUST-1032,Consumer,Executive Wooden Desk,Furniture,1,447.27,447.27,267.91,179.36,West
+TXN-10544,2025-12-13,CUST-1003,Consumer,Premium Notebook A5,Office Supplies,10,12.31,123.1,42.36,80.74,West
+TXN-10545,2025-05-26,CUST-1041,Home Office,Filing Cabinet 3-Drawer,Furniture,9,149.19,1342.71,743.06,599.65,East
+TXN-10547,2025-05-02,CUST-1142,Consumer,Gel Pens (Pack of 12),Office Supplies,7,14.85,103.95,31.1,72.85,South
+TXN-10548,2025-05-16,CUST-1014,Corporate,Sticky Notes Pastel,Office Supplies,10,7.72,77.2,19.01,58.19,North
+TXN-10549,2025-07-01,CUST-1110,Corporate,Gel Pens (Pack of 12),Office Supplies,3,14.36,43.08,13.06,30.02,South
+TXN-10550,2025-12-12,CUST-1064,Home Office,Ergonomic Chair,Furniture,5,245.62,1228.1,804.65,423.45,North
+TXN-10551,2025-12-08,CUST-1086,Home Office,UltraWide Monitor 34,Technology,5,401.49,2007.45,1465.64,541.81,East
+TXN-10552,2025-06-14,CUST-1110,Home Office,Sticky Notes Pastel,Office Supplies,9,7.97,71.73,18.21,53.52,South
+TXN-10553,2025-06-27,CUST-1136,Consumer,Filing Cabinet 3-Drawer,Furniture,3,149.92,449.76,251.42,198.34,West
+TXN-10554,2025-04-17,CUST-1027,Corporate,Filing Cabinet 3-Drawer,Furniture,4,152.44,609.76,330.43,279.33,East
+TXN-10555,2025-06-08,CUST-1021,Consumer,Ergonomic Chair,Furniture,6,255.95,1535.7,994.67,541.03,West
+TXN-10556,2025-12-31,CUST-1057,Home Office,Gel Pens (Pack of 12),Office Supplies,2,14.77,29.54,9.01,20.53,West
+TXN-10557,2025-12-16,CUST-1038,Corporate,Standing Desk Frame,Furniture,1,305.65,305.65,183.6,122.05,East
+TXN-10558,2025-06-20,CUST-1087,Corporate,Wireless Mouse M2,Technology,5,24.24,121.2,49.06,72.14,North
+TXN-10559,2025-03-13,CUST-1022,Home Office,High-Speed USB-C Cable,Technology,6,18.8,112.8,33.17,79.63,North
+TXN-10560,2025-11-15,CUST-1136,Corporate,Gel Pens (Pack of 12),Office Supplies,5,15.46,77.3,23.46,53.84,East
+TXN-10561,2025-12-22,CUST-1088,Corporate,Executive Wooden Desk,Furniture,1,437.81,437.81,263.52,174.29,East
+TXN-10564,2025-06-22,CUST-1108,Home Office,Smart Bluetooth Speaker,Technology,5,83.93,419.65,207.52,212.13,West
+TXN-10565,2025-11-12,CUST-1113,Home Office,Wireless Mouse M2,Technology,4,25.01,100.04,40.74,59.3,North
+TXN-10566,2025-07-24,CUST-1038,Corporate,Premium Notebook A5,Office Supplies,5,12.13,60.65,21.43,39.22,South
+TXN-10567,2025-06-13,CUST-1106,Home Office,UltraWide Monitor 34,Technology,2,388.57,777.14,569.49,207.65,West
+TXN-10568,2025-05-18,CUST-1061,Home Office,Gel Pens (Pack of 12),Office Supplies,3,15.21,45.63,13.77,31.86,North
+TXN-10569,2025-11-26,CUST-1014,Home Office,Filing Cabinet 3-Drawer,Furniture,10,157.04,1570.4,856.5,713.9,East
+TXN-10570,2025-11-06,CUST-1080,Consumer,Filing Cabinet 3-Drawer,Furniture,9,156.32,1406.88,769.0,637.88,West
+TXN-10572,2025-08-24,CUST-1107,Corporate,Pro Laptop 15,Technology,7,1173.82,8216.74,5661.33,2555.41,West
+TXN-10573,2025-03-28,CUST-1034,Home Office,Gel Pens (Pack of 12),Office Supplies,4,14.88,59.52,18.16,41.36,West
+TXN-10574,2025-07-17,CUST-1067,Corporate,High-Speed USB-C Cable,Technology,1,17.25,17.25,5.08,12.17,East
+TXN-10575,2025-12-30,CUST-1032,Home Office,Smart Bluetooth Speaker,Technology,8,80.09,640.72,318.76,321.96,South
+TXN-10576,2025-04-25,CUST-1040,Home Office,Smart Bluetooth Speaker,Technology,5,79.54,397.7,201.47,196.23,West
+TXN-10577,2025-10-09,CUST-1071,Consumer,Ergonomic Chair,Furniture,10,240.77,2407.7,1593.42,814.28,North
+TXN-10578,2025-09-11,CUST-1101,Corporate,Pro Laptop 15,Technology,7,1166.82,8167.74,5704.35,2463.39,South
+TXN-10579,2025-12-21,CUST-1044,Corporate,Gel Pens (Pack of 12),Office Supplies,2,15.15,30.3,9.02,21.28,West
+TXN-10580,2025-12-09,CUST-1140,Consumer,High-Speed USB-C Cable,Technology,5,18.47,92.35,27.25,65.1,South
+TXN-10581,2025-05-22,CUST-1013,Home Office,Smart Bluetooth Speaker,Technology,7,80.09,560.63,279.42,281.21,North
+TXN-10582,2025-10-08,CUST-1037,Consumer,UltraWide Monitor 34,Technology,8,417.28,3338.24,2412.55,925.69,West
+TXN-10583,2025-09-17,CUST-1073,Corporate,Smart Bluetooth Speaker,Technology,6,77.01,462.06,231.49,230.57,East
+TXN-10584,2025-11-23,CUST-1071,Home Office,High-Speed USB-C Cable,Technology,1,17.25,17.25,5.07,12.18,North
+TXN-10585,2025-03-21,CUST-1042,Corporate,Executive Wooden Desk,Furniture,5,463.79,2318.95,1405.75,913.2,South
+TXN-10587,2025-11-16,CUST-1112,Corporate,Pro Laptop 15,Technology,2,1165.98,2331.96,1619.08,712.88,East
+TXN-10588,2025-04-14,CUST-1140,Consumer,Wireless Mouse M2,Technology,6,24.28,145.68,57.56,88.12,East
+TXN-10589,2025-07-07,CUST-1049,Home Office,Ergonomic Chair,Furniture,10,256.55,2565.5,1653.72,911.78,South
+TXN-10590,2025-10-16,CUST-1129,Corporate,Wireless Mouse M2,Technology,5,25.83,129.15,52.47,76.68,North
+TXN-10591,2025-09-07,CUST-1140,Consumer,Pro Laptop 15,Technology,1,1189.5,1189.5,825.51,363.99,South
+TXN-10592,2025-11-30,CUST-1136,Home Office,Smart Bluetooth Speaker,Technology,6,79.77,478.62,239.98,238.64,West
+TXN-10593,2025-11-11,CUST-1086,Corporate,Gel Pens (Pack of 12),Office Supplies,10,15.7,157.0,46.82,110.18,West
+TXN-10594,2025-11-29,CUST-1120,Home Office,Wireless Mouse M2,Technology,5,25.76,128.8,50.59,78.21,West
+TXN-10596,2025-02-24,CUST-1120,Corporate,Pro Laptop 15,Technology,4,1173.42,4693.68,3243.8,1449.88,West
+TXN-10597,2025-09-15,CUST-1111,Home Office,Pro Laptop 15,Technology,7,1254.19,8779.33,6129.73,2649.6,East
+TXN-10598,2025-12-22,CUST-1018,Corporate,Sticky Notes Pastel,Office Supplies,6,8.37,50.22,12.69,37.53,South
+TXN-10599,2025-04-06,CUST-1001,Home Office,Wireless Mouse M2,Technology,5,25.47,127.35,51.51,75.84,East
+TXN-10600,2025-01-19,CUST-1047,Home Office,Sticky Notes Pastel,Office Supplies,5,7.87,39.35,9.72,29.63,North
+TXN-10601,2025-12-12,CUST-1003,Corporate,UltraWide Monitor 34,Technology,10,380.15,3801.5,2756.47,1045.03,South
+TXN-10602,2025-06-29,CUST-1129,Consumer,Pro Laptop 15,Technology,6,1205.15,7230.9,4982.09,2248.81,North
+TXN-10603,2025-01-15,CUST-1134,Consumer,Filing Cabinet 3-Drawer,Furniture,9,152.73,1374.57,747.63,626.94,East
+TXN-10604,2025-07-01,CUST-1100,Home Office,Pro Laptop 15,Technology,10,1147.59,11475.9,7897.71,3578.19,East
+TXN-10605,2025-07-04,CUST-1100,Consumer,UltraWide Monitor 34,Technology,2,380.11,760.22,552.15,208.07,North
+TXN-10606,2025-08-16,CUST-1129,Consumer,Standing Desk Frame,Furniture,7,289.6,2027.2,1238.21,788.99,West
+TXN-10607,2025-01-27,CUST-1141,Corporate,Ergonomic Chair,Furniture,1,261.17,261.17,167.33,93.84,North
+TXN-10608,2025-04-03,CUST-1125,Home Office,Gel Pens (Pack of 12),Office Supplies,5,15.69,78.45,23.82,54.63,East
+TXN-10609,2025-01-17,CUST-1056,Corporate,UltraWide Monitor 34,Technology,10,405.14,4051.4,2922.68,1128.72,West
+TXN-10610,2025-11-05,CUST-1061,Home Office,Filing Cabinet 3-Drawer,Furniture,5,145.24,726.2,392.73,333.47,South
+TXN-11399,2025-10-09,CUST-1112,Consumer,Standing Desk Frame,Furniture,6,303.43,1820.58,1108.73,711.85,East
+TXN-10611,2025-04-14,CUST-1031,Consumer,Standing Desk Frame,Furniture,9,309.81,2788.29,1689.7,1098.59,North
+TXN-10612,2025-07-25,CUST-1104,Consumer,Pro Laptop 15,Technology,10,1153.0,11530.0,8202.44,3327.56,East
+TXN-10613,2025-11-08,CUST-1037,Consumer,Sticky Notes Pastel,Office Supplies,4,8.09,32.36,7.97,24.39,East
+TXN-10616,2025-03-21,CUST-1034,Consumer,Ergonomic Chair,Furniture,4,261.44,1045.76,680.27,365.49,East
+TXN-10618,2025-01-06,CUST-1056,Home Office,Premium Notebook A5,Office Supplies,2,12.07,24.14,8.45,15.69,West
+TXN-10619,2025-03-16,CUST-1119,Consumer,Wireless Mouse M2,Technology,2,24.0,48.0,19.16,28.84,West
+TXN-10620,2025-08-28,CUST-1134,Corporate,Gel Pens (Pack of 12),Office Supplies,2,14.69,29.38,8.81,20.57,West
+TXN-10621,2025-04-06,CUST-1081,Consumer,Standing Desk Frame,Furniture,10,291.33,2913.3,1715.06,1198.24,East
+TXN-10622,2025-03-04,CUST-1139,Consumer,Smart Bluetooth Speaker,Technology,7,83.27,582.89,287.48,295.41,West
+TXN-10624,2025-04-27,CUST-1019,Corporate,UltraWide Monitor 34,Technology,3,393.89,1181.67,863.8,317.87,West
+TXN-10625,2025-04-03,CUST-1126,Consumer,Ergonomic Chair,Furniture,5,257.42,1287.1,827.35,459.75,North
+TXN-10626,2025-04-06,CUST-1148,Home Office,Gel Pens (Pack of 12),Office Supplies,7,15.56,108.92,33.06,75.86,East
+TXN-10628,2025-03-10,CUST-1141,Home Office,Standing Desk Frame,Furniture,2,289.38,578.76,342.57,236.19,North
+TXN-10630,2025-06-17,CUST-1127,Corporate,Ergonomic Chair,Furniture,7,242.42,1696.94,1105.73,591.21,East
+TXN-10631,2025-11-29,CUST-1001,Consumer,Sticky Notes Pastel,Office Supplies,5,8.33,41.65,10.34,31.31,North
+TXN-10632,2025-07-15,CUST-1076,Home Office,Filing Cabinet 3-Drawer,Furniture,7,152.44,1067.08,577.82,489.26,East
+TXN-10633,2025-12-22,CUST-1043,Consumer,Ergonomic Chair,Furniture,4,251.54,1006.16,661.65,344.51,South
+TXN-10634,2025-03-02,CUST-1105,Home Office,UltraWide Monitor 34,Technology,7,399.46,2796.22,2006.85,789.37,West
+TXN-10635,2025-02-04,CUST-1033,Corporate,Wireless Mouse M2,Technology,7,24.55,171.85,69.43,102.42,East
+TXN-10636,2025-01-17,CUST-1081,Consumer,Gel Pens (Pack of 12),Office Supplies,5,14.77,73.85,22.05,51.8,West
+TXN-10637,2025-10-03,CUST-1013,Consumer,Premium Notebook A5,Office Supplies,5,11.78,58.9,20.34,38.56,East
+TXN-10638,2025-01-30,CUST-1113,Home Office,Executive Wooden Desk,Furniture,3,471.97,1415.91,834.68,581.23,East
+TXN-10639,2025-06-17,CUST-1008,Corporate,High-Speed USB-C Cable,Technology,8,18.86,150.88,44.65,106.23,North
+TXN-10640,2025-05-19,CUST-1044,Consumer,Gel Pens (Pack of 12),Office Supplies,6,15.66,93.96,28.17,65.79,West
+TXN-10641,2025-01-11,CUST-1032,Consumer,UltraWide Monitor 34,Technology,6,414.13,2484.78,1782.83,701.95,West
+TXN-10642,2025-11-19,CUST-1116,Corporate,Ergonomic Chair,Furniture,8,246.77,1974.16,1282.02,692.14,North
+TXN-10644,2025-03-06,CUST-1021,Consumer,Executive Wooden Desk,Furniture,3,467.42,1402.26,843.32,558.94,East
+TXN-10645,2025-03-24,CUST-1018,Consumer,Premium Notebook A5,Office Supplies,3,11.77,35.31,12.34,22.97,West
+TXN-10646,2025-01-31,CUST-1086,Home Office,Gel Pens (Pack of 12),Office Supplies,8,14.3,114.4,34.09,80.31,South
+TXN-10647,2025-04-08,CUST-1149,Home Office,UltraWide Monitor 34,Technology,4,395.45,1581.8,1140.95,440.85,South
+TXN-10648,2025-05-11,CUST-1063,Corporate,Premium Notebook A5,Office Supplies,7,11.76,82.32,28.93,53.39,North
+TXN-10649,2025-03-04,CUST-1116,Corporate,Wireless Mouse M2,Technology,8,25.56,204.48,80.57,123.91,West
+TXN-10650,2025-02-15,CUST-1005,Corporate,Standing Desk Frame,Furniture,9,290.28,2612.52,1544.26,1068.26,North
+TXN-10651,2025-11-03,CUST-1074,Corporate,Premium Notebook A5,Office Supplies,9,11.67,105.03,36.12,68.91,West
+TXN-10653,2025-12-05,CUST-1145,Home Office,Sticky Notes Pastel,Office Supplies,10,8.1,81.0,20.15,60.85,West
+TXN-11281,2025-12-14,CUST-1115,Consumer,Sticky Notes Pastel,Office Supplies,1,8.25,8.25,2.07,6.18,North
+TXN-10655,2025-09-28,CUST-1022,Corporate,UltraWide Monitor 34,Technology,10,418.85,4188.5,3023.26,1165.24,West
+TXN-10656,2025-05-22,CUST-1085,Consumer,Wireless Mouse M2,Technology,4,25.89,103.56,41.47,62.09,West
+TXN-10657,2025-10-30,CUST-1051,Corporate,High-Speed USB-C Cable,Technology,6,18.24,109.44,32.51,76.93,West
+TXN-10658,2025-01-12,CUST-1006,Corporate,Gel Pens (Pack of 12),Office Supplies,6,14.51,87.06,26.54,60.52,South
+TXN-10659,2025-09-27,CUST-1081,Consumer,Executive Wooden Desk,Furniture,4,449.05,1796.2,1096.4,699.8,West
+TXN-10660,2025-03-16,CUST-1104,Home Office,Pro Laptop 15,Technology,3,1208.37,3625.11,2544.46,1080.65,West
+TXN-10661,2025-01-01,CUST-1092,Home Office,Ergonomic Chair,Furniture,2,238.29,476.58,315.73,160.85,East
+TXN-10662,2025-03-05,CUST-1141,Consumer,Wireless Mouse M2,Technology,5,25.33,126.65,51.46,75.19,North
+TXN-10663,2025-09-05,CUST-1097,Corporate,Pro Laptop 15,Technology,5,1160.21,5801.05,4111.2,1689.85,North
+TXN-10664,2025-01-01,CUST-1103,Home Office,Standing Desk Frame,Furniture,3,300.42,901.26,534.09,367.17,North
+TXN-10665,2025-11-15,CUST-1149,Corporate,Wireless Mouse M2,Technology,9,25.33,227.97,90.03,137.94,South
+TXN-10666,2025-11-07,CUST-1112,Home Office,Premium Notebook A5,Office Supplies,1,12.11,12.11,4.17,7.94,East
+TXN-10667,2025-04-16,CUST-1087,Home Office,Gel Pens (Pack of 12),Office Supplies,5,15.23,76.15,23.08,53.07,East
+TXN-10668,2025-08-26,CUST-1007,Consumer,Ergonomic Chair,Furniture,6,242.89,1457.34,944.36,512.98,North
+TXN-10669,2025-09-23,CUST-1134,Corporate,Pro Laptop 15,Technology,3,1225.26,3675.78,2533.35,1142.43,West
+TXN-10670,2025-12-09,CUST-1146,Corporate,Standing Desk Frame,Furniture,7,291.8,2042.6,1240.47,802.13,North
+TXN-10671,2025-03-28,CUST-1104,Home Office,Sticky Notes Pastel,Office Supplies,7,8.13,56.91,14.14,42.77,North
+TXN-10672,2025-11-30,CUST-1054,Consumer,Sticky Notes Pastel,Office Supplies,2,8.32,16.64,4.12,12.52,North
+TXN-10674,2025-08-30,CUST-1121,Corporate,UltraWide Monitor 34,Technology,6,386.51,2319.06,1688.97,630.09,South
+TXN-10677,2025-07-08,CUST-1068,Home Office,UltraWide Monitor 34,Technology,7,415.31,2907.17,2068.16,839.01,West
+TXN-10678,2025-04-05,CUST-1144,Home Office,Smart Bluetooth Speaker,Technology,3,78.28,234.84,117.19,117.65,East
+TXN-10679,2025-05-26,CUST-1029,Consumer,High-Speed USB-C Cable,Technology,2,18.49,36.98,11.09,25.89,West
+TXN-10681,2025-10-27,CUST-1004,Corporate,Wireless Mouse M2,Technology,8,25.76,206.08,80.85,125.23,North
+TXN-10682,2025-01-15,CUST-1013,Home Office,UltraWide Monitor 34,Technology,8,418.01,3344.08,2364.93,979.15,East
+TXN-10684,2025-05-25,CUST-1050,Consumer,Ergonomic Chair,Furniture,6,243.82,1462.92,954.7,508.22,South
+TXN-10685,2025-09-25,CUST-1091,Consumer,Gel Pens (Pack of 12),Office Supplies,5,15.54,77.7,23.01,54.69,East
+TXN-10688,2025-12-09,CUST-1113,Consumer,Premium Notebook A5,Office Supplies,9,12.31,110.79,38.73,72.06,West
+TXN-10690,2025-03-11,CUST-1117,Corporate,Ergonomic Chair,Furniture,6,240.24,1441.44,951.78,489.66,West
+TXN-10691,2025-01-14,CUST-1070,Corporate,Executive Wooden Desk,Furniture,10,450.45,4504.5,2734.23,1770.27,West
+TXN-10692,2025-06-07,CUST-1012,Home Office,UltraWide Monitor 34,Technology,10,418.08,4180.8,2963.77,1217.03,East
+TXN-10693,2025-01-08,CUST-1069,Home Office,Ergonomic Chair,Furniture,9,248.31,2234.79,1450.16,784.63,North
+TXN-10694,2025-05-26,CUST-1090,Home Office,UltraWide Monitor 34,Technology,2,402.39,804.78,578.96,225.82,North
+TXN-10696,2025-02-19,CUST-1041,Consumer,Ergonomic Chair,Furniture,7,240.1,1680.7,1095.98,584.72,East
+TXN-10697,2025-12-20,CUST-1020,Corporate,Ergonomic Chair,Furniture,5,244.25,1221.25,802.61,418.64,North
+TXN-10698,2025-05-30,CUST-1122,Consumer,Standing Desk Frame,Furniture,6,294.96,1769.76,1063.45,706.31,North
+TXN-10699,2025-08-12,CUST-1050,Home Office,High-Speed USB-C Cable,Technology,2,17.25,34.5,10.24,24.26,East
+TXN-10700,2025-02-28,CUST-1074,Consumer,Gel Pens (Pack of 12),Office Supplies,2,15.01,30.02,8.83,21.19,North
+TXN-10701,2025-08-24,CUST-1102,Corporate,High-Speed USB-C Cable,Technology,6,18.21,109.26,33.06,76.2,North
+TXN-10702,2025-02-16,CUST-1013,Corporate,Sticky Notes Pastel,Office Supplies,4,8.0,32.0,8.01,23.99,East
+TXN-10703,2025-06-17,CUST-1062,Consumer,UltraWide Monitor 34,Technology,2,380.17,760.34,554.52,205.82,West
+TXN-10704,2025-01-19,CUST-1019,Corporate,UltraWide Monitor 34,Technology,10,393.87,3938.7,2825.62,1113.08,North
+TXN-10705,2025-11-15,CUST-1146,Corporate,Sticky Notes Pastel,Office Supplies,9,7.86,70.74,17.74,53.0,East
+TXN-10706,2025-08-30,CUST-1018,Consumer,UltraWide Monitor 34,Technology,9,405.88,3652.92,2627.18,1025.74,West
+TXN-10707,2025-11-21,CUST-1065,Corporate,Premium Notebook A5,Office Supplies,3,11.41,34.23,11.97,22.26,South
+TXN-10708,2025-01-19,CUST-1130,Home Office,Standing Desk Frame,Furniture,9,286.99,2582.91,1522.37,1060.54,South
+TXN-10709,2025-06-03,CUST-1085,Corporate,Wireless Mouse M2,Technology,4,24.33,97.32,38.67,58.65,East
+TXN-10710,2025-12-17,CUST-1078,Consumer,Filing Cabinet 3-Drawer,Furniture,9,157.01,1413.09,762.22,650.87,South
+TXN-10711,2025-09-30,CUST-1147,Consumer,Smart Bluetooth Speaker,Technology,5,81.69,408.45,208.02,200.43,East
+TXN-10712,2025-10-17,CUST-1102,Consumer,Executive Wooden Desk,Furniture,3,462.99,1388.97,826.58,562.39,North
+TXN-10713,2025-10-27,CUST-1122,Home Office,High-Speed USB-C Cable,Technology,6,18.28,109.68,33.21,76.47,South
+TXN-10714,2025-08-19,CUST-1041,Corporate,Pro Laptop 15,Technology,1,1199.74,1199.74,852.66,347.08,West
+TXN-10715,2025-08-16,CUST-1059,Home Office,Premium Notebook A5,Office Supplies,7,11.59,81.13,28.92,52.21,South
+TXN-10716,2025-09-01,CUST-1074,Corporate,Filing Cabinet 3-Drawer,Furniture,3,144.04,432.12,233.43,198.69,East
+TXN-10717,2025-12-28,CUST-1104,Corporate,High-Speed USB-C Cable,Technology,2,18.44,36.88,11.23,25.65,East
+TXN-10718,2025-06-22,CUST-1137,Home Office,Filing Cabinet 3-Drawer,Furniture,7,149.95,1049.65,572.06,477.59,East
+TXN-10719,2025-08-25,CUST-1089,Home Office,High-Speed USB-C Cable,Technology,4,17.99,71.96,21.59,50.37,East
+TXN-10720,2025-07-22,CUST-1060,Corporate,Filing Cabinet 3-Drawer,Furniture,10,147.35,1473.5,823.98,649.52,East
+TXN-10721,2025-06-03,CUST-1029,Corporate,Gel Pens (Pack of 12),Office Supplies,8,15.0,120.0,35.33,84.67,West
+TXN-10722,2025-05-08,CUST-1094,Home Office,Standing Desk Frame,Furniture,9,292.46,2632.14,1548.75,1083.39,South
+TXN-10723,2025-01-01,CUST-1082,Corporate,Executive Wooden Desk,Furniture,5,454.93,2274.65,1348.87,925.78,North
+TXN-10724,2025-02-24,CUST-1008,Corporate,Gel Pens (Pack of 12),Office Supplies,10,14.27,142.7,43.01,99.69,South
+TXN-10725,2025-11-02,CUST-1122,Consumer,Executive Wooden Desk,Furniture,10,428.27,4282.7,2560.63,1722.07,East
+TXN-10726,2025-07-25,CUST-1039,Consumer,Pro Laptop 15,Technology,3,1199.74,3599.22,2500.38,1098.84,South
+TXN-10727,2025-05-17,CUST-1121,Home Office,Sticky Notes Pastel,Office Supplies,10,7.95,79.5,20.04,59.46,East
+TXN-10728,2025-07-12,CUST-1016,Home Office,Pro Laptop 15,Technology,5,1157.56,5787.8,4096.03,1691.77,West
+TXN-10729,2025-12-22,CUST-1001,Consumer,UltraWide Monitor 34,Technology,9,414.7,3732.3,2696.59,1035.71,South
+TXN-10730,2025-10-19,CUST-1098,Corporate,Premium Notebook A5,Office Supplies,1,11.7,11.7,4.13,7.57,East
+TXN-10731,2025-07-16,CUST-1102,Corporate,Standing Desk Frame,Furniture,8,289.05,2312.4,1410.1,902.3,South
+TXN-10732,2025-07-12,CUST-1001,Consumer,Pro Laptop 15,Technology,2,1172.85,2345.7,1624.4,721.3,North
+TXN-10733,2025-04-08,CUST-1052,Consumer,Wireless Mouse M2,Technology,8,26.13,209.04,84.43,124.61,East
+TXN-10734,2025-03-04,CUST-1030,Home Office,Sticky Notes Pastel,Office Supplies,6,8.16,48.96,12.42,36.54,South
+TXN-10735,2025-02-27,CUST-1008,Home Office,Sticky Notes Pastel,Office Supplies,2,8.16,16.32,4.14,12.18,East
+TXN-10736,2025-11-24,CUST-1088,Corporate,High-Speed USB-C Cable,Technology,5,17.7,88.5,26.29,62.21,East
+TXN-10737,2025-09-06,CUST-1088,Home Office,Sticky Notes Pastel,Office Supplies,7,7.71,53.97,13.67,40.3,West
+TXN-10738,2025-08-18,CUST-1033,Home Office,High-Speed USB-C Cable,Technology,6,17.49,104.94,31.32,73.62,North
+TXN-10739,2025-05-18,CUST-1116,Consumer,Standing Desk Frame,Furniture,8,299.73,2397.84,1457.41,940.43,South
+TXN-10740,2025-08-06,CUST-1118,Home Office,Pro Laptop 15,Technology,7,1186.1,8302.7,5731.35,2571.35,West
+TXN-10741,2025-04-05,CUST-1146,Home Office,UltraWide Monitor 34,Technology,6,414.31,2485.86,1800.01,685.85,East
+TXN-10743,2025-12-29,CUST-1067,Home Office,Sticky Notes Pastel,Office Supplies,1,8.0,8.0,2.0,6.0,South
+TXN-10745,2025-08-13,CUST-1118,Corporate,Gel Pens (Pack of 12),Office Supplies,3,15.52,46.56,14.23,32.33,South
+TXN-10746,2025-04-08,CUST-1088,Corporate,Premium Notebook A5,Office Supplies,1,11.49,11.49,3.95,7.54,South
+TXN-10748,2025-03-28,CUST-1087,Consumer,High-Speed USB-C Cable,Technology,6,17.27,103.62,30.57,73.05,North
+TXN-10749,2025-04-09,CUST-1026,Consumer,Gel Pens (Pack of 12),Office Supplies,2,14.71,29.42,8.8,20.62,East
+TXN-10750,2025-05-29,CUST-1116,Corporate,Executive Wooden Desk,Furniture,1,442.61,442.61,266.14,176.47,South
+TXN-10751,2025-05-30,CUST-1121,Home Office,Premium Notebook A5,Office Supplies,4,11.53,46.12,16.2,29.92,North
+TXN-10752,2025-12-21,CUST-1075,Corporate,High-Speed USB-C Cable,Technology,5,18.47,92.35,27.47,64.88,North
+TXN-10753,2025-09-06,CUST-1009,Corporate,UltraWide Monitor 34,Technology,1,413.79,413.79,302.65,111.14,North
+TXN-10754,2025-12-19,CUST-1051,Consumer,Sticky Notes Pastel,Office Supplies,5,7.64,38.2,9.71,28.49,East
+TXN-10755,2025-10-12,CUST-1120,Home Office,Standing Desk Frame,Furniture,5,312.07,1560.35,952.28,608.07,West
+TXN-10757,2025-01-18,CUST-1023,Home Office,High-Speed USB-C Cable,Technology,7,18.11,126.77,38.54,88.23,West
+TXN-10758,2025-03-02,CUST-1026,Corporate,Gel Pens (Pack of 12),Office Supplies,1,14.52,14.52,4.34,10.18,North
+TXN-10759,2025-01-05,CUST-1021,Home Office,Standing Desk Frame,Furniture,3,307.32,921.96,553.82,368.14,East
+TXN-10760,2025-07-20,CUST-1060,Corporate,Standing Desk Frame,Furniture,7,288.97,2022.79,1235.52,787.27,North
+TXN-10761,2025-02-19,CUST-1100,Home Office,Sticky Notes Pastel,Office Supplies,4,8.06,32.24,8.02,24.22,South
+TXN-10762,2025-07-07,CUST-1064,Consumer,Wireless Mouse M2,Technology,2,25.8,51.6,20.93,30.67,West
+TXN-10765,2025-06-28,CUST-1002,Corporate,Executive Wooden Desk,Furniture,3,470.72,1412.16,849.27,562.89,West
+TXN-10766,2025-09-12,CUST-1060,Home Office,High-Speed USB-C Cable,Technology,5,17.56,87.8,26.01,61.79,West
+TXN-10767,2025-12-11,CUST-1012,Corporate,Sticky Notes Pastel,Office Supplies,3,8.27,24.81,6.09,18.72,East
+TXN-10768,2025-03-18,CUST-1113,Home Office,High-Speed USB-C Cable,Technology,3,18.54,55.62,16.56,39.06,South
+TXN-10769,2025-07-23,CUST-1014,Corporate,Sticky Notes Pastel,Office Supplies,7,7.99,55.93,14.25,41.68,South
+TXN-10772,2025-04-25,CUST-1031,Corporate,Executive Wooden Desk,Furniture,10,439.38,4393.8,2686.81,1706.99,East
+TXN-10773,2025-10-23,CUST-1046,Home Office,Ergonomic Chair,Furniture,4,252.56,1010.24,651.81,358.43,South
+TXN-10774,2025-08-17,CUST-1055,Consumer,Wireless Mouse M2,Technology,5,24.23,121.15,49.32,71.83,South
+TXN-10775,2025-01-06,CUST-1097,Home Office,Smart Bluetooth Speaker,Technology,8,77.02,616.16,307.83,308.33,West
+TXN-10776,2025-07-28,CUST-1001,Consumer,Pro Laptop 15,Technology,5,1203.05,6015.25,4189.62,1825.63,West
+TXN-10777,2025-09-04,CUST-1091,Consumer,Pro Laptop 15,Technology,3,1149.23,3447.69,2390.97,1056.72,North
+TXN-10778,2025-04-27,CUST-1099,Consumer,Smart Bluetooth Speaker,Technology,6,82.77,496.62,249.3,247.32,East
+TXN-10780,2025-11-17,CUST-1147,Corporate,Ergonomic Chair,Furniture,6,251.64,1509.84,989.4,520.44,West
+TXN-10781,2025-04-08,CUST-1099,Corporate,Standing Desk Frame,Furniture,8,285.96,2287.68,1345.61,942.07,North
+TXN-10782,2025-04-03,CUST-1053,Consumer,Premium Notebook A5,Office Supplies,10,11.78,117.8,41.74,76.06,South
+TXN-10783,2025-03-31,CUST-1019,Corporate,Gel Pens (Pack of 12),Office Supplies,5,15.47,77.35,22.85,54.5,West
+TXN-10784,2025-01-06,CUST-1086,Home Office,High-Speed USB-C Cable,Technology,8,17.56,140.48,42.89,97.59,South
+TXN-10785,2025-09-14,CUST-1077,Home Office,Wireless Mouse M2,Technology,10,24.95,249.5,98.35,151.15,West
+TXN-10786,2025-02-02,CUST-1141,Consumer,High-Speed USB-C Cable,Technology,3,18.62,55.86,16.61,39.25,South
+TXN-10788,2025-09-16,CUST-1012,Consumer,Executive Wooden Desk,Furniture,10,453.41,4534.1,2719.1,1815.0,South
+TXN-10789,2025-04-12,CUST-1021,Consumer,Smart Bluetooth Speaker,Technology,1,82.55,82.55,41.39,41.16,South
+TXN-10790,2025-07-10,CUST-1145,Home Office,Wireless Mouse M2,Technology,8,24.54,196.32,78.45,117.87,South
+TXN-10791,2025-09-04,CUST-1054,Consumer,Premium Notebook A5,Office Supplies,4,11.85,47.4,16.74,30.66,West
+TXN-10792,2025-04-24,CUST-1127,Consumer,Gel Pens (Pack of 12),Office Supplies,9,15.04,135.36,41.34,94.02,South
+TXN-10793,2025-08-13,CUST-1114,Consumer,Wireless Mouse M2,Technology,6,24.54,147.24,59.82,87.42,West
+TXN-10794,2025-12-26,CUST-1011,Home Office,Filing Cabinet 3-Drawer,Furniture,10,153.01,1530.1,847.06,683.04,North
+TXN-10795,2025-07-28,CUST-1006,Corporate,Wireless Mouse M2,Technology,9,23.78,214.02,85.95,128.07,East
+TXN-10796,2025-03-26,CUST-1149,Consumer,High-Speed USB-C Cable,Technology,3,17.41,52.23,15.79,36.44,North
+TXN-10797,2025-12-21,CUST-1085,Corporate,Executive Wooden Desk,Furniture,9,446.0,4014.0,2450.95,1563.05,South
+TXN-10798,2025-05-19,CUST-1104,Home Office,UltraWide Monitor 34,Technology,2,404.75,809.5,588.67,220.83,North
+TXN-10799,2025-01-05,CUST-1088,Corporate,Standing Desk Frame,Furniture,4,295.14,1180.56,710.7,469.86,North
+TXN-10801,2025-11-10,CUST-1068,Corporate,Smart Bluetooth Speaker,Technology,7,80.32,562.24,286.46,275.78,East
+TXN-10802,2025-11-25,CUST-1148,Home Office,Filing Cabinet 3-Drawer,Furniture,5,154.54,772.7,428.38,344.32,West
+TXN-10803,2025-03-11,CUST-1139,Consumer,Smart Bluetooth Speaker,Technology,1,78.08,78.08,38.54,39.54,South
+TXN-10804,2025-10-23,CUST-1026,Consumer,Premium Notebook A5,Office Supplies,9,11.58,104.22,36.03,68.19,North
+TXN-10805,2025-11-16,CUST-1046,Home Office,Executive Wooden Desk,Furniture,1,440.98,440.98,261.94,179.04,North
+TXN-10806,2025-10-03,CUST-1020,Consumer,Sticky Notes Pastel,Office Supplies,7,8.12,56.84,14.02,42.82,South
+TXN-10807,2025-04-23,CUST-1118,Corporate,Pro Laptop 15,Technology,7,1146.11,8022.77,5510.04,2512.73,North
+TXN-10808,2025-01-27,CUST-1141,Consumer,Standing Desk Frame,Furniture,4,298.7,1194.8,728.11,466.69,North
+TXN-10809,2025-04-20,CUST-1093,Consumer,Filing Cabinet 3-Drawer,Furniture,10,153.34,1533.4,846.44,686.96,North
+TXN-10810,2025-12-10,CUST-1083,Home Office,Standing Desk Frame,Furniture,3,302.45,907.35,540.6,366.75,North
+TXN-10811,2025-08-04,CUST-1097,Corporate,Gel Pens (Pack of 12),Office Supplies,2,14.42,28.84,8.75,20.09,East
+TXN-10812,2025-02-05,CUST-1093,Consumer,Wireless Mouse M2,Technology,4,24.03,96.12,39.08,57.04,South
+TXN-10813,2025-06-30,CUST-1135,Consumer,Executive Wooden Desk,Furniture,6,428.04,2568.24,1567.91,1000.33,South
+TXN-10814,2025-08-22,CUST-1013,Corporate,Premium Notebook A5,Office Supplies,10,12.19,121.9,43.31,78.59,East
+TXN-10815,2025-11-27,CUST-1148,Home Office,UltraWide Monitor 34,Technology,8,399.4,3195.2,2345.6,849.6,North
+TXN-10816,2025-02-02,CUST-1002,Consumer,Smart Bluetooth Speaker,Technology,4,82.98,331.92,165.76,166.16,South
+TXN-10818,2025-11-25,CUST-1057,Home Office,Ergonomic Chair,Furniture,9,259.76,2337.84,1505.34,832.5,East
+TXN-10819,2025-09-19,CUST-1023,Home Office,Filing Cabinet 3-Drawer,Furniture,1,149.95,149.95,80.97,68.98,East
+TXN-10820,2025-08-23,CUST-1088,Consumer,High-Speed USB-C Cable,Technology,6,17.17,103.02,30.9,72.12,North
+TXN-10821,2025-01-17,CUST-1094,Home Office,Gel Pens (Pack of 12),Office Supplies,7,14.95,104.65,31.38,73.27,East
+TXN-10822,2025-01-11,CUST-1138,Home Office,Standing Desk Frame,Furniture,4,309.9,1239.6,742.52,497.08,North
+TXN-10824,2025-11-28,CUST-1041,Home Office,Premium Notebook A5,Office Supplies,2,11.6,23.2,8.05,15.15,South
+TXN-10825,2025-09-06,CUST-1075,Corporate,Gel Pens (Pack of 12),Office Supplies,6,15.17,91.02,27.51,63.51,North
+TXN-10826,2025-12-31,CUST-1127,Home Office,High-Speed USB-C Cable,Technology,10,17.89,178.9,54.51,124.39,South
+TXN-10827,2025-06-17,CUST-1148,Corporate,Executive Wooden Desk,Furniture,9,435.31,3917.79,2330.3,1587.49,East
+TXN-10828,2025-10-20,CUST-1111,Home Office,Filing Cabinet 3-Drawer,Furniture,8,153.29,1226.32,667.73,558.59,North
+TXN-10830,2025-02-10,CUST-1057,Corporate,Standing Desk Frame,Furniture,5,296.99,1484.95,901.07,583.88,North
+TXN-10831,2025-08-15,CUST-1019,Home Office,Premium Notebook A5,Office Supplies,1,12.3,12.3,4.37,7.93,North
+TXN-10832,2025-08-28,CUST-1076,Corporate,Wireless Mouse M2,Technology,7,24.8,173.6,69.91,103.69,South
+TXN-10833,2025-01-24,CUST-1105,Consumer,UltraWide Monitor 34,Technology,6,389.63,2337.78,1716.87,620.91,East
+TXN-10834,2025-08-11,CUST-1019,Corporate,UltraWide Monitor 34,Technology,10,418.87,4188.7,3033.04,1155.66,West
+TXN-10835,2025-01-06,CUST-1089,Consumer,Smart Bluetooth Speaker,Technology,5,80.09,400.45,198.18,202.27,South
+TXN-10836,2025-07-30,CUST-1045,Corporate,Ergonomic Chair,Furniture,7,249.18,1744.26,1121.56,622.7,East
+TXN-10837,2025-08-28,CUST-1089,Corporate,Gel Pens (Pack of 12),Office Supplies,6,14.79,88.74,26.54,62.2,South
+TXN-10838,2025-01-18,CUST-1047,Consumer,Ergonomic Chair,Furniture,9,247.24,2225.16,1430.56,794.6,North
+TXN-10839,2025-10-11,CUST-1009,Home Office,Pro Laptop 15,Technology,5,1245.99,6229.95,4331.06,1898.89,North
+TXN-10840,2025-04-24,CUST-1058,Consumer,Premium Notebook A5,Office Supplies,5,12.03,60.15,21.37,38.78,East
+TXN-10841,2025-10-22,CUST-1035,Home Office,Gel Pens (Pack of 12),Office Supplies,1,14.27,14.27,4.33,9.94,North
+TXN-10842,2025-12-09,CUST-1085,Home Office,Pro Laptop 15,Technology,9,1244.92,11204.28,7971.85,3232.43,West
+TXN-10843,2025-07-02,CUST-1071,Home Office,Ergonomic Chair,Furniture,1,258.17,258.17,170.47,87.7,North
+TXN-10844,2025-01-25,CUST-1008,Home Office,Sticky Notes Pastel,Office Supplies,10,8.35,83.5,21.05,62.45,East
+TXN-10845,2025-02-25,CUST-1130,Consumer,High-Speed USB-C Cable,Technology,1,18.25,18.25,5.42,12.83,East
+TXN-10846,2025-08-24,CUST-1083,Consumer,Pro Laptop 15,Technology,9,1182.05,10638.45,7567.13,3071.32,North
+TXN-10847,2025-03-07,CUST-1044,Consumer,Smart Bluetooth Speaker,Technology,7,78.23,547.61,274.24,273.37,West
+TXN-11708,2025-06-16,CUST-1054,Consumer,High-Speed USB-C Cable,Technology,6,18.38,110.28,32.6,77.68,West
+TXN-10849,2025-09-18,CUST-1058,Consumer,Premium Notebook A5,Office Supplies,7,12.51,87.57,30.38,57.19,South
+TXN-10851,2025-09-13,CUST-1004,Home Office,Filing Cabinet 3-Drawer,Furniture,7,156.79,1097.53,593.98,503.55,West
+TXN-10852,2025-07-22,CUST-1030,Corporate,Filing Cabinet 3-Drawer,Furniture,7,143.8,1006.6,557.86,448.74,South
+TXN-10853,2025-02-14,CUST-1014,Corporate,Smart Bluetooth Speaker,Technology,9,82.5,742.5,374.29,368.21,South
+TXN-10854,2025-09-08,CUST-1095,Home Office,Smart Bluetooth Speaker,Technology,5,76.58,382.9,190.42,192.48,South
+TXN-10855,2025-09-07,CUST-1122,Home Office,Executive Wooden Desk,Furniture,3,430.82,1292.46,765.91,526.55,North
+TXN-10856,2025-08-03,CUST-1114,Consumer,Ergonomic Chair,Furniture,3,247.37,742.11,476.58,265.53,South
+TXN-10857,2025-04-30,CUST-1072,Consumer,Sticky Notes Pastel,Office Supplies,2,7.72,15.44,3.93,11.51,West
+TXN-10858,2025-07-27,CUST-1065,Home Office,Wireless Mouse M2,Technology,9,24.44,219.96,88.07,131.89,West
+TXN-10859,2025-02-12,CUST-1051,Home Office,Executive Wooden Desk,Furniture,8,438.61,3508.88,2110.59,1398.29,North
+TXN-10862,2025-02-15,CUST-1145,Consumer,Wireless Mouse M2,Technology,5,24.95,124.75,50.36,74.39,East
+TXN-10863,2025-06-24,CUST-1138,Home Office,Ergonomic Chair,Furniture,8,260.18,2081.44,1347.11,734.33,North
+TXN-10864,2025-10-01,CUST-1119,Corporate,UltraWide Monitor 34,Technology,9,389.88,3508.92,2483.96,1024.96,South
+TXN-10865,2025-10-22,CUST-1123,Home Office,Wireless Mouse M2,Technology,8,25.04,200.32,78.89,121.43,North
+TXN-10866,2025-04-17,CUST-1060,Home Office,Ergonomic Chair,Furniture,7,239.33,1675.31,1100.51,574.8,East
+TXN-10867,2025-05-05,CUST-1056,Consumer,Ergonomic Chair,Furniture,7,242.26,1695.82,1094.99,600.83,West
+TXN-10869,2025-09-06,CUST-1009,Corporate,Ergonomic Chair,Furniture,6,260.58,1563.48,1022.67,540.81,North
+TXN-10870,2025-08-14,CUST-1075,Consumer,Pro Laptop 15,Technology,7,1248.04,8736.28,6097.92,2638.36,South
+TXN-10871,2025-05-01,CUST-1034,Home Office,Gel Pens (Pack of 12),Office Supplies,3,14.55,43.65,13.08,30.57,West
+TXN-10872,2025-04-03,CUST-1139,Consumer,Gel Pens (Pack of 12),Office Supplies,9,14.93,134.37,39.83,94.54,South
+TXN-10873,2025-11-02,CUST-1001,Corporate,UltraWide Monitor 34,Technology,5,394.74,1973.7,1421.06,552.64,West
+TXN-10874,2025-11-22,CUST-1029,Home Office,Gel Pens (Pack of 12),Office Supplies,4,14.74,58.96,17.58,41.38,South
+TXN-10877,2025-08-14,CUST-1061,Corporate,Standing Desk Frame,Furniture,1,306.84,306.84,182.51,124.33,South
+TXN-10878,2025-11-26,CUST-1070,Corporate,Filing Cabinet 3-Drawer,Furniture,9,151.35,1362.15,742.37,619.78,North
+TXN-10879,2025-01-01,CUST-1116,Corporate,Pro Laptop 15,Technology,5,1251.42,6257.1,4383.1,1874.0,North
+TXN-10880,2025-08-15,CUST-1131,Home Office,Premium Notebook A5,Office Supplies,3,11.84,35.52,12.2,23.32,West
+TXN-10881,2025-11-19,CUST-1084,Consumer,High-Speed USB-C Cable,Technology,10,18.02,180.2,53.41,126.79,East
+TXN-10882,2025-05-22,CUST-1058,Consumer,Executive Wooden Desk,Furniture,5,450.25,2251.25,1358.63,892.62,East
+TXN-10883,2025-10-04,CUST-1107,Home Office,Ergonomic Chair,Furniture,3,260.82,782.46,504.61,277.85,East
+TXN-10884,2025-10-12,CUST-1149,Consumer,Filing Cabinet 3-Drawer,Furniture,2,144.06,288.12,155.3,132.82,South
+TXN-10885,2025-10-28,CUST-1081,Consumer,Gel Pens (Pack of 12),Office Supplies,1,15.04,15.04,4.51,10.53,West
+TXN-10886,2025-01-18,CUST-1037,Home Office,UltraWide Monitor 34,Technology,7,387.86,2715.02,1922.23,792.79,East
+TXN-10887,2025-09-02,CUST-1027,Corporate,Executive Wooden Desk,Furniture,1,450.87,450.87,266.55,184.32,South
+TXN-10888,2025-05-12,CUST-1023,Consumer,Wireless Mouse M2,Technology,4,24.99,99.96,40.6,59.36,West
+TXN-10889,2025-12-08,CUST-1040,Corporate,Executive Wooden Desk,Furniture,1,460.47,460.47,274.67,185.8,North
+TXN-10890,2025-03-21,CUST-1097,Consumer,High-Speed USB-C Cable,Technology,7,17.46,122.22,36.82,85.4,North
+TXN-10892,2025-06-11,CUST-1068,Corporate,Pro Laptop 15,Technology,2,1246.24,2492.48,1741.0,751.48,West
+TXN-10893,2025-10-17,CUST-1012,Home Office,UltraWide Monitor 34,Technology,7,382.91,2680.37,1935.5,744.87,North
+TXN-10894,2025-02-02,CUST-1142,Corporate,Ergonomic Chair,Furniture,6,254.89,1529.34,1001.11,528.23,South
+TXN-10895,2025-09-25,CUST-1092,Home Office,Sticky Notes Pastel,Office Supplies,7,7.69,53.83,13.47,40.36,West
+TXN-10896,2025-08-30,CUST-1146,Home Office,High-Speed USB-C Cable,Technology,6,18.19,109.14,33.22,75.92,South
+TXN-10897,2025-07-29,CUST-1139,Corporate,Sticky Notes Pastel,Office Supplies,5,7.74,38.7,9.7,29.0,South
+TXN-10898,2025-09-30,CUST-1143,Corporate,Sticky Notes Pastel,Office Supplies,3,7.69,23.07,5.78,17.29,East
+TXN-10899,2025-02-04,CUST-1025,Corporate,Wireless Mouse M2,Technology,8,25.45,203.6,82.82,120.78,South
+TXN-10900,2025-09-09,CUST-1102,Consumer,Wireless Mouse M2,Technology,2,24.94,49.88,20.34,29.54,West
+TXN-10901,2025-06-27,CUST-1028,Home Office,High-Speed USB-C Cable,Technology,9,17.6,158.4,47.74,110.66,East
+TXN-10902,2025-12-22,CUST-1030,Corporate,Standing Desk Frame,Furniture,4,306.13,1224.52,739.24,485.28,South
+TXN-10903,2025-12-10,CUST-1101,Consumer,Ergonomic Chair,Furniture,2,241.3,482.6,315.52,167.08,West
+TXN-10904,2025-11-29,CUST-1113,Corporate,Filing Cabinet 3-Drawer,Furniture,4,149.25,597.0,332.17,264.83,South
+TXN-10906,2025-06-06,CUST-1115,Corporate,Executive Wooden Desk,Furniture,4,451.11,1804.44,1098.36,706.08,West
+TXN-10907,2025-08-17,CUST-1147,Corporate,Standing Desk Frame,Furniture,9,293.25,2639.25,1571.67,1067.58,West
+TXN-10908,2025-07-16,CUST-1023,Corporate,Gel Pens (Pack of 12),Office Supplies,6,15.68,94.08,28.73,65.35,North
+TXN-10910,2025-05-21,CUST-1011,Corporate,Sticky Notes Pastel,Office Supplies,9,8.05,72.45,18.06,54.39,East
+TXN-10911,2025-06-02,CUST-1021,Corporate,Ergonomic Chair,Furniture,9,243.67,2193.03,1424.59,768.44,West
+TXN-10912,2025-05-15,CUST-1147,Home Office,Premium Notebook A5,Office Supplies,7,11.83,82.81,28.83,53.98,South
+TXN-10913,2025-06-03,CUST-1044,Corporate,Wireless Mouse M2,Technology,8,25.09,200.72,80.83,119.89,North
+TXN-10914,2025-03-14,CUST-1073,Home Office,Wireless Mouse M2,Technology,9,25.0,225.0,88.34,136.66,North
+TXN-10916,2025-11-23,CUST-1147,Consumer,Sticky Notes Pastel,Office Supplies,4,7.82,31.28,7.93,23.35,North
+TXN-11487,2025-03-06,CUST-1101,Home Office,Sticky Notes Pastel,Office Supplies,8,7.89,63.12,15.63,47.49,North
+TXN-10917,2025-01-04,CUST-1099,Consumer,Premium Notebook A5,Office Supplies,1,12.22,12.22,4.31,7.91,West
+TXN-10919,2025-02-15,CUST-1086,Consumer,Executive Wooden Desk,Furniture,10,462.87,4628.7,2814.71,1813.99,West
+TXN-10920,2025-07-08,CUST-1128,Consumer,Premium Notebook A5,Office Supplies,2,11.84,23.68,8.15,15.53,West
+TXN-10921,2025-03-20,CUST-1026,Corporate,Pro Laptop 15,Technology,6,1173.68,7042.08,5021.0,2021.08,North
+TXN-10922,2025-09-21,CUST-1071,Corporate,Ergonomic Chair,Furniture,9,249.53,2245.77,1482.66,763.11,North
+TXN-10924,2025-02-25,CUST-1123,Corporate,High-Speed USB-C Cable,Technology,10,17.43,174.3,52.62,121.68,West
+TXN-10925,2025-10-30,CUST-1049,Corporate,Wireless Mouse M2,Technology,1,24.14,24.14,9.61,14.53,North
+TXN-10926,2025-06-16,CUST-1022,Home Office,Standing Desk Frame,Furniture,1,288.69,288.69,172.0,116.69,North
+TXN-10927,2025-11-12,CUST-1030,Corporate,Pro Laptop 15,Technology,4,1227.94,4911.76,3503.56,1408.2,East
+TXN-10928,2025-03-05,CUST-1062,Consumer,UltraWide Monitor 34,Technology,1,406.15,406.15,291.66,114.49,East
+TXN-10929,2025-09-13,CUST-1002,Corporate,Pro Laptop 15,Technology,8,1154.19,9233.52,6569.65,2663.87,South
+TXN-10930,2025-12-15,CUST-1032,Consumer,Gel Pens (Pack of 12),Office Supplies,8,14.5,116.0,34.43,81.57,East
+TXN-10931,2025-01-11,CUST-1067,Consumer,Gel Pens (Pack of 12),Office Supplies,6,15.16,90.96,27.02,63.94,North
+TXN-10932,2025-11-03,CUST-1093,Home Office,UltraWide Monitor 34,Technology,8,380.25,3042.0,2230.39,811.61,South
+TXN-10933,2025-04-15,CUST-1035,Corporate,Premium Notebook A5,Office Supplies,3,11.47,34.41,12.15,22.26,South
+TXN-10935,2025-12-17,CUST-1050,Home Office,Gel Pens (Pack of 12),Office Supplies,7,14.88,104.16,30.77,73.39,South
+TXN-10937,2025-04-11,CUST-1094,Corporate,Ergonomic Chair,Furniture,3,244.74,734.22,471.66,262.56,North
+TXN-10938,2025-07-17,CUST-1098,Consumer,Wireless Mouse M2,Technology,8,24.23,193.84,77.17,116.67,North
+TXN-10939,2025-04-30,CUST-1052,Corporate,Ergonomic Chair,Furniture,4,250.25,1001.0,640.84,360.16,North
+TXN-10940,2025-12-24,CUST-1071,Corporate,Wireless Mouse M2,Technology,1,24.1,24.1,9.81,14.29,South
+TXN-10941,2025-12-10,CUST-1150,Home Office,Pro Laptop 15,Technology,9,1254.67,11292.03,7823.12,3468.91,North
+TXN-10942,2025-02-15,CUST-1149,Corporate,Executive Wooden Desk,Furniture,1,457.83,457.83,269.52,188.31,East
+TXN-10943,2025-01-05,CUST-1105,Corporate,Wireless Mouse M2,Technology,6,25.1,150.6,59.65,90.95,South
+TXN-10944,2025-07-12,CUST-1051,Corporate,Filing Cabinet 3-Drawer,Furniture,8,148.9,1191.2,656.35,534.85,North
+TXN-10945,2025-02-07,CUST-1069,Corporate,Standing Desk Frame,Furniture,4,302.29,1209.16,717.64,491.52,South
+TXN-10946,2025-09-12,CUST-1121,Home Office,Filing Cabinet 3-Drawer,Furniture,6,144.09,864.54,466.94,397.6,South
+TXN-10947,2025-05-27,CUST-1096,Consumer,Ergonomic Chair,Furniture,2,256.82,513.64,337.0,176.64,East
+TXN-10948,2025-02-23,CUST-1100,Home Office,Sticky Notes Pastel,Office Supplies,10,8.03,80.3,20.17,60.13,West
+TXN-10949,2025-04-26,CUST-1023,Consumer,Filing Cabinet 3-Drawer,Furniture,2,144.48,288.96,159.59,129.37,South
+TXN-10951,2025-07-21,CUST-1089,Home Office,Executive Wooden Desk,Furniture,8,457.2,3657.6,2187.61,1469.99,South
+TXN-10952,2025-04-20,CUST-1022,Corporate,Smart Bluetooth Speaker,Technology,7,76.05,532.35,270.33,262.02,West
+TXN-10953,2025-07-24,CUST-1103,Consumer,UltraWide Monitor 34,Technology,2,398.54,797.08,578.68,218.4,West
+TXN-10954,2025-04-28,CUST-1111,Home Office,Standing Desk Frame,Furniture,4,312.37,1249.48,760.18,489.3,South
+TXN-10955,2025-04-11,CUST-1098,Home Office,Filing Cabinet 3-Drawer,Furniture,2,143.51,287.02,156.83,130.19,West
+TXN-10956,2025-12-19,CUST-1122,Home Office,UltraWide Monitor 34,Technology,8,399.46,3195.68,2266.06,929.62,West
+TXN-10957,2025-05-05,CUST-1004,Consumer,Gel Pens (Pack of 12),Office Supplies,5,15.71,78.55,23.56,54.99,North
+TXN-10958,2025-03-05,CUST-1007,Corporate,Pro Laptop 15,Technology,9,1148.83,10339.47,7270.72,3068.75,South
+TXN-10959,2025-07-15,CUST-1137,Consumer,Premium Notebook A5,Office Supplies,5,12.08,60.4,21.09,39.31,South
+TXN-11475,2025-02-02,CUST-1034,Corporate,Sticky Notes Pastel,Office Supplies,1,8.0,8.0,2.04,5.96,South
+TXN-10960,2025-06-28,CUST-1058,Home Office,Filing Cabinet 3-Drawer,Furniture,6,156.5,939.0,514.76,424.24,North
+TXN-10961,2025-03-28,CUST-1076,Corporate,Sticky Notes Pastel,Office Supplies,5,8.22,41.1,10.14,30.96,West
+TXN-10962,2025-11-14,CUST-1094,Home Office,UltraWide Monitor 34,Technology,10,418.63,4186.3,2985.25,1201.05,North
+TXN-10963,2025-05-27,CUST-1142,Home Office,High-Speed USB-C Cable,Technology,5,17.99,89.95,27.04,62.91,South
+TXN-10964,2025-05-03,CUST-1096,Home Office,Wireless Mouse M2,Technology,2,25.54,51.08,20.49,30.59,South
+TXN-10965,2025-03-15,CUST-1050,Corporate,Standing Desk Frame,Furniture,1,285.69,285.69,169.1,116.59,East
+TXN-10966,2025-05-23,CUST-1027,Home Office,Gel Pens (Pack of 12),Office Supplies,8,15.27,122.16,37.05,85.11,East
+TXN-10967,2025-12-17,CUST-1145,Corporate,Gel Pens (Pack of 12),Office Supplies,2,14.3,28.6,8.7,19.9,North
+TXN-10968,2025-04-10,CUST-1135,Corporate,Premium Notebook A5,Office Supplies,8,11.42,91.36,31.67,59.69,North
+TXN-10969,2025-11-06,CUST-1128,Corporate,Ergonomic Chair,Furniture,1,246.2,246.2,163.18,83.02,South
+TXN-10970,2025-12-28,CUST-1043,Home Office,Sticky Notes Pastel,Office Supplies,4,7.7,30.8,7.61,23.19,North
+TXN-10971,2025-04-05,CUST-1010,Consumer,Wireless Mouse M2,Technology,3,24.88,74.64,30.09,44.55,South
+TXN-11216,2025-11-07,CUST-1048,Corporate,Wireless Mouse M2,Technology,9,25.2,226.8,90.45,136.35,East
+TXN-10972,2025-11-07,CUST-1132,Corporate,UltraWide Monitor 34,Technology,7,391.01,2737.07,1968.23,768.84,North
+TXN-10973,2025-04-30,CUST-1141,Consumer,Sticky Notes Pastel,Office Supplies,7,8.01,56.07,14.07,42.0,East
+TXN-10974,2025-09-02,CUST-1014,Consumer,Pro Laptop 15,Technology,9,1181.44,10632.96,7446.26,3186.7,North
+TXN-10975,2025-03-05,CUST-1078,Corporate,Wireless Mouse M2,Technology,7,25.19,176.33,69.54,106.79,South
+TXN-10976,2025-09-08,CUST-1113,Corporate,Pro Laptop 15,Technology,3,1217.17,3651.51,2537.8,1113.71,North
+TXN-10977,2025-08-29,CUST-1109,Corporate,Pro Laptop 15,Technology,5,1228.7,6143.5,4326.87,1816.63,North
+TXN-10978,2025-08-09,CUST-1055,Consumer,UltraWide Monitor 34,Technology,8,406.11,3248.88,2375.91,872.97,South
+TXN-10979,2025-04-25,CUST-1012,Corporate,UltraWide Monitor 34,Technology,5,396.42,1982.1,1446.54,535.56,East
+TXN-10980,2025-06-13,CUST-1010,Home Office,UltraWide Monitor 34,Technology,3,409.06,1227.18,897.8,329.38,South
+TXN-11924,2025-03-28,CUST-1094,Corporate,Executive Wooden Desk,Furniture,4,439.69,1758.76,1059.48,699.28,North
+TXN-10981,2025-09-01,CUST-1076,Home Office,High-Speed USB-C Cable,Technology,10,18.88,188.8,57.06,131.74,East
+TXN-10982,2025-01-17,CUST-1111,Corporate,Wireless Mouse M2,Technology,8,25.84,206.72,82.63,124.09,North
+TXN-10983,2025-02-02,CUST-1072,Corporate,Executive Wooden Desk,Furniture,1,450.2,450.2,265.66,184.54,East
+TXN-10985,2025-01-27,CUST-1093,Home Office,Sticky Notes Pastel,Office Supplies,3,8.2,24.6,6.07,18.53,East
+TXN-10986,2025-02-04,CUST-1034,Consumer,Smart Bluetooth Speaker,Technology,9,79.4,714.6,357.59,357.01,East
+TXN-10987,2025-06-19,CUST-1047,Corporate,Gel Pens (Pack of 12),Office Supplies,5,15.58,77.9,22.98,54.92,West
+TXN-10988,2025-01-09,CUST-1043,Home Office,Premium Notebook A5,Office Supplies,2,11.98,23.96,8.46,15.5,West
+TXN-10989,2025-11-03,CUST-1095,Consumer,Ergonomic Chair,Furniture,9,257.99,2321.91,1503.67,818.24,South
+TXN-10990,2025-04-26,CUST-1106,Consumer,Gel Pens (Pack of 12),Office Supplies,9,15.09,135.81,40.84,94.97,West
+TXN-10991,2025-05-03,CUST-1119,Home Office,High-Speed USB-C Cable,Technology,6,17.47,104.82,30.87,73.95,East
+TXN-10992,2025-12-18,CUST-1021,Consumer,UltraWide Monitor 34,Technology,2,404.69,809.38,591.82,217.56,South
+TXN-10993,2025-09-29,CUST-1020,Corporate,Wireless Mouse M2,Technology,2,26.17,52.34,20.74,31.6,North
+TXN-10994,2025-11-22,CUST-1132,Consumer,Ergonomic Chair,Furniture,1,248.31,248.31,159.34,88.97,North
+TXN-10995,2025-07-31,CUST-1122,Corporate,Pro Laptop 15,Technology,2,1243.22,2486.44,1756.67,729.77,South
+TXN-10997,2025-09-02,CUST-1012,Home Office,Filing Cabinet 3-Drawer,Furniture,9,155.37,1398.33,766.28,632.05,North
+TXN-10998,2025-02-02,CUST-1133,Corporate,Wireless Mouse M2,Technology,9,25.31,227.79,89.86,137.93,North
+TXN-10999,2025-06-04,CUST-1071,Corporate,Sticky Notes Pastel,Office Supplies,8,8.26,66.08,16.8,49.28,South
+TXN-11000,2025-06-11,CUST-1091,Home Office,High-Speed USB-C Cable,Technology,2,17.37,34.74,10.53,24.21,West
+TXN-11001,2025-03-30,CUST-1082,Corporate,Filing Cabinet 3-Drawer,Furniture,2,153.64,307.28,172.32,134.96,East
+TXN-11002,2025-12-27,CUST-1025,Consumer,Premium Notebook A5,Office Supplies,6,11.7,70.2,24.25,45.95,West
+TXN-11003,2025-11-03,CUST-1027,Home Office,Wireless Mouse M2,Technology,4,25.5,102.0,40.53,61.47,East
+TXN-11005,2025-07-18,CUST-1125,Home Office,Pro Laptop 15,Technology,3,1235.08,3705.24,2620.72,1084.52,East
+TXN-11006,2025-09-18,CUST-1068,Corporate,UltraWide Monitor 34,Technology,5,408.18,2040.9,1494.76,546.14,East
+TXN-11007,2025-06-25,CUST-1141,Home Office,Sticky Notes Pastel,Office Supplies,4,7.67,30.68,7.69,22.99,North
+TXN-11008,2025-02-15,CUST-1009,Consumer,Smart Bluetooth Speaker,Technology,1,83.36,83.36,41.24,42.12,East
+TXN-11009,2025-04-21,CUST-1010,Corporate,Pro Laptop 15,Technology,6,1215.14,7290.84,5193.27,2097.57,East
+TXN-11010,2025-12-06,CUST-1114,Corporate,Executive Wooden Desk,Furniture,1,433.44,433.44,258.72,174.72,North
+TXN-11011,2025-04-06,CUST-1105,Home Office,Executive Wooden Desk,Furniture,5,430.76,2153.8,1311.66,842.14,North
+TXN-11012,2025-06-09,CUST-1026,Corporate,Executive Wooden Desk,Furniture,4,452.09,1808.36,1070.01,738.35,South
+TXN-11013,2025-06-24,CUST-1012,Home Office,UltraWide Monitor 34,Technology,6,404.5,2427.0,1769.53,657.47,South
+TXN-11014,2025-09-26,CUST-1074,Consumer,High-Speed USB-C Cable,Technology,1,17.96,17.96,5.44,12.52,East
+TXN-11015,2025-05-11,CUST-1090,Home Office,High-Speed USB-C Cable,Technology,10,17.59,175.9,52.0,123.9,North
+TXN-11016,2025-09-20,CUST-1020,Consumer,Pro Laptop 15,Technology,2,1172.8,2345.6,1650.13,695.47,South
+TXN-11017,2025-09-24,CUST-1092,Consumer,UltraWide Monitor 34,Technology,1,400.94,400.94,292.12,108.82,West
+TXN-11018,2025-09-13,CUST-1103,Home Office,Wireless Mouse M2,Technology,4,24.6,98.4,38.7,59.7,North
+TXN-11019,2025-02-24,CUST-1112,Home Office,Filing Cabinet 3-Drawer,Furniture,1,156.3,156.3,85.12,71.18,South
+TXN-11020,2025-07-25,CUST-1032,Corporate,Standing Desk Frame,Furniture,4,291.3,1165.2,705.06,460.14,West
+TXN-11021,2025-09-04,CUST-1038,Corporate,Executive Wooden Desk,Furniture,8,455.64,3645.12,2219.51,1425.61,South
+TXN-11022,2025-07-29,CUST-1070,Consumer,Standing Desk Frame,Furniture,10,302.22,3022.2,1779.17,1243.03,North
+TXN-11023,2025-05-03,CUST-1127,Consumer,Executive Wooden Desk,Furniture,10,452.0,4520.0,2689.4,1830.6,North
+TXN-11024,2025-08-23,CUST-1068,Consumer,Premium Notebook A5,Office Supplies,2,11.42,22.84,8.12,14.72,East
+TXN-11025,2025-07-18,CUST-1043,Consumer,High-Speed USB-C Cable,Technology,3,18.83,56.49,17.22,39.27,West
+TXN-11028,2025-07-07,CUST-1039,Consumer,Wireless Mouse M2,Technology,9,25.68,231.12,91.45,139.67,West
+TXN-11029,2025-01-08,CUST-1101,Home Office,Ergonomic Chair,Furniture,1,257.51,257.51,168.95,88.56,North
+TXN-11030,2025-03-01,CUST-1030,Corporate,High-Speed USB-C Cable,Technology,4,18.64,74.56,22.14,52.42,East
+TXN-11031,2025-11-05,CUST-1126,Home Office,UltraWide Monitor 34,Technology,2,417.95,835.9,593.66,242.24,North
+TXN-11032,2025-01-19,CUST-1014,Consumer,Sticky Notes Pastel,Office Supplies,10,8.39,83.9,20.56,63.34,South
+TXN-11033,2025-11-13,CUST-1136,Corporate,High-Speed USB-C Cable,Technology,8,18.71,149.68,44.72,104.96,North
+TXN-11034,2025-11-22,CUST-1070,Corporate,UltraWide Monitor 34,Technology,1,399.7,399.7,290.22,109.48,East
+TXN-11035,2025-03-19,CUST-1149,Consumer,Filing Cabinet 3-Drawer,Furniture,3,147.35,442.05,242.73,199.32,South
+TXN-11036,2025-07-10,CUST-1067,Consumer,Ergonomic Chair,Furniture,8,258.2,2065.6,1353.38,712.22,East
+TXN-11037,2025-04-03,CUST-1148,Home Office,Smart Bluetooth Speaker,Technology,4,76.25,305.0,150.49,154.51,East
+TXN-11038,2025-03-17,CUST-1141,Corporate,Smart Bluetooth Speaker,Technology,1,76.53,76.53,37.75,38.78,North
+TXN-11039,2025-01-09,CUST-1051,Corporate,Sticky Notes Pastel,Office Supplies,10,8.1,81.0,20.4,60.6,East
+TXN-11040,2025-01-06,CUST-1064,Home Office,Ergonomic Chair,Furniture,2,239.55,479.1,313.33,165.77,North
+TXN-11041,2025-08-15,CUST-1006,Consumer,Executive Wooden Desk,Furniture,1,443.13,443.13,264.99,178.14,East
+TXN-11042,2025-10-17,CUST-1108,Consumer,Pro Laptop 15,Technology,4,1186.39,4745.56,3364.13,1381.43,North
+TXN-11043,2025-08-26,CUST-1103,Home Office,Pro Laptop 15,Technology,8,1230.97,9847.76,6883.58,2964.18,East
+TXN-11044,2025-01-27,CUST-1025,Home Office,Sticky Notes Pastel,Office Supplies,1,7.95,7.95,1.96,5.99,South
+TXN-11045,2025-05-24,CUST-1040,Consumer,UltraWide Monitor 34,Technology,8,399.46,3195.68,2291.94,903.74,South
+TXN-11046,2025-07-17,CUST-1122,Consumer,High-Speed USB-C Cable,Technology,7,17.14,119.98,36.14,83.84,East
+TXN-11047,2025-07-12,CUST-1046,Corporate,High-Speed USB-C Cable,Technology,2,17.62,35.24,10.5,24.74,West
+TXN-11048,2025-01-25,CUST-1018,Consumer,Premium Notebook A5,Office Supplies,8,12.26,98.08,34.24,63.84,East
+TXN-11049,2025-03-02,CUST-1004,Consumer,UltraWide Monitor 34,Technology,6,403.17,2419.02,1759.35,659.67,North
+TXN-11050,2025-03-07,CUST-1102,Home Office,Standing Desk Frame,Furniture,5,291.77,1458.85,892.09,566.76,South
+TXN-11051,2025-10-30,CUST-1093,Corporate,Wireless Mouse M2,Technology,4,23.9,95.6,38.62,56.98,South
+TXN-11052,2025-01-05,CUST-1045,Corporate,Executive Wooden Desk,Furniture,10,472.21,4722.1,2842.23,1879.87,South
+TXN-11053,2025-04-30,CUST-1006,Home Office,Pro Laptop 15,Technology,1,1142.3,1142.3,805.66,336.64,North
+TXN-11054,2025-10-14,CUST-1066,Corporate,Pro Laptop 15,Technology,3,1202.71,3608.13,2508.73,1099.4,East
+TXN-11055,2025-08-15,CUST-1079,Consumer,Filing Cabinet 3-Drawer,Furniture,9,147.53,1327.77,743.82,583.95,East
+TXN-11056,2025-02-09,CUST-1148,Home Office,Premium Notebook A5,Office Supplies,4,12.18,48.72,17.38,31.34,North
+TXN-11057,2025-10-06,CUST-1032,Corporate,Sticky Notes Pastel,Office Supplies,1,7.82,7.82,1.94,5.88,South
+TXN-11058,2025-05-10,CUST-1055,Consumer,Smart Bluetooth Speaker,Technology,8,78.56,628.48,316.13,312.35,South
+TXN-11059,2025-08-13,CUST-1026,Corporate,Wireless Mouse M2,Technology,2,24.05,48.1,18.99,29.11,East
+TXN-11060,2025-05-13,CUST-1131,Home Office,Premium Notebook A5,Office Supplies,5,12.52,62.6,21.82,40.78,East
+TXN-11062,2025-08-07,CUST-1083,Consumer,Sticky Notes Pastel,Office Supplies,4,8.0,32.0,8.0,24.0,East
+TXN-11064,2025-10-10,CUST-1148,Consumer,Standing Desk Frame,Furniture,10,298.72,2987.2,1790.83,1196.37,North
+TXN-11065,2025-06-23,CUST-1067,Consumer,Executive Wooden Desk,Furniture,8,457.52,3660.16,2196.1,1464.06,West
+TXN-11066,2025-10-09,CUST-1141,Home Office,Filing Cabinet 3-Drawer,Furniture,6,152.27,913.62,501.03,412.59,South
+TXN-11067,2025-05-10,CUST-1061,Consumer,Ergonomic Chair,Furniture,3,240.18,720.54,467.41,253.13,East
+TXN-11068,2025-12-15,CUST-1073,Home Office,Ergonomic Chair,Furniture,4,251.97,1007.88,647.36,360.52,South
+TXN-11069,2025-06-06,CUST-1058,Corporate,Wireless Mouse M2,Technology,8,25.66,205.28,81.52,123.76,East
+TXN-11070,2025-12-01,CUST-1107,Corporate,High-Speed USB-C Cable,Technology,6,17.61,105.66,31.48,74.18,West
+TXN-11071,2025-11-02,CUST-1052,Consumer,Pro Laptop 15,Technology,5,1187.82,5939.1,4228.64,1710.46,West
+TXN-11072,2025-09-27,CUST-1014,Home Office,Sticky Notes Pastel,Office Supplies,1,7.99,7.99,2.01,5.98,South
+TXN-11073,2025-09-04,CUST-1130,Home Office,Smart Bluetooth Speaker,Technology,4,78.57,314.28,155.25,159.03,East
+TXN-11074,2025-06-06,CUST-1039,Home Office,Standing Desk Frame,Furniture,2,306.32,612.64,365.07,247.57,North
+TXN-11075,2025-12-04,CUST-1122,Home Office,Smart Bluetooth Speaker,Technology,6,78.91,473.46,235.97,237.49,South
+TXN-11076,2025-10-16,CUST-1132,Home Office,Gel Pens (Pack of 12),Office Supplies,9,14.86,133.74,40.24,93.5,West
+TXN-11077,2025-04-19,CUST-1145,Consumer,Premium Notebook A5,Office Supplies,3,12.38,37.14,13.26,23.88,East
+TXN-11078,2025-05-06,CUST-1112,Consumer,Standing Desk Frame,Furniture,9,297.99,2681.91,1591.98,1089.93,West
+TXN-11079,2025-11-26,CUST-1004,Home Office,Sticky Notes Pastel,Office Supplies,9,8.39,75.51,19.16,56.35,West
+TXN-11080,2025-10-12,CUST-1084,Consumer,Premium Notebook A5,Office Supplies,2,11.81,23.62,8.15,15.47,West
+TXN-11081,2025-05-11,CUST-1123,Corporate,High-Speed USB-C Cable,Technology,3,18.14,54.42,16.55,37.87,East
+TXN-11082,2025-12-29,CUST-1086,Home Office,Filing Cabinet 3-Drawer,Furniture,7,154.71,1082.97,588.7,494.27,South
+TXN-11083,2025-12-03,CUST-1046,Consumer,Gel Pens (Pack of 12),Office Supplies,9,14.63,131.67,39.83,91.84,East
+TXN-11084,2025-12-05,CUST-1072,Home Office,Sticky Notes Pastel,Office Supplies,8,8.12,64.96,15.92,49.04,North
+TXN-11085,2025-12-04,CUST-1107,Consumer,Gel Pens (Pack of 12),Office Supplies,6,15.68,94.08,28.68,65.4,North
+TXN-11086,2025-11-26,CUST-1047,Home Office,Smart Bluetooth Speaker,Technology,3,76.41,229.23,114.04,115.19,West
+TXN-11087,2025-12-08,CUST-1098,Consumer,Sticky Notes Pastel,Office Supplies,3,8.1,24.3,6.04,18.26,South
+TXN-11088,2025-01-03,CUST-1034,Corporate,Smart Bluetooth Speaker,Technology,8,79.55,636.4,322.4,314.0,South
+TXN-11089,2025-09-18,CUST-1092,Home Office,Executive Wooden Desk,Furniture,2,443.72,887.44,524.48,362.96,North
+TXN-11090,2025-10-29,CUST-1128,Corporate,Executive Wooden Desk,Furniture,2,435.85,871.7,528.25,343.45,East
+TXN-11091,2025-05-14,CUST-1048,Consumer,High-Speed USB-C Cable,Technology,3,18.72,56.16,16.67,39.49,South
+TXN-11092,2025-07-27,CUST-1141,Corporate,Gel Pens (Pack of 12),Office Supplies,3,15.3,45.9,13.99,31.91,South
+TXN-11093,2025-10-08,CUST-1074,Corporate,Wireless Mouse M2,Technology,6,24.16,144.96,58.59,86.37,North
+TXN-11094,2025-06-15,CUST-1112,Consumer,Wireless Mouse M2,Technology,5,25.42,127.1,51.45,75.65,North
+TXN-11095,2025-03-03,CUST-1015,Home Office,Smart Bluetooth Speaker,Technology,5,82.85,414.25,210.48,203.77,South
+TXN-11096,2025-04-23,CUST-1122,Home Office,High-Speed USB-C Cable,Technology,4,18.88,75.52,22.59,52.93,West
+TXN-11097,2025-07-03,CUST-1053,Corporate,Gel Pens (Pack of 12),Office Supplies,5,14.91,74.55,21.96,52.59,East
+TXN-11098,2025-07-02,CUST-1123,Home Office,Wireless Mouse M2,Technology,4,24.12,96.48,38.68,57.8,North
+TXN-11099,2025-08-14,CUST-1137,Home Office,Pro Laptop 15,Technology,3,1199.74,3599.22,2509.02,1090.2,West
+TXN-11100,2025-11-11,CUST-1091,Corporate,Smart Bluetooth Speaker,Technology,9,81.77,735.93,371.64,364.29,East
+TXN-11101,2025-01-07,CUST-1059,Consumer,Premium Notebook A5,Office Supplies,5,12.49,62.45,21.86,40.59,East
+TXN-11102,2025-08-17,CUST-1029,Home Office,Smart Bluetooth Speaker,Technology,1,81.86,81.86,40.9,40.96,South
+TXN-11103,2025-01-05,CUST-1017,Consumer,Filing Cabinet 3-Drawer,Furniture,10,149.6,1496.0,825.79,670.21,East
+TXN-11104,2025-08-20,CUST-1029,Home Office,UltraWide Monitor 34,Technology,4,391.21,1564.84,1139.83,425.01,West
+TXN-11105,2025-11-16,CUST-1068,Corporate,Gel Pens (Pack of 12),Office Supplies,7,15.02,105.14,31.36,73.78,South
+TXN-11106,2025-01-18,CUST-1144,Corporate,Filing Cabinet 3-Drawer,Furniture,10,144.4,1444.0,799.11,644.89,South
+TXN-11107,2025-10-04,CUST-1039,Consumer,Sticky Notes Pastel,Office Supplies,6,8.27,49.62,12.25,37.37,South
+TXN-11108,2025-05-15,CUST-1053,Consumer,Standing Desk Frame,Furniture,7,311.24,2178.68,1304.38,874.3,West
+TXN-11109,2025-02-10,CUST-1144,Corporate,UltraWide Monitor 34,Technology,7,397.14,2779.98,1997.97,782.01,West
+TXN-11110,2025-07-22,CUST-1112,Consumer,Standing Desk Frame,Furniture,2,302.15,604.3,363.31,240.99,South
+TXN-11111,2025-08-13,CUST-1133,Corporate,Executive Wooden Desk,Furniture,2,466.12,932.24,569.04,363.2,South
+TXN-11112,2025-08-10,CUST-1002,Corporate,Ergonomic Chair,Furniture,1,249.95,249.95,159.87,90.08,East
+TXN-11113,2025-05-21,CUST-1051,Home Office,Premium Notebook A5,Office Supplies,8,11.53,92.24,32.63,59.61,North
+TXN-11114,2025-12-26,CUST-1071,Corporate,Premium Notebook A5,Office Supplies,6,11.76,70.56,24.27,46.29,South
+TXN-11115,2025-11-26,CUST-1045,Consumer,Standing Desk Frame,Furniture,2,309.31,618.62,366.1,252.52,East
+TXN-11116,2025-06-02,CUST-1007,Home Office,Standing Desk Frame,Furniture,1,292.17,292.17,173.99,118.18,East
+TXN-11117,2025-01-18,CUST-1032,Home Office,Smart Bluetooth Speaker,Technology,8,77.98,623.84,316.04,307.8,West
+TXN-11118,2025-01-02,CUST-1061,Corporate,Executive Wooden Desk,Furniture,6,450.06,2700.36,1647.49,1052.87,North
+TXN-11119,2025-12-04,CUST-1009,Home Office,Gel Pens (Pack of 12),Office Supplies,3,14.36,43.08,13.04,30.04,North
+TXN-11120,2025-02-03,CUST-1065,Consumer,Sticky Notes Pastel,Office Supplies,4,8.17,32.68,8.31,24.37,South
+TXN-11121,2025-04-15,CUST-1104,Home Office,High-Speed USB-C Cable,Technology,2,17.39,34.78,10.5,24.28,East
+TXN-11122,2025-09-08,CUST-1036,Home Office,Wireless Mouse M2,Technology,6,24.75,148.5,59.33,89.17,North
+TXN-11123,2025-06-30,CUST-1139,Home Office,Wireless Mouse M2,Technology,3,24.38,73.14,28.86,44.28,South
+TXN-11124,2025-01-24,CUST-1136,Corporate,Filing Cabinet 3-Drawer,Furniture,10,152.64,1526.4,840.59,685.81,South
+TXN-11125,2025-07-11,CUST-1008,Home Office,Filing Cabinet 3-Drawer,Furniture,10,154.83,1548.3,842.58,705.72,East
+TXN-11126,2025-06-14,CUST-1087,Consumer,UltraWide Monitor 34,Technology,7,407.63,2853.41,2053.03,800.38,South
+TXN-11127,2025-07-31,CUST-1038,Consumer,Filing Cabinet 3-Drawer,Furniture,3,155.22,465.66,252.11,213.55,East
+TXN-11128,2025-01-26,CUST-1099,Corporate,Executive Wooden Desk,Furniture,5,459.79,2298.95,1381.9,917.05,South
+TXN-11129,2025-06-17,CUST-1114,Home Office,Gel Pens (Pack of 12),Office Supplies,8,15.22,121.76,37.02,84.74,South
+TXN-11130,2025-02-26,CUST-1022,Home Office,UltraWide Monitor 34,Technology,2,381.27,762.54,543.16,219.38,South
+TXN-11131,2025-09-12,CUST-1027,Consumer,Executive Wooden Desk,Furniture,1,428.33,428.33,260.0,168.33,East
+TXN-11132,2025-07-29,CUST-1105,Home Office,Executive Wooden Desk,Furniture,3,465.63,1396.89,835.2,561.69,East
+TXN-11133,2025-06-22,CUST-1058,Consumer,Standing Desk Frame,Furniture,3,312.97,938.91,553.58,385.33,South
+TXN-11135,2025-02-28,CUST-1037,Corporate,Standing Desk Frame,Furniture,5,292.5,1462.5,862.29,600.21,North
+TXN-11136,2025-08-31,CUST-1101,Corporate,Wireless Mouse M2,Technology,5,23.87,119.35,47.05,72.3,South
+TXN-11137,2025-06-21,CUST-1146,Consumer,Ergonomic Chair,Furniture,4,252.48,1009.92,667.76,342.16,North
+TXN-11138,2025-12-09,CUST-1073,Consumer,Gel Pens (Pack of 12),Office Supplies,7,14.3,100.1,30.61,69.49,North
+TXN-11139,2025-05-14,CUST-1050,Consumer,Ergonomic Chair,Furniture,8,238.42,1907.36,1237.11,670.25,South
+TXN-11140,2025-04-19,CUST-1082,Corporate,Executive Wooden Desk,Furniture,7,450.94,3156.58,1870.27,1286.31,East
+TXN-11142,2025-09-02,CUST-1001,Consumer,Smart Bluetooth Speaker,Technology,3,81.6,244.8,122.91,121.89,North
+TXN-11143,2025-10-26,CUST-1149,Home Office,Smart Bluetooth Speaker,Technology,6,82.87,497.22,244.53,252.69,North
+TXN-11144,2025-09-24,CUST-1084,Consumer,Gel Pens (Pack of 12),Office Supplies,6,15.44,92.64,28.24,64.4,North
+TXN-11145,2025-12-22,CUST-1102,Consumer,Smart Bluetooth Speaker,Technology,4,76.21,304.84,151.44,153.4,West
+TXN-11146,2025-06-08,CUST-1006,Consumer,UltraWide Monitor 34,Technology,8,397.73,3181.84,2292.52,889.32,South
+TXN-11147,2025-08-29,CUST-1116,Consumer,Filing Cabinet 3-Drawer,Furniture,6,153.37,920.22,502.72,417.5,North
+TXN-11148,2025-08-06,CUST-1043,Home Office,Pro Laptop 15,Technology,9,1203.47,10831.23,7589.44,3241.79,North
+TXN-11149,2025-12-28,CUST-1113,Consumer,Filing Cabinet 3-Drawer,Furniture,9,147.52,1327.68,733.54,594.14,East
+TXN-11150,2025-06-17,CUST-1016,Corporate,Premium Notebook A5,Office Supplies,10,11.64,116.4,41.19,75.21,South
+TXN-11151,2025-02-14,CUST-1057,Home Office,Ergonomic Chair,Furniture,6,237.55,1425.3,911.05,514.25,West
+TXN-11152,2025-12-16,CUST-1016,Corporate,Smart Bluetooth Speaker,Technology,2,80.28,160.56,80.02,80.54,North
+TXN-11153,2025-04-21,CUST-1086,Home Office,Gel Pens (Pack of 12),Office Supplies,8,15.17,121.36,35.69,85.67,South
+TXN-11154,2025-01-15,CUST-1048,Home Office,Pro Laptop 15,Technology,1,1196.21,1196.21,831.13,365.08,North
+TXN-11155,2025-10-22,CUST-1062,Home Office,Wireless Mouse M2,Technology,1,25.74,25.74,10.13,15.61,North
+TXN-11156,2025-01-01,CUST-1083,Home Office,Filing Cabinet 3-Drawer,Furniture,8,151.01,1208.08,651.76,556.32,South
+TXN-11157,2025-11-14,CUST-1063,Corporate,Standing Desk Frame,Furniture,9,296.13,2665.17,1624.95,1040.22,North
+TXN-11159,2025-09-24,CUST-1017,Home Office,Wireless Mouse M2,Technology,8,24.5,196.0,78.26,117.74,North
+TXN-11160,2025-04-14,CUST-1116,Consumer,Ergonomic Chair,Furniture,2,253.26,506.52,331.57,174.95,North
+TXN-11162,2025-01-11,CUST-1114,Consumer,Wireless Mouse M2,Technology,6,25.95,155.7,61.33,94.37,East
+TXN-11163,2025-05-28,CUST-1007,Home Office,Wireless Mouse M2,Technology,8,24.82,198.56,80.06,118.5,South
+TXN-11164,2025-06-21,CUST-1024,Corporate,UltraWide Monitor 34,Technology,5,390.27,1951.35,1386.04,565.31,East
+TXN-11165,2025-03-06,CUST-1095,Corporate,Smart Bluetooth Speaker,Technology,1,80.63,80.63,40.44,40.19,East
+TXN-11166,2025-01-14,CUST-1127,Consumer,UltraWide Monitor 34,Technology,1,402.5,402.5,288.43,114.07,South
+TXN-11167,2025-12-30,CUST-1114,Home Office,UltraWide Monitor 34,Technology,9,411.63,3704.67,2616.24,1088.43,South
+TXN-11168,2025-08-27,CUST-1017,Consumer,High-Speed USB-C Cable,Technology,4,18.6,74.4,22.32,52.08,South
+TXN-11169,2025-02-10,CUST-1024,Corporate,Ergonomic Chair,Furniture,1,242.75,242.75,156.87,85.88,North
+TXN-11171,2025-08-21,CUST-1135,Corporate,Wireless Mouse M2,Technology,2,25.21,50.42,19.79,30.63,North
+TXN-11172,2025-10-01,CUST-1027,Consumer,High-Speed USB-C Cable,Technology,5,17.83,89.15,26.61,62.54,North
+TXN-11173,2025-11-30,CUST-1105,Consumer,High-Speed USB-C Cable,Technology,4,18.84,75.36,22.62,52.74,South
+TXN-11174,2025-08-17,CUST-1085,Corporate,Filing Cabinet 3-Drawer,Furniture,1,156.73,156.73,85.62,71.11,South
+TXN-11175,2025-02-10,CUST-1128,Corporate,Gel Pens (Pack of 12),Office Supplies,10,15.11,151.1,45.44,105.66,West
+TXN-11176,2025-10-19,CUST-1097,Home Office,Premium Notebook A5,Office Supplies,1,11.62,11.62,4.0,7.62,South
+TXN-11177,2025-09-23,CUST-1053,Consumer,Wireless Mouse M2,Technology,10,25.26,252.6,102.51,150.09,West
+TXN-11178,2025-08-04,CUST-1001,Consumer,Pro Laptop 15,Technology,3,1180.61,3541.83,2462.28,1079.55,South
+TXN-11180,2025-08-01,CUST-1049,Home Office,Pro Laptop 15,Technology,4,1255.93,5023.72,3451.8,1571.92,East
+TXN-11181,2025-07-02,CUST-1140,Consumer,Executive Wooden Desk,Furniture,2,466.78,933.56,552.29,381.27,North
+TXN-11183,2025-02-15,CUST-1022,Corporate,Sticky Notes Pastel,Office Supplies,10,8.2,82.0,20.16,61.84,North
+TXN-11184,2025-03-10,CUST-1018,Home Office,Pro Laptop 15,Technology,8,1195.99,9567.92,6641.09,2926.83,West
+TXN-11185,2025-10-28,CUST-1135,Home Office,Pro Laptop 15,Technology,4,1237.07,4948.28,3530.1,1418.18,North
+TXN-11186,2025-08-19,CUST-1005,Consumer,Executive Wooden Desk,Furniture,7,469.4,3285.8,1938.29,1347.51,East
+TXN-11187,2025-04-03,CUST-1137,Corporate,Premium Notebook A5,Office Supplies,3,11.52,34.56,12.05,22.51,East
+TXN-11188,2025-03-19,CUST-1083,Consumer,Premium Notebook A5,Office Supplies,5,11.99,59.95,20.57,39.38,North
+TXN-11189,2025-09-29,CUST-1070,Consumer,High-Speed USB-C Cable,Technology,9,17.22,154.98,46.39,108.59,North
+TXN-11190,2025-02-11,CUST-1055,Consumer,High-Speed USB-C Cable,Technology,8,17.46,139.68,41.48,98.2,North
+TXN-11191,2025-02-28,CUST-1034,Consumer,Filing Cabinet 3-Drawer,Furniture,4,155.24,620.96,337.18,283.78,East
+TXN-11192,2025-08-19,CUST-1150,Corporate,Sticky Notes Pastel,Office Supplies,4,8.11,32.44,7.99,24.45,West
+TXN-11193,2025-10-19,CUST-1018,Consumer,High-Speed USB-C Cable,Technology,9,18.25,164.25,48.5,115.75,North
+TXN-11196,2025-04-28,CUST-1055,Home Office,Pro Laptop 15,Technology,8,1234.84,9878.72,6901.27,2977.45,North
+TXN-11197,2025-04-19,CUST-1141,Corporate,Ergonomic Chair,Furniture,3,239.47,718.41,457.77,260.64,East
+TXN-11199,2025-06-08,CUST-1145,Consumer,Smart Bluetooth Speaker,Technology,5,83.75,418.75,210.0,208.75,South
+TXN-11200,2025-08-23,CUST-1144,Home Office,UltraWide Monitor 34,Technology,6,385.42,2312.52,1659.46,653.06,East
+TXN-11201,2025-04-11,CUST-1051,Corporate,Premium Notebook A5,Office Supplies,8,11.88,95.04,33.72,61.32,East
+TXN-11202,2025-02-25,CUST-1068,Corporate,Wireless Mouse M2,Technology,6,24.4,146.4,58.18,88.22,East
+TXN-11203,2025-01-28,CUST-1099,Corporate,Standing Desk Frame,Furniture,7,310.02,2170.14,1289.93,880.21,North
+TXN-11204,2025-07-05,CUST-1032,Corporate,Smart Bluetooth Speaker,Technology,8,76.44,611.52,306.07,305.45,East
+TXN-11205,2025-06-15,CUST-1069,Consumer,Premium Notebook A5,Office Supplies,4,11.72,46.88,16.16,30.72,South
+TXN-11206,2025-09-28,CUST-1125,Home Office,Gel Pens (Pack of 12),Office Supplies,6,14.79,88.74,26.63,62.11,East
+TXN-11207,2025-12-27,CUST-1148,Consumer,Wireless Mouse M2,Technology,7,23.83,166.81,66.31,100.5,East
+TXN-11208,2025-07-12,CUST-1116,Consumer,Gel Pens (Pack of 12),Office Supplies,5,15.23,76.15,22.49,53.66,South
+TXN-11209,2025-08-18,CUST-1017,Corporate,Wireless Mouse M2,Technology,8,24.1,192.8,78.6,114.2,West
+TXN-11210,2025-04-09,CUST-1051,Consumer,Premium Notebook A5,Office Supplies,2,12.35,24.7,8.7,16.0,East
+TXN-11214,2025-06-30,CUST-1109,Consumer,High-Speed USB-C Cable,Technology,6,18.74,112.44,33.19,79.25,North
+TXN-11215,2025-02-23,CUST-1067,Consumer,Gel Pens (Pack of 12),Office Supplies,5,14.48,72.4,21.42,50.98,West
+TXN-11217,2025-07-01,CUST-1147,Consumer,Gel Pens (Pack of 12),Office Supplies,2,14.91,29.82,9.09,20.73,South
+TXN-11218,2025-09-29,CUST-1097,Corporate,Filing Cabinet 3-Drawer,Furniture,5,146.66,733.3,408.23,325.07,East
+TXN-11219,2025-09-07,CUST-1134,Consumer,Sticky Notes Pastel,Office Supplies,1,7.88,7.88,1.96,5.92,South
+TXN-11221,2025-04-26,CUST-1026,Consumer,Premium Notebook A5,Office Supplies,7,11.72,82.04,28.74,53.3,East
+TXN-11222,2025-01-22,CUST-1097,Consumer,Executive Wooden Desk,Furniture,5,450.3,2251.5,1368.69,882.81,West
+TXN-11223,2025-01-16,CUST-1090,Home Office,Premium Notebook A5,Office Supplies,2,11.9,23.8,8.25,15.55,South
+TXN-11224,2025-04-15,CUST-1015,Corporate,Filing Cabinet 3-Drawer,Furniture,2,151.92,303.84,170.21,133.63,West
+TXN-11225,2025-03-19,CUST-1080,Corporate,High-Speed USB-C Cable,Technology,6,18.38,110.28,33.66,76.62,East
+TXN-11226,2025-03-13,CUST-1122,Home Office,Standing Desk Frame,Furniture,8,289.04,2312.32,1401.5,910.82,South
+TXN-11227,2025-08-01,CUST-1121,Consumer,Smart Bluetooth Speaker,Technology,5,81.89,409.45,207.71,201.74,West
+TXN-11228,2025-12-08,CUST-1051,Consumer,Ergonomic Chair,Furniture,4,254.95,1019.8,650.12,369.68,West
+TXN-11229,2025-06-01,CUST-1095,Home Office,High-Speed USB-C Cable,Technology,4,17.46,69.84,20.9,48.94,West
+TXN-11231,2025-03-15,CUST-1108,Corporate,UltraWide Monitor 34,Technology,7,400.95,2806.65,2051.38,755.27,West
+TXN-11232,2025-07-23,CUST-1128,Corporate,High-Speed USB-C Cable,Technology,3,18.64,55.92,16.51,39.41,South
+TXN-11234,2025-06-04,CUST-1021,Consumer,Filing Cabinet 3-Drawer,Furniture,2,143.79,287.58,156.16,131.42,North
+TXN-11235,2025-07-09,CUST-1070,Home Office,High-Speed USB-C Cable,Technology,9,17.82,160.38,47.91,112.47,West
+TXN-11236,2025-08-06,CUST-1048,Home Office,Executive Wooden Desk,Furniture,7,460.24,3221.68,1897.57,1324.11,North
+TXN-11237,2025-08-12,CUST-1123,Consumer,Executive Wooden Desk,Furniture,10,446.38,4463.8,2651.94,1811.86,West
+TXN-11238,2025-03-12,CUST-1009,Corporate,Filing Cabinet 3-Drawer,Furniture,2,151.63,303.26,168.34,134.92,South
+TXN-11239,2025-03-04,CUST-1040,Corporate,Executive Wooden Desk,Furniture,1,437.67,437.67,260.19,177.48,West
+TXN-11240,2025-02-07,CUST-1146,Corporate,Sticky Notes Pastel,Office Supplies,7,7.93,55.51,13.9,41.61,South
+TXN-11241,2025-12-13,CUST-1087,Corporate,Premium Notebook A5,Office Supplies,4,11.93,47.72,16.97,30.75,North
+TXN-11242,2025-09-07,CUST-1127,Home Office,Wireless Mouse M2,Technology,3,24.06,72.18,29.29,42.89,West
+TXN-11243,2025-02-11,CUST-1060,Corporate,Gel Pens (Pack of 12),Office Supplies,6,15.2,91.2,27.27,63.93,East
+TXN-11244,2025-10-08,CUST-1014,Consumer,Filing Cabinet 3-Drawer,Furniture,7,147.55,1032.85,577.57,455.28,South
+TXN-11246,2025-09-10,CUST-1060,Home Office,Ergonomic Chair,Furniture,10,255.66,2556.6,1694.0,862.6,North
+TXN-11247,2025-10-06,CUST-1029,Consumer,Executive Wooden Desk,Furniture,7,464.85,3253.95,1918.53,1335.42,South
+TXN-11248,2025-07-29,CUST-1002,Consumer,Ergonomic Chair,Furniture,9,246.74,2220.66,1421.44,799.22,South
+TXN-11249,2025-07-02,CUST-1033,Corporate,Wireless Mouse M2,Technology,6,24.73,148.38,58.79,89.59,East
+TXN-11251,2025-09-26,CUST-1086,Corporate,Pro Laptop 15,Technology,5,1213.6,6068.0,4173.57,1894.43,North
+TXN-11252,2025-07-28,CUST-1038,Corporate,Premium Notebook A5,Office Supplies,9,12.37,111.33,38.54,72.79,West
+TXN-11253,2025-01-20,CUST-1025,Home Office,Smart Bluetooth Speaker,Technology,8,80.7,645.6,324.54,321.06,East
+TXN-11254,2025-11-18,CUST-1109,Consumer,Gel Pens (Pack of 12),Office Supplies,7,14.79,103.53,31.08,72.45,North
+TXN-11255,2025-12-15,CUST-1039,Home Office,High-Speed USB-C Cable,Technology,3,18.06,54.18,16.09,38.09,North
+TXN-11256,2025-05-15,CUST-1128,Corporate,Executive Wooden Desk,Furniture,7,448.63,3140.41,1901.83,1238.58,North
+TXN-11257,2025-09-30,CUST-1038,Consumer,Wireless Mouse M2,Technology,8,24.14,193.12,77.85,115.27,South
+TXN-11258,2025-12-20,CUST-1040,Consumer,Sticky Notes Pastel,Office Supplies,10,7.93,79.3,20.13,59.17,North
+TXN-11259,2025-06-15,CUST-1126,Corporate,Premium Notebook A5,Office Supplies,1,12.29,12.29,4.31,7.98,West
+TXN-11261,2025-08-03,CUST-1100,Corporate,Executive Wooden Desk,Furniture,8,449.87,3598.96,2138.5,1460.46,East
+TXN-11262,2025-05-06,CUST-1069,Consumer,Gel Pens (Pack of 12),Office Supplies,3,14.87,44.61,13.25,31.36,North
+TXN-11263,2025-07-06,CUST-1055,Consumer,UltraWide Monitor 34,Technology,10,382.29,3822.9,2762.05,1060.85,West
+TXN-11264,2025-11-27,CUST-1059,Corporate,Gel Pens (Pack of 12),Office Supplies,9,15.27,137.43,41.06,96.37,West
+TXN-11265,2025-03-25,CUST-1065,Home Office,Standing Desk Frame,Furniture,1,313.89,313.89,185.79,128.1,North
+TXN-11266,2025-09-22,CUST-1001,Corporate,Standing Desk Frame,Furniture,7,311.24,2178.68,1327.69,850.99,East
+TXN-11267,2025-06-23,CUST-1044,Home Office,High-Speed USB-C Cable,Technology,2,18.37,36.74,10.97,25.77,West
+TXN-11268,2025-01-19,CUST-1108,Consumer,UltraWide Monitor 34,Technology,3,389.23,1167.69,834.43,333.26,West
+TXN-11269,2025-02-21,CUST-1034,Corporate,Gel Pens (Pack of 12),Office Supplies,10,15.43,154.3,47.17,107.13,East
+TXN-11270,2025-09-24,CUST-1044,Consumer,High-Speed USB-C Cable,Technology,7,17.43,122.01,36.79,85.22,North
+TXN-11271,2025-04-10,CUST-1039,Consumer,Wireless Mouse M2,Technology,9,25.92,233.28,91.8,141.48,East
+TXN-11273,2025-04-14,CUST-1106,Corporate,Ergonomic Chair,Furniture,9,249.66,2246.94,1434.22,812.72,West
+TXN-11274,2025-08-09,CUST-1097,Home Office,Filing Cabinet 3-Drawer,Furniture,5,154.85,774.25,432.57,341.68,South
+TXN-11275,2025-02-23,CUST-1014,Consumer,Sticky Notes Pastel,Office Supplies,4,8.09,32.36,7.94,24.42,North
+TXN-11276,2025-02-19,CUST-1019,Consumer,UltraWide Monitor 34,Technology,5,389.94,1949.7,1427.77,521.93,North
+TXN-11277,2025-10-13,CUST-1056,Home Office,UltraWide Monitor 34,Technology,7,383.46,2684.22,1932.91,751.31,North
+TXN-11279,2025-03-03,CUST-1077,Home Office,Ergonomic Chair,Furniture,9,241.0,2169.0,1383.39,785.61,East
+TXN-11280,2025-06-01,CUST-1022,Home Office,Pro Laptop 15,Technology,9,1239.43,11154.87,7817.33,3337.54,North
+TXN-11282,2025-10-08,CUST-1090,Consumer,Standing Desk Frame,Furniture,6,292.19,1753.14,1056.09,697.05,West
+TXN-11283,2025-10-28,CUST-1006,Consumer,Sticky Notes Pastel,Office Supplies,8,8.04,64.32,16.17,48.15,West
+TXN-11284,2025-09-12,CUST-1024,Corporate,Gel Pens (Pack of 12),Office Supplies,3,15.21,45.63,13.74,31.89,North
+TXN-11285,2025-06-14,CUST-1046,Consumer,Smart Bluetooth Speaker,Technology,6,78.82,472.92,232.58,240.34,East
+TXN-11286,2025-10-14,CUST-1064,Consumer,Pro Laptop 15,Technology,5,1196.89,5984.45,4191.51,1792.94,South
+TXN-11288,2025-11-27,CUST-1051,Consumer,Standing Desk Frame,Furniture,6,312.22,1873.32,1103.39,769.93,North
+TXN-11289,2025-01-06,CUST-1034,Consumer,Premium Notebook A5,Office Supplies,2,11.72,23.44,8.32,15.12,West
+TXN-11290,2025-11-13,CUST-1040,Consumer,Filing Cabinet 3-Drawer,Furniture,7,147.64,1033.48,570.27,463.21,West
+TXN-11291,2025-12-20,CUST-1049,Home Office,Premium Notebook A5,Office Supplies,6,12.57,75.42,26.57,48.85,North
+TXN-11292,2025-05-20,CUST-1045,Consumer,Ergonomic Chair,Furniture,2,240.61,481.22,317.7,163.52,South
+TXN-11293,2025-01-04,CUST-1064,Corporate,Sticky Notes Pastel,Office Supplies,3,8.38,25.14,6.32,18.82,East
+TXN-11295,2025-02-05,CUST-1119,Consumer,Ergonomic Chair,Furniture,2,250.86,501.72,324.86,176.86,South
+TXN-11296,2025-09-02,CUST-1111,Home Office,Standing Desk Frame,Furniture,7,305.95,2141.65,1272.57,869.08,North
+TXN-11297,2025-10-23,CUST-1122,Consumer,Standing Desk Frame,Furniture,2,291.23,582.46,343.48,238.98,East
+TXN-11298,2025-09-15,CUST-1086,Corporate,Smart Bluetooth Speaker,Technology,2,80.28,160.56,81.26,79.3,South
+TXN-11300,2025-12-02,CUST-1053,Consumer,Filing Cabinet 3-Drawer,Furniture,10,153.42,1534.2,828.16,706.04,East
+TXN-11301,2025-08-30,CUST-1139,Corporate,Sticky Notes Pastel,Office Supplies,7,8.39,58.73,14.68,44.05,East
+TXN-11302,2025-09-09,CUST-1048,Consumer,Premium Notebook A5,Office Supplies,2,11.51,23.02,8.15,14.87,South
+TXN-11303,2025-01-11,CUST-1116,Home Office,Ergonomic Chair,Furniture,5,251.08,1255.4,829.07,426.33,North
+TXN-11304,2025-10-10,CUST-1025,Corporate,High-Speed USB-C Cable,Technology,5,18.82,94.1,28.25,65.85,South
+TXN-11305,2025-08-14,CUST-1071,Home Office,High-Speed USB-C Cable,Technology,2,18.31,36.62,10.77,25.85,East
+TXN-11306,2025-06-16,CUST-1078,Home Office,Standing Desk Frame,Furniture,1,295.05,295.05,175.26,119.79,East
+TXN-11307,2025-05-17,CUST-1022,Corporate,UltraWide Monitor 34,Technology,9,392.19,3529.71,2591.16,938.55,North
+TXN-11308,2025-08-16,CUST-1073,Home Office,UltraWide Monitor 34,Technology,2,416.87,833.74,605.3,228.44,East
+TXN-11309,2025-02-14,CUST-1138,Corporate,Smart Bluetooth Speaker,Technology,7,81.39,569.73,288.4,281.33,East
+TXN-11310,2025-11-27,CUST-1124,Consumer,Pro Laptop 15,Technology,10,1163.33,11633.3,7996.73,3636.57,South
+TXN-11311,2025-12-25,CUST-1073,Consumer,Smart Bluetooth Speaker,Technology,2,76.87,153.74,75.92,77.82,West
+TXN-11312,2025-11-13,CUST-1133,Corporate,Smart Bluetooth Speaker,Technology,10,78.55,785.5,393.93,391.57,North
+TXN-11313,2025-09-29,CUST-1069,Home Office,Filing Cabinet 3-Drawer,Furniture,3,150.06,450.18,245.98,204.2,North
+TXN-11316,2025-05-19,CUST-1118,Consumer,High-Speed USB-C Cable,Technology,7,17.76,124.32,36.85,87.47,South
+TXN-11318,2025-06-25,CUST-1013,Consumer,Ergonomic Chair,Furniture,8,244.81,1958.48,1277.52,680.96,North
+TXN-11319,2025-05-10,CUST-1124,Corporate,Ergonomic Chair,Furniture,7,252.99,1770.93,1148.98,621.95,South
+TXN-11320,2025-12-15,CUST-1005,Consumer,Pro Laptop 15,Technology,3,1189.5,3568.5,2503.66,1064.84,South
+TXN-11321,2025-11-07,CUST-1061,Consumer,Pro Laptop 15,Technology,1,1244.79,1244.79,884.17,360.62,East
+TXN-11322,2025-06-29,CUST-1035,Consumer,Pro Laptop 15,Technology,5,1208.23,6041.15,4309.76,1731.39,West
+TXN-11323,2025-03-09,CUST-1020,Home Office,Standing Desk Frame,Furniture,9,296.63,2669.67,1586.05,1083.62,East
+TXN-11324,2025-03-17,CUST-1093,Consumer,High-Speed USB-C Cable,Technology,8,17.99,143.92,42.86,101.06,South
+TXN-11326,2025-10-19,CUST-1003,Home Office,Standing Desk Frame,Furniture,4,298.68,1194.72,712.41,482.31,South
+TXN-11327,2025-08-28,CUST-1076,Corporate,Ergonomic Chair,Furniture,2,251.21,502.42,324.31,178.11,East
+TXN-11328,2025-10-18,CUST-1110,Consumer,Filing Cabinet 3-Drawer,Furniture,5,148.81,744.05,403.57,340.48,East
+TXN-11329,2025-05-15,CUST-1030,Corporate,High-Speed USB-C Cable,Technology,5,18.89,94.45,28.47,65.98,East
+TXN-11330,2025-12-10,CUST-1103,Consumer,Ergonomic Chair,Furniture,7,251.04,1757.28,1160.16,597.12,North
+TXN-11332,2025-06-18,CUST-1005,Home Office,Filing Cabinet 3-Drawer,Furniture,6,144.22,865.32,482.07,383.25,West
+TXN-11333,2025-09-04,CUST-1068,Consumer,Gel Pens (Pack of 12),Office Supplies,6,15.31,91.86,28.03,63.83,North
+TXN-11335,2025-04-25,CUST-1105,Home Office,Ergonomic Chair,Furniture,3,246.98,740.94,478.42,262.52,East
+TXN-11336,2025-02-06,CUST-1016,Corporate,Standing Desk Frame,Furniture,2,285.11,570.22,342.99,227.23,South
+TXN-11337,2025-10-24,CUST-1023,Corporate,Filing Cabinet 3-Drawer,Furniture,8,151.16,1209.28,656.4,552.88,North
+TXN-11339,2025-01-29,CUST-1120,Home Office,UltraWide Monitor 34,Technology,10,384.28,3842.8,2736.07,1106.73,East
+TXN-11340,2025-04-03,CUST-1142,Corporate,Pro Laptop 15,Technology,5,1201.59,6007.95,4164.11,1843.84,West
+TXN-11341,2025-07-28,CUST-1047,Consumer,Smart Bluetooth Speaker,Technology,4,81.27,325.08,163.74,161.34,West
+TXN-11342,2025-04-28,CUST-1027,Corporate,Smart Bluetooth Speaker,Technology,1,77.4,77.4,38.3,39.1,West
+TXN-11343,2025-05-12,CUST-1150,Consumer,Premium Notebook A5,Office Supplies,10,12.54,125.4,44.57,80.83,East
+TXN-11344,2025-01-05,CUST-1119,Consumer,Filing Cabinet 3-Drawer,Furniture,7,144.01,1008.07,558.47,449.6,North
+TXN-11345,2025-05-28,CUST-1020,Corporate,Wireless Mouse M2,Technology,1,25.47,25.47,10.38,15.09,East
+TXN-11346,2025-05-23,CUST-1015,Corporate,Premium Notebook A5,Office Supplies,4,12.06,48.24,16.73,31.51,South
+TXN-11347,2025-09-05,CUST-1125,Home Office,Premium Notebook A5,Office Supplies,10,11.63,116.3,40.6,75.7,South
+TXN-11348,2025-05-27,CUST-1101,Corporate,UltraWide Monitor 34,Technology,1,405.53,405.53,292.14,113.39,South
+TXN-11349,2025-05-18,CUST-1119,Consumer,Executive Wooden Desk,Furniture,2,456.14,912.28,538.52,373.76,West
+TXN-11350,2025-08-08,CUST-1116,Consumer,Pro Laptop 15,Technology,10,1192.8,11928.0,8343.64,3584.36,East
+TXN-11352,2025-03-31,CUST-1014,Corporate,Executive Wooden Desk,Furniture,9,460.45,4144.05,2533.67,1610.38,South
+TXN-11353,2025-11-30,CUST-1106,Consumer,Standing Desk Frame,Furniture,3,293.08,879.24,528.16,351.08,East
+TXN-11354,2025-05-09,CUST-1145,Corporate,Pro Laptop 15,Technology,10,1155.87,11558.7,7988.22,3570.48,West
+TXN-11355,2025-09-21,CUST-1029,Consumer,Wireless Mouse M2,Technology,9,25.43,228.87,91.85,137.02,West
+TXN-11356,2025-12-10,CUST-1105,Home Office,Filing Cabinet 3-Drawer,Furniture,3,145.63,436.89,244.75,192.14,West
+TXN-11357,2025-10-07,CUST-1130,Corporate,Pro Laptop 15,Technology,3,1187.72,3563.16,2536.61,1026.55,East
+TXN-11358,2025-11-08,CUST-1080,Consumer,Gel Pens (Pack of 12),Office Supplies,3,14.69,44.07,13.01,31.06,North
+TXN-11359,2025-05-10,CUST-1027,Consumer,Executive Wooden Desk,Furniture,9,453.96,4085.64,2484.89,1600.75,North
+TXN-11360,2025-10-14,CUST-1102,Home Office,Ergonomic Chair,Furniture,2,255.21,510.42,325.39,185.03,West
+TXN-11361,2025-11-29,CUST-1116,Consumer,Smart Bluetooth Speaker,Technology,6,76.23,457.38,228.05,229.33,North
+TXN-11362,2025-10-20,CUST-1145,Corporate,Ergonomic Chair,Furniture,4,247.06,988.24,653.52,334.72,North
+TXN-11363,2025-01-16,CUST-1130,Corporate,Ergonomic Chair,Furniture,4,259.5,1038.0,678.85,359.15,South
+TXN-11364,2025-03-30,CUST-1103,Corporate,Smart Bluetooth Speaker,Technology,2,79.19,158.38,80.16,78.22,East
+TXN-11365,2025-10-13,CUST-1051,Consumer,Executive Wooden Desk,Furniture,10,452.27,4522.7,2717.69,1805.01,South
+TXN-11366,2025-12-12,CUST-1138,Home Office,Smart Bluetooth Speaker,Technology,5,76.12,380.6,193.34,187.26,South
+TXN-11367,2025-10-05,CUST-1147,Corporate,Ergonomic Chair,Furniture,7,255.0,1785.0,1164.18,620.82,East
+TXN-11369,2025-06-24,CUST-1104,Corporate,Executive Wooden Desk,Furniture,3,458.32,1374.96,822.09,552.87,West
+TXN-11371,2025-09-07,CUST-1142,Home Office,Standing Desk Frame,Furniture,10,297.03,2970.3,1762.58,1207.72,South
+TXN-11372,2025-05-01,CUST-1135,Corporate,Executive Wooden Desk,Furniture,6,447.97,2687.82,1621.83,1065.99,North
+TXN-11373,2025-11-05,CUST-1030,Home Office,Standing Desk Frame,Furniture,3,298.66,895.98,533.74,362.24,East
+TXN-11374,2025-12-13,CUST-1119,Consumer,Pro Laptop 15,Technology,10,1176.64,11766.4,8337.67,3428.73,West
+TXN-11375,2025-01-19,CUST-1055,Consumer,Executive Wooden Desk,Furniture,9,453.49,4081.41,2462.72,1618.69,South
+TXN-11376,2025-10-24,CUST-1106,Consumer,Executive Wooden Desk,Furniture,5,431.49,2157.45,1277.21,880.24,North
+TXN-11378,2025-02-28,CUST-1035,Home Office,Standing Desk Frame,Furniture,9,299.73,2697.57,1618.81,1078.76,West
+TXN-11379,2025-09-15,CUST-1009,Consumer,Gel Pens (Pack of 12),Office Supplies,8,14.94,119.52,35.39,84.13,South
+TXN-11380,2025-11-04,CUST-1028,Consumer,Gel Pens (Pack of 12),Office Supplies,7,15.5,108.5,33.19,75.31,East
+TXN-11381,2025-01-25,CUST-1096,Corporate,Gel Pens (Pack of 12),Office Supplies,1,15.64,15.64,4.77,10.87,East
+TXN-11382,2025-04-06,CUST-1108,Consumer,Filing Cabinet 3-Drawer,Furniture,4,146.9,587.6,318.6,269.0,West
+TXN-11383,2025-02-22,CUST-1117,Corporate,Ergonomic Chair,Furniture,7,237.72,1664.04,1089.28,574.76,South
+TXN-11384,2025-11-12,CUST-1001,Consumer,High-Speed USB-C Cable,Technology,4,17.14,68.56,20.78,47.78,East
+TXN-11385,2025-09-17,CUST-1058,Consumer,Premium Notebook A5,Office Supplies,7,11.6,81.2,28.78,52.42,East
+TXN-11386,2025-02-20,CUST-1019,Consumer,High-Speed USB-C Cable,Technology,7,18.58,130.06,38.35,91.71,East
+TXN-11387,2025-05-19,CUST-1021,Consumer,Wireless Mouse M2,Technology,5,26.19,130.95,52.54,78.41,South
+TXN-11388,2025-03-06,CUST-1026,Consumer,Sticky Notes Pastel,Office Supplies,1,7.79,7.79,1.96,5.83,North
+TXN-11389,2025-11-28,CUST-1114,Corporate,Gel Pens (Pack of 12),Office Supplies,3,15.38,46.14,14.07,32.07,South
+TXN-11390,2025-11-30,CUST-1050,Home Office,Pro Laptop 15,Technology,6,1172.88,7037.28,4884.58,2152.7,South
+TXN-11391,2025-06-30,CUST-1137,Consumer,Premium Notebook A5,Office Supplies,3,11.94,35.82,12.51,23.31,North
+TXN-11392,2025-09-30,CUST-1025,Consumer,Pro Laptop 15,Technology,10,1203.22,12032.2,8568.13,3464.07,West
+TXN-11393,2025-04-18,CUST-1060,Consumer,Premium Notebook A5,Office Supplies,3,12.6,37.8,12.98,24.82,North
+TXN-11394,2025-08-29,CUST-1068,Home Office,Ergonomic Chair,Furniture,7,244.96,1714.72,1096.39,618.33,East
+TXN-11395,2025-05-27,CUST-1037,Consumer,Executive Wooden Desk,Furniture,6,468.22,2809.32,1664.52,1144.8,North
+TXN-11396,2025-08-18,CUST-1027,Home Office,Ergonomic Chair,Furniture,7,241.58,1691.06,1090.9,600.16,East
+TXN-11397,2025-11-16,CUST-1003,Consumer,Wireless Mouse M2,Technology,5,24.1,120.5,48.83,71.67,East
+TXN-11398,2025-04-07,CUST-1092,Home Office,Executive Wooden Desk,Furniture,10,450.45,4504.5,2681.98,1822.52,North
+TXN-11400,2025-11-17,CUST-1095,Corporate,Pro Laptop 15,Technology,2,1217.39,2434.78,1720.42,714.36,West
+TXN-11401,2025-11-04,CUST-1051,Corporate,Smart Bluetooth Speaker,Technology,1,79.59,79.59,39.24,40.35,North
+TXN-11402,2025-03-27,CUST-1086,Consumer,Smart Bluetooth Speaker,Technology,10,76.32,763.2,377.02,386.18,West
+TXN-11403,2025-09-28,CUST-1055,Home Office,Wireless Mouse M2,Technology,9,25.07,225.63,90.07,135.56,South
+TXN-11404,2025-02-05,CUST-1011,Consumer,Premium Notebook A5,Office Supplies,8,11.75,94.0,33.11,60.89,East
+TXN-11405,2025-02-08,CUST-1109,Home Office,Gel Pens (Pack of 12),Office Supplies,6,15.18,91.08,27.47,63.61,North
+TXN-11406,2025-02-12,CUST-1129,Corporate,Executive Wooden Desk,Furniture,3,432.05,1296.15,782.74,513.41,West
+TXN-11407,2025-01-16,CUST-1078,Corporate,Gel Pens (Pack of 12),Office Supplies,9,15.68,141.12,42.53,98.59,West
+TXN-11408,2025-09-19,CUST-1087,Home Office,Gel Pens (Pack of 12),Office Supplies,2,14.54,29.08,8.66,20.42,North
+TXN-11409,2025-07-07,CUST-1012,Corporate,High-Speed USB-C Cable,Technology,7,18.31,128.17,38.58,89.59,North
+TXN-11410,2025-03-07,CUST-1013,Home Office,Ergonomic Chair,Furniture,10,241.15,2411.5,1572.06,839.44,South
+TXN-11411,2025-11-06,CUST-1049,Consumer,UltraWide Monitor 34,Technology,9,384.03,3456.27,2520.66,935.61,South
+TXN-11412,2025-01-23,CUST-1043,Corporate,Standing Desk Frame,Furniture,8,291.52,2332.16,1422.62,909.54,East
+TXN-11413,2025-08-15,CUST-1019,Home Office,Wireless Mouse M2,Technology,7,25.77,180.39,72.99,107.4,West
+TXN-11414,2025-07-13,CUST-1067,Corporate,Filing Cabinet 3-Drawer,Furniture,5,156.24,781.2,425.44,355.76,West
+TXN-11415,2025-09-06,CUST-1056,Consumer,Smart Bluetooth Speaker,Technology,9,79.24,713.16,361.22,351.94,East
+TXN-11416,2025-01-10,CUST-1058,Consumer,Smart Bluetooth Speaker,Technology,10,79.16,791.6,399.2,392.4,South
+TXN-11417,2025-06-09,CUST-1138,Home Office,Pro Laptop 15,Technology,2,1226.36,2452.72,1721.56,731.16,South
+TXN-11419,2025-12-08,CUST-1005,Home Office,UltraWide Monitor 34,Technology,8,383.41,3067.28,2252.3,814.98,West
+TXN-11420,2025-12-25,CUST-1056,Home Office,Wireless Mouse M2,Technology,8,24.38,195.04,79.42,115.62,East
+TXN-11421,2025-09-13,CUST-1105,Consumer,Ergonomic Chair,Furniture,7,238.79,1671.53,1065.93,605.6,West
+TXN-11422,2025-01-03,CUST-1066,Home Office,Filing Cabinet 3-Drawer,Furniture,2,157.11,314.22,169.58,144.64,East
+TXN-11423,2025-08-16,CUST-1044,Home Office,Ergonomic Chair,Furniture,3,258.15,774.45,495.49,278.96,East
+TXN-11424,2025-04-03,CUST-1148,Corporate,Wireless Mouse M2,Technology,2,24.45,48.9,19.54,29.36,East
+TXN-11425,2025-01-08,CUST-1020,Corporate,Ergonomic Chair,Furniture,5,239.17,1195.85,790.1,405.75,North
+TXN-11426,2025-10-26,CUST-1108,Consumer,High-Speed USB-C Cable,Technology,9,17.79,160.11,48.56,111.55,North
+TXN-11427,2025-07-24,CUST-1140,Home Office,Wireless Mouse M2,Technology,9,25.3,227.7,89.67,138.03,West
+TXN-11428,2025-07-26,CUST-1006,Home Office,Wireless Mouse M2,Technology,7,24.59,172.13,67.78,104.35,East
+TXN-11429,2025-10-12,CUST-1066,Corporate,Standing Desk Frame,Furniture,4,305.72,1222.88,743.02,479.86,South
+TXN-11430,2025-07-26,CUST-1078,Consumer,Smart Bluetooth Speaker,Technology,7,82.07,574.49,286.96,287.53,East
+TXN-11431,2025-11-27,CUST-1149,Corporate,Sticky Notes Pastel,Office Supplies,2,7.89,15.78,4.01,11.77,West
+TXN-11432,2025-12-21,CUST-1141,Consumer,Filing Cabinet 3-Drawer,Furniture,4,145.74,582.96,321.56,261.4,East
+TXN-11433,2025-03-27,CUST-1085,Corporate,Executive Wooden Desk,Furniture,4,455.12,1820.48,1089.01,731.47,East
+TXN-11434,2025-01-08,CUST-1144,Consumer,Filing Cabinet 3-Drawer,Furniture,5,146.73,733.65,396.68,336.97,North
+TXN-11435,2025-06-22,CUST-1112,Consumer,Sticky Notes Pastel,Office Supplies,3,7.75,23.25,5.9,17.35,North
+TXN-11436,2025-02-20,CUST-1031,Home Office,Sticky Notes Pastel,Office Supplies,5,8.19,40.95,10.07,30.88,North
+TXN-11437,2025-03-30,CUST-1095,Home Office,Pro Laptop 15,Technology,10,1178.49,11784.9,8284.78,3500.12,East
+TXN-11439,2025-02-22,CUST-1090,Consumer,UltraWide Monitor 34,Technology,1,404.73,404.73,291.69,113.04,West
+TXN-11440,2025-03-21,CUST-1011,Consumer,Standing Desk Frame,Furniture,8,299.0,2392.0,1415.59,976.41,West
+TXN-11569,2025-10-08,CUST-1023,Home Office,Executive Wooden Desk,Furniture,1,440.61,440.61,266.92,173.69,North
+TXN-11441,2025-11-18,CUST-1088,Corporate,Filing Cabinet 3-Drawer,Furniture,6,146.31,877.86,482.38,395.48,South
+TXN-11442,2025-09-08,CUST-1046,Corporate,UltraWide Monitor 34,Technology,2,416.63,833.26,608.95,224.31,East
+TXN-11443,2025-10-01,CUST-1099,Corporate,Smart Bluetooth Speaker,Technology,6,78.1,468.6,230.32,238.28,East
+TXN-11444,2025-08-29,CUST-1058,Home Office,Standing Desk Frame,Furniture,9,307.34,2766.06,1671.53,1094.53,North
+TXN-11445,2025-03-05,CUST-1074,Corporate,Ergonomic Chair,Furniture,1,256.53,256.53,169.54,86.99,South
+TXN-11446,2025-11-26,CUST-1084,Corporate,Pro Laptop 15,Technology,1,1173.69,1173.69,810.43,363.26,South
+TXN-11447,2025-06-19,CUST-1091,Home Office,UltraWide Monitor 34,Technology,8,403.65,3229.2,2368.94,860.26,North
+TXN-11448,2025-10-22,CUST-1047,Consumer,Wireless Mouse M2,Technology,2,26.09,52.18,20.76,31.42,West
+TXN-11667,2025-09-16,CUST-1112,Home Office,Premium Notebook A5,Office Supplies,9,12.56,113.04,39.65,73.39,North
+TXN-11449,2025-11-16,CUST-1012,Home Office,Smart Bluetooth Speaker,Technology,1,77.36,77.36,38.93,38.43,South
+TXN-11450,2025-12-19,CUST-1142,Corporate,Pro Laptop 15,Technology,10,1250.89,12508.9,8639.9,3869.0,South
+TXN-11451,2025-08-03,CUST-1076,Consumer,Smart Bluetooth Speaker,Technology,4,77.93,311.72,153.9,157.82,East
+TXN-11452,2025-11-03,CUST-1100,Home Office,Pro Laptop 15,Technology,6,1148.99,6893.94,4902.97,1990.97,North
+TXN-11453,2025-11-20,CUST-1038,Consumer,Premium Notebook A5,Office Supplies,8,11.41,91.28,32.05,59.23,South
+TXN-11454,2025-10-26,CUST-1042,Consumer,Premium Notebook A5,Office Supplies,7,11.9,83.3,28.59,54.71,East
+TXN-11455,2025-01-14,CUST-1100,Corporate,Premium Notebook A5,Office Supplies,7,12.27,85.89,30.16,55.73,South
+TXN-11456,2025-02-24,CUST-1009,Corporate,Standing Desk Frame,Furniture,4,298.88,1195.52,724.72,470.8,West
+TXN-11457,2025-12-10,CUST-1026,Corporate,Sticky Notes Pastel,Office Supplies,7,7.94,55.58,14.11,41.47,North
+TXN-11458,2025-12-24,CUST-1102,Corporate,Sticky Notes Pastel,Office Supplies,2,7.97,15.94,3.92,12.02,West
+TXN-11459,2025-09-07,CUST-1094,Corporate,Executive Wooden Desk,Furniture,8,457.4,3659.2,2188.93,1470.27,East
+TXN-11460,2025-10-16,CUST-1048,Corporate,Sticky Notes Pastel,Office Supplies,8,8.23,65.84,16.58,49.26,East
+TXN-11461,2025-04-08,CUST-1072,Consumer,Sticky Notes Pastel,Office Supplies,2,8.33,16.66,4.1,12.56,West
+TXN-11462,2025-04-24,CUST-1026,Consumer,Filing Cabinet 3-Drawer,Furniture,6,151.72,910.32,500.13,410.19,South
+TXN-11463,2025-10-01,CUST-1012,Corporate,Ergonomic Chair,Furniture,8,241.51,1932.08,1267.64,664.44,West
+TXN-11464,2025-10-21,CUST-1120,Home Office,Gel Pens (Pack of 12),Office Supplies,1,14.71,14.71,4.36,10.35,West
+TXN-11465,2025-12-28,CUST-1095,Corporate,Sticky Notes Pastel,Office Supplies,9,7.75,69.75,17.16,52.59,North
+TXN-11466,2025-06-05,CUST-1014,Home Office,High-Speed USB-C Cable,Technology,5,17.3,86.5,25.88,60.62,North
+TXN-11467,2025-11-13,CUST-1013,Home Office,Smart Bluetooth Speaker,Technology,3,79.04,237.12,118.89,118.23,South
+TXN-11468,2025-02-27,CUST-1062,Corporate,Standing Desk Frame,Furniture,3,291.38,874.14,529.29,344.85,East
+TXN-11469,2025-03-20,CUST-1013,Corporate,High-Speed USB-C Cable,Technology,7,17.98,125.86,37.23,88.63,North
+TXN-11470,2025-01-04,CUST-1096,Home Office,Standing Desk Frame,Furniture,6,287.2,1723.2,1040.99,682.21,East
+TXN-11471,2025-12-04,CUST-1146,Home Office,Premium Notebook A5,Office Supplies,3,11.75,35.25,12.5,22.75,West
+TXN-11472,2025-05-28,CUST-1075,Home Office,Gel Pens (Pack of 12),Office Supplies,5,15.01,75.05,22.21,52.84,East
+TXN-11473,2025-06-28,CUST-1078,Corporate,Wireless Mouse M2,Technology,7,24.47,171.29,69.6,101.69,East
+TXN-11474,2025-02-18,CUST-1083,Corporate,Gel Pens (Pack of 12),Office Supplies,4,14.68,58.72,17.81,40.91,South
+TXN-11476,2025-04-25,CUST-1114,Home Office,Smart Bluetooth Speaker,Technology,10,76.76,767.6,387.56,380.04,South
+TXN-11477,2025-07-27,CUST-1088,Corporate,Premium Notebook A5,Office Supplies,7,12.54,87.78,30.59,57.19,South
+TXN-11479,2025-04-30,CUST-1015,Corporate,Filing Cabinet 3-Drawer,Furniture,4,153.04,612.16,333.14,279.02,South
+TXN-11480,2025-06-10,CUST-1116,Home Office,Standing Desk Frame,Furniture,8,287.33,2298.64,1358.96,939.68,North
+TXN-11481,2025-02-17,CUST-1019,Home Office,Smart Bluetooth Speaker,Technology,7,81.22,568.54,284.1,284.44,West
+TXN-11482,2025-06-16,CUST-1096,Consumer,Filing Cabinet 3-Drawer,Furniture,3,156.66,469.98,262.3,207.68,North
+TXN-11483,2025-01-25,CUST-1071,Corporate,Ergonomic Chair,Furniture,1,259.35,259.35,169.64,89.71,West
+TXN-11484,2025-01-25,CUST-1022,Corporate,Filing Cabinet 3-Drawer,Furniture,1,145.14,145.14,80.65,64.49,North
+TXN-11485,2025-03-17,CUST-1137,Corporate,Smart Bluetooth Speaker,Technology,10,83.58,835.8,411.13,424.67,East
+TXN-11486,2025-01-19,CUST-1031,Consumer,Standing Desk Frame,Furniture,7,297.51,2082.57,1230.38,852.19,North
+TXN-11488,2025-09-26,CUST-1053,Home Office,Ergonomic Chair,Furniture,1,259.52,259.52,170.53,88.99,West
+TXN-11489,2025-04-30,CUST-1147,Home Office,Ergonomic Chair,Furniture,3,244.44,733.32,467.2,266.12,South
+TXN-11490,2025-04-16,CUST-1023,Home Office,Standing Desk Frame,Furniture,3,305.1,915.3,544.24,371.06,North
+TXN-11491,2025-06-30,CUST-1052,Home Office,Pro Laptop 15,Technology,4,1230.43,4921.72,3433.88,1487.84,West
+TXN-11492,2025-05-28,CUST-1129,Consumer,Ergonomic Chair,Furniture,3,258.2,774.6,509.61,264.99,East
+TXN-11493,2025-03-10,CUST-1025,Home Office,Executive Wooden Desk,Furniture,3,457.4,1372.2,819.62,552.58,West
+TXN-11496,2025-08-18,CUST-1024,Home Office,Executive Wooden Desk,Furniture,3,438.76,1316.28,776.08,540.2,North
+TXN-11497,2025-06-18,CUST-1060,Home Office,Filing Cabinet 3-Drawer,Furniture,3,144.68,434.04,235.47,198.57,South
+TXN-11498,2025-04-12,CUST-1142,Corporate,Wireless Mouse M2,Technology,8,25.24,201.92,82.38,119.54,West
+TXN-11499,2025-05-28,CUST-1003,Corporate,Filing Cabinet 3-Drawer,Furniture,2,149.17,298.34,163.73,134.61,East
+TXN-11500,2025-12-22,CUST-1125,Corporate,Sticky Notes Pastel,Office Supplies,5,7.96,39.8,9.82,29.98,East
+TXN-11501,2025-08-25,CUST-1014,Corporate,Ergonomic Chair,Furniture,5,248.14,1240.7,796.9,443.8,South
+TXN-11502,2025-09-13,CUST-1040,Corporate,High-Speed USB-C Cable,Technology,2,18.24,36.48,10.85,25.63,West
+TXN-11503,2025-04-29,CUST-1038,Corporate,Filing Cabinet 3-Drawer,Furniture,6,147.97,887.82,485.99,401.83,West
+TXN-11504,2025-09-27,CUST-1072,Consumer,Gel Pens (Pack of 12),Office Supplies,7,14.73,103.11,31.27,71.84,West
+TXN-11505,2025-05-12,CUST-1101,Home Office,UltraWide Monitor 34,Technology,10,394.06,3940.6,2879.79,1060.81,South
+TXN-11506,2025-02-12,CUST-1128,Home Office,UltraWide Monitor 34,Technology,5,415.76,2078.8,1525.63,553.17,East
+TXN-11507,2025-04-06,CUST-1109,Corporate,Wireless Mouse M2,Technology,1,23.81,23.81,9.56,14.25,South
+TXN-11508,2025-10-19,CUST-1034,Corporate,UltraWide Monitor 34,Technology,4,385.2,1540.8,1121.39,419.41,South
+TXN-11509,2025-09-21,CUST-1031,Corporate,Premium Notebook A5,Office Supplies,2,12.48,24.96,8.71,16.25,East
+TXN-11510,2025-08-03,CUST-1088,Corporate,Premium Notebook A5,Office Supplies,10,12.03,120.3,42.07,78.23,West
+TXN-11511,2025-06-20,CUST-1033,Consumer,Premium Notebook A5,Office Supplies,4,11.83,47.32,16.53,30.79,East
+TXN-11512,2025-04-29,CUST-1064,Corporate,Filing Cabinet 3-Drawer,Furniture,10,145.63,1456.3,789.02,667.28,South
+TXN-11514,2025-03-26,CUST-1018,Consumer,High-Speed USB-C Cable,Technology,9,18.88,169.92,51.64,118.28,North
+TXN-11515,2025-09-10,CUST-1100,Consumer,Standing Desk Frame,Furniture,4,310.38,1241.52,744.04,497.48,South
+TXN-11516,2025-04-15,CUST-1086,Home Office,Ergonomic Chair,Furniture,3,248.32,744.96,487.28,257.68,West
+TXN-11517,2025-02-12,CUST-1032,Consumer,Sticky Notes Pastel,Office Supplies,10,8.31,83.1,20.78,62.32,South
+TXN-11518,2025-11-26,CUST-1080,Corporate,Wireless Mouse M2,Technology,2,24.69,49.38,19.45,29.93,East
+TXN-11521,2025-10-14,CUST-1129,Consumer,Standing Desk Frame,Furniture,1,302.64,302.64,181.77,120.87,East
+TXN-11522,2025-04-20,CUST-1022,Home Office,Standing Desk Frame,Furniture,4,305.82,1223.28,741.55,481.73,West
+TXN-11523,2025-06-08,CUST-1077,Corporate,Pro Laptop 15,Technology,6,1142.64,6855.84,4751.1,2104.74,South
+TXN-11524,2025-05-06,CUST-1023,Corporate,High-Speed USB-C Cable,Technology,6,18.6,111.6,33.56,78.04,West
+TXN-11525,2025-03-16,CUST-1004,Home Office,Filing Cabinet 3-Drawer,Furniture,8,151.01,1208.08,663.12,544.96,East
+TXN-11526,2025-12-09,CUST-1071,Consumer,Filing Cabinet 3-Drawer,Furniture,5,143.12,715.6,386.85,328.75,East
+TXN-11527,2025-09-13,CUST-1051,Consumer,UltraWide Monitor 34,Technology,2,412.19,824.38,583.33,241.05,South
+TXN-11528,2025-03-23,CUST-1118,Consumer,Ergonomic Chair,Furniture,7,261.57,1830.99,1203.88,627.11,North
+TXN-11529,2025-08-24,CUST-1007,Corporate,Filing Cabinet 3-Drawer,Furniture,4,145.56,582.24,318.6,263.64,South
+TXN-11530,2025-05-10,CUST-1027,Corporate,Sticky Notes Pastel,Office Supplies,8,7.7,61.6,15.2,46.4,South
+TXN-11531,2025-12-26,CUST-1146,Home Office,Premium Notebook A5,Office Supplies,1,11.65,11.65,4.02,7.63,West
+TXN-11532,2025-05-19,CUST-1091,Corporate,Standing Desk Frame,Furniture,2,303.19,606.38,360.25,246.13,South
+TXN-11533,2025-10-24,CUST-1030,Corporate,Smart Bluetooth Speaker,Technology,3,79.47,238.41,119.25,119.16,West
+TXN-11534,2025-09-29,CUST-1013,Home Office,Ergonomic Chair,Furniture,5,252.88,1264.4,826.41,437.99,South
+TXN-11535,2025-09-24,CUST-1031,Consumer,Smart Bluetooth Speaker,Technology,10,76.37,763.7,382.08,381.62,West
+TXN-11536,2025-04-05,CUST-1098,Home Office,High-Speed USB-C Cable,Technology,5,17.99,89.95,27.13,62.82,North
+TXN-11537,2025-04-21,CUST-1073,Corporate,Premium Notebook A5,Office Supplies,1,11.87,11.87,4.11,7.76,North
+TXN-11538,2025-10-03,CUST-1098,Home Office,Pro Laptop 15,Technology,6,1200.38,7202.28,5076.89,2125.39,West
+TXN-11540,2025-07-28,CUST-1015,Consumer,Executive Wooden Desk,Furniture,8,431.62,3452.96,2038.97,1413.99,West
+TXN-11541,2025-12-05,CUST-1018,Corporate,UltraWide Monitor 34,Technology,7,392.85,2749.95,2006.09,743.86,South
+TXN-11542,2025-06-09,CUST-1023,Consumer,Wireless Mouse M2,Technology,3,26.12,78.36,30.72,47.64,West
+TXN-11543,2025-07-31,CUST-1023,Consumer,High-Speed USB-C Cable,Technology,5,17.31,86.55,25.69,60.86,East
+TXN-11545,2025-11-17,CUST-1018,Home Office,Pro Laptop 15,Technology,8,1257.53,10060.24,7042.17,3018.07,West
+TXN-11546,2025-05-04,CUST-1111,Consumer,High-Speed USB-C Cable,Technology,10,17.25,172.5,52.58,119.92,South
+TXN-11547,2025-12-09,CUST-1021,Corporate,Wireless Mouse M2,Technology,9,25.84,232.56,91.23,141.33,South
+TXN-11548,2025-07-20,CUST-1126,Consumer,Gel Pens (Pack of 12),Office Supplies,9,14.88,133.92,40.22,93.7,West
+TXN-11549,2025-04-19,CUST-1027,Home Office,Gel Pens (Pack of 12),Office Supplies,4,14.34,57.36,17.15,40.21,North
+TXN-11551,2025-10-02,CUST-1080,Consumer,Ergonomic Chair,Furniture,3,239.66,718.98,466.62,252.36,West
+TXN-11552,2025-08-09,CUST-1043,Home Office,Standing Desk Frame,Furniture,6,313.41,1880.46,1110.6,769.86,East
+TXN-11553,2025-07-12,CUST-1094,Home Office,High-Speed USB-C Cable,Technology,6,18.69,112.14,33.38,78.76,South
+TXN-11554,2025-09-13,CUST-1085,Corporate,Sticky Notes Pastel,Office Supplies,3,8.35,25.05,6.36,18.69,North
+TXN-11555,2025-12-14,CUST-1058,Consumer,Pro Laptop 15,Technology,4,1241.15,4964.6,3443.45,1521.15,North
+TXN-11557,2025-06-15,CUST-1003,Home Office,Smart Bluetooth Speaker,Technology,6,82.39,494.34,248.36,245.98,West
+TXN-11558,2025-10-19,CUST-1001,Home Office,Sticky Notes Pastel,Office Supplies,6,8.07,48.42,12.08,36.34,East
+TXN-11559,2025-07-26,CUST-1025,Corporate,Smart Bluetooth Speaker,Technology,3,80.23,240.69,122.46,118.23,South
+TXN-11560,2025-09-13,CUST-1103,Corporate,High-Speed USB-C Cable,Technology,5,18.05,90.25,26.9,63.35,North
+TXN-11561,2025-07-22,CUST-1097,Home Office,Executive Wooden Desk,Furniture,7,451.72,3162.04,1891.53,1270.51,North
+TXN-11562,2025-01-05,CUST-1106,Home Office,Standing Desk Frame,Furniture,4,301.41,1205.64,723.5,482.14,West
+TXN-11563,2025-05-03,CUST-1136,Corporate,UltraWide Monitor 34,Technology,8,385.99,3087.92,2244.92,843.0,East
+TXN-11564,2025-09-15,CUST-1004,Corporate,Standing Desk Frame,Furniture,9,313.44,2820.96,1693.42,1127.54,East
+TXN-11565,2025-04-11,CUST-1071,Home Office,Smart Bluetooth Speaker,Technology,3,76.5,229.5,114.64,114.86,South
+TXN-11566,2025-05-27,CUST-1026,Home Office,Wireless Mouse M2,Technology,3,25.78,77.34,30.51,46.83,West
+TXN-11567,2025-05-31,CUST-1116,Corporate,Ergonomic Chair,Furniture,4,239.49,957.96,614.53,343.43,North
+TXN-11568,2025-11-17,CUST-1054,Home Office,Pro Laptop 15,Technology,8,1197.58,9580.64,6661.42,2919.22,North
+TXN-11570,2025-04-26,CUST-1072,Home Office,Sticky Notes Pastel,Office Supplies,8,8.09,64.72,16.48,48.24,South
+TXN-11571,2025-06-04,CUST-1070,Consumer,Standing Desk Frame,Furniture,7,307.62,2153.34,1286.84,866.5,North
+TXN-11572,2025-06-06,CUST-1098,Consumer,Gel Pens (Pack of 12),Office Supplies,4,15.52,62.08,18.42,43.66,North
+TXN-11573,2025-05-30,CUST-1139,Home Office,Sticky Notes Pastel,Office Supplies,9,7.67,69.03,17.11,51.92,West
+TXN-11574,2025-10-03,CUST-1045,Corporate,High-Speed USB-C Cable,Technology,2,18.1,36.2,10.87,25.33,North
+TXN-11576,2025-06-12,CUST-1136,Home Office,Standing Desk Frame,Furniture,10,301.22,3012.2,1838.04,1174.16,West
+TXN-11577,2025-03-11,CUST-1059,Home Office,Executive Wooden Desk,Furniture,10,460.44,4604.4,2786.12,1818.28,North
+TXN-11579,2025-11-30,CUST-1060,Home Office,Gel Pens (Pack of 12),Office Supplies,8,14.28,114.24,34.82,79.42,West
+TXN-11580,2025-11-02,CUST-1050,Corporate,Ergonomic Chair,Furniture,10,246.34,2463.4,1612.05,851.35,East
+TXN-11581,2025-09-25,CUST-1080,Home Office,Standing Desk Frame,Furniture,3,301.39,904.17,548.02,356.15,North
+TXN-11582,2025-07-07,CUST-1005,Home Office,Standing Desk Frame,Furniture,2,303.56,607.12,357.59,249.53,North
+TXN-11583,2025-10-27,CUST-1117,Home Office,Smart Bluetooth Speaker,Technology,5,83.1,415.5,208.87,206.63,East
+TXN-11584,2025-05-22,CUST-1010,Consumer,Pro Laptop 15,Technology,10,1259.16,12591.6,8741.09,3850.51,West
+TXN-11586,2025-04-05,CUST-1026,Home Office,UltraWide Monitor 34,Technology,8,383.75,3070.0,2240.79,829.21,South
+TXN-11587,2025-10-20,CUST-1014,Corporate,Pro Laptop 15,Technology,2,1161.08,2322.16,1647.8,674.36,South
+TXN-11588,2025-01-16,CUST-1042,Consumer,High-Speed USB-C Cable,Technology,2,18.61,37.22,11.25,25.97,West
+TXN-11589,2025-08-10,CUST-1003,Corporate,Pro Laptop 15,Technology,7,1140.6,7984.2,5648.82,2335.38,West
+TXN-11590,2025-04-04,CUST-1085,Consumer,High-Speed USB-C Cable,Technology,9,17.27,155.43,46.13,109.3,West
+TXN-11591,2025-12-20,CUST-1014,Corporate,Gel Pens (Pack of 12),Office Supplies,7,14.58,102.06,30.87,71.19,South
+TXN-11593,2025-03-18,CUST-1071,Corporate,Gel Pens (Pack of 12),Office Supplies,4,14.5,58.0,17.16,40.84,South
+TXN-11594,2025-04-23,CUST-1043,Corporate,Smart Bluetooth Speaker,Technology,10,83.16,831.6,407.82,423.78,North
+TXN-11595,2025-05-05,CUST-1096,Consumer,Smart Bluetooth Speaker,Technology,4,76.3,305.2,151.78,153.42,South
+TXN-11597,2025-01-10,CUST-1039,Home Office,Premium Notebook A5,Office Supplies,6,12.14,72.84,25.65,47.19,South
+TXN-11598,2025-11-12,CUST-1021,Home Office,Standing Desk Frame,Furniture,8,305.57,2444.56,1490.2,954.36,East
+TXN-11599,2025-06-03,CUST-1024,Home Office,Filing Cabinet 3-Drawer,Furniture,10,144.62,1446.2,808.14,638.06,West
+TXN-11601,2025-01-26,CUST-1028,Home Office,Sticky Notes Pastel,Office Supplies,7,7.8,54.6,13.83,40.77,North
+TXN-11602,2025-01-23,CUST-1063,Consumer,Standing Desk Frame,Furniture,10,303.13,3031.3,1784.53,1246.77,South
+TXN-11603,2025-12-02,CUST-1148,Home Office,Premium Notebook A5,Office Supplies,7,12.49,87.43,30.4,57.03,South
+TXN-11604,2025-09-30,CUST-1057,Home Office,Sticky Notes Pastel,Office Supplies,1,7.99,7.99,1.99,6.0,West
+TXN-11605,2025-03-03,CUST-1054,Consumer,Pro Laptop 15,Technology,3,1202.35,3607.05,2487.78,1119.27,North
+TXN-11606,2025-12-24,CUST-1134,Consumer,Executive Wooden Desk,Furniture,9,470.59,4235.31,2526.36,1708.95,South
+TXN-11607,2025-08-20,CUST-1103,Corporate,Ergonomic Chair,Furniture,1,240.06,240.06,159.09,80.97,North
+TXN-11608,2025-10-15,CUST-1105,Corporate,Pro Laptop 15,Technology,5,1211.2,6056.0,4202.26,1853.74,East
+TXN-11610,2025-11-20,CUST-1089,Consumer,Filing Cabinet 3-Drawer,Furniture,7,156.45,1095.15,607.04,488.11,East
+TXN-11611,2025-04-06,CUST-1109,Corporate,Executive Wooden Desk,Furniture,10,440.06,4400.6,2617.92,1782.68,West
+TXN-11612,2025-03-03,CUST-1027,Corporate,Executive Wooden Desk,Furniture,6,430.28,2581.68,1533.78,1047.9,West
+TXN-11613,2025-05-02,CUST-1114,Home Office,Gel Pens (Pack of 12),Office Supplies,7,15.55,108.85,32.62,76.23,South
+TXN-11614,2025-09-25,CUST-1023,Home Office,Sticky Notes Pastel,Office Supplies,5,8.03,40.15,10.02,30.13,South
+TXN-11615,2025-01-28,CUST-1127,Consumer,Gel Pens (Pack of 12),Office Supplies,9,14.33,128.97,39.14,89.83,East
+TXN-11616,2025-01-05,CUST-1137,Corporate,Premium Notebook A5,Office Supplies,4,12.18,48.72,17.31,31.41,North
+TXN-11617,2025-03-24,CUST-1025,Corporate,High-Speed USB-C Cable,Technology,2,18.63,37.26,11.05,26.21,West
+TXN-11620,2025-03-22,CUST-1011,Corporate,Premium Notebook A5,Office Supplies,7,11.74,82.18,28.93,53.25,West
+TXN-11621,2025-04-13,CUST-1145,Corporate,Filing Cabinet 3-Drawer,Furniture,4,152.83,611.32,338.37,272.95,North
+TXN-11622,2025-02-17,CUST-1017,Home Office,Wireless Mouse M2,Technology,1,25.95,25.95,10.37,15.58,East
+TXN-11623,2025-10-01,CUST-1143,Consumer,Pro Laptop 15,Technology,6,1143.02,6858.12,4769.82,2088.3,West
+TXN-11624,2025-04-17,CUST-1075,Home Office,Wireless Mouse M2,Technology,3,24.99,74.97,29.86,45.11,North
+TXN-11625,2025-11-28,CUST-1123,Home Office,Filing Cabinet 3-Drawer,Furniture,6,149.36,896.16,502.12,394.04,South
+TXN-11626,2025-03-24,CUST-1119,Home Office,Ergonomic Chair,Furniture,5,243.25,1216.25,794.82,421.43,West
+TXN-11627,2025-09-03,CUST-1102,Consumer,High-Speed USB-C Cable,Technology,1,17.99,17.99,5.41,12.58,North
+TXN-11628,2025-07-15,CUST-1074,Corporate,Standing Desk Frame,Furniture,3,304.4,913.2,550.02,363.18,North
+TXN-11629,2025-08-24,CUST-1060,Home Office,Gel Pens (Pack of 12),Office Supplies,2,15.07,30.14,9.17,20.97,West
+TXN-11631,2025-03-06,CUST-1044,Home Office,Smart Bluetooth Speaker,Technology,7,78.15,547.05,268.05,279.0,South
+TXN-11632,2025-02-13,CUST-1066,Corporate,Ergonomic Chair,Furniture,9,245.93,2213.37,1437.81,775.56,West
+TXN-11635,2025-03-30,CUST-1065,Consumer,Filing Cabinet 3-Drawer,Furniture,5,147.06,735.3,400.96,334.34,East
+TXN-11637,2025-04-15,CUST-1027,Home Office,Ergonomic Chair,Furniture,2,249.6,499.2,327.53,171.67,North
+TXN-11638,2025-06-15,CUST-1084,Corporate,Ergonomic Chair,Furniture,1,259.2,259.2,169.39,89.81,South
+TXN-11639,2025-09-29,CUST-1140,Corporate,Gel Pens (Pack of 12),Office Supplies,8,15.73,125.84,38.39,87.45,East
+TXN-11640,2025-10-16,CUST-1067,Corporate,UltraWide Monitor 34,Technology,6,406.27,2437.62,1753.38,684.24,North
+TXN-11641,2025-01-09,CUST-1101,Home Office,Sticky Notes Pastel,Office Supplies,2,7.73,15.46,3.83,11.63,West
+TXN-11642,2025-05-29,CUST-1099,Home Office,Sticky Notes Pastel,Office Supplies,6,8.12,48.72,12.18,36.54,South
+TXN-11643,2025-02-06,CUST-1005,Consumer,Gel Pens (Pack of 12),Office Supplies,9,15.69,141.21,42.12,99.09,West
+TXN-11644,2025-07-22,CUST-1006,Home Office,Standing Desk Frame,Furniture,2,295.9,591.8,354.9,236.9,East
+TXN-11645,2025-03-19,CUST-1100,Consumer,Sticky Notes Pastel,Office Supplies,2,7.66,15.32,3.82,11.5,South
+TXN-11646,2025-12-10,CUST-1137,Corporate,Wireless Mouse M2,Technology,5,25.51,127.55,51.86,75.69,South
+TXN-11647,2025-04-19,CUST-1010,Consumer,Filing Cabinet 3-Drawer,Furniture,4,151.34,605.36,336.16,269.2,West
+TXN-11648,2025-12-04,CUST-1074,Home Office,Smart Bluetooth Speaker,Technology,10,82.02,820.2,408.95,411.25,North
+TXN-11649,2025-08-04,CUST-1016,Home Office,Executive Wooden Desk,Furniture,1,450.45,450.45,273.42,177.03,South
+TXN-11650,2025-06-14,CUST-1027,Corporate,Ergonomic Chair,Furniture,7,259.81,1818.67,1175.95,642.72,East
+TXN-11651,2025-08-19,CUST-1084,Consumer,Executive Wooden Desk,Furniture,7,460.58,3224.06,1916.06,1308.0,North
+TXN-11652,2025-04-08,CUST-1049,Corporate,Wireless Mouse M2,Technology,5,25.71,128.55,51.64,76.91,West
+TXN-11653,2025-02-08,CUST-1025,Home Office,Gel Pens (Pack of 12),Office Supplies,7,14.56,101.92,30.57,71.35,North
+TXN-11654,2025-12-18,CUST-1054,Corporate,Filing Cabinet 3-Drawer,Furniture,2,154.94,309.88,168.67,141.21,North
+TXN-11655,2025-12-26,CUST-1107,Consumer,Gel Pens (Pack of 12),Office Supplies,4,14.31,57.24,17.07,40.17,South
+TXN-11657,2025-01-21,CUST-1105,Home Office,Wireless Mouse M2,Technology,8,23.84,190.72,76.94,113.78,North
+TXN-11658,2025-06-11,CUST-1018,Home Office,High-Speed USB-C Cable,Technology,4,18.8,75.2,22.29,52.91,East
+TXN-11659,2025-11-14,CUST-1044,Consumer,Standing Desk Frame,Furniture,7,298.81,2091.67,1272.15,819.52,North
+TXN-11662,2025-12-07,CUST-1079,Home Office,UltraWide Monitor 34,Technology,1,394.11,394.11,280.49,113.62,South
+TXN-11663,2025-12-19,CUST-1117,Home Office,High-Speed USB-C Cable,Technology,7,18.05,126.35,38.6,87.75,West
+TXN-11664,2025-02-18,CUST-1073,Consumer,Gel Pens (Pack of 12),Office Supplies,3,14.71,44.13,13.41,30.72,South
+TXN-11665,2025-01-04,CUST-1029,Consumer,Ergonomic Chair,Furniture,4,244.09,976.36,636.39,339.97,East
+TXN-11666,2025-05-26,CUST-1079,Corporate,UltraWide Monitor 34,Technology,5,389.11,1945.55,1427.26,518.29,North
+TXN-11668,2025-01-10,CUST-1050,Corporate,UltraWide Monitor 34,Technology,10,402.41,4024.1,2891.72,1132.38,South
+TXN-11669,2025-05-04,CUST-1020,Home Office,Sticky Notes Pastel,Office Supplies,6,7.95,47.7,11.7,36.0,South
+TXN-11670,2025-12-22,CUST-1074,Home Office,Pro Laptop 15,Technology,3,1188.09,3564.27,2462.2,1102.07,South
+TXN-11671,2025-12-25,CUST-1059,Consumer,Smart Bluetooth Speaker,Technology,4,81.21,324.84,159.92,164.92,West
+TXN-11672,2025-09-27,CUST-1098,Corporate,Gel Pens (Pack of 12),Office Supplies,7,14.34,100.38,29.97,70.41,East
+TXN-11673,2025-10-08,CUST-1036,Corporate,Pro Laptop 15,Technology,5,1187.25,5936.25,4185.65,1750.6,South
+TXN-11674,2025-09-04,CUST-1148,Consumer,Standing Desk Frame,Furniture,5,308.87,1544.35,935.41,608.94,South
+TXN-11675,2025-11-21,CUST-1136,Corporate,Premium Notebook A5,Office Supplies,6,12.46,74.76,26.0,48.76,West
+TXN-11676,2025-09-09,CUST-1104,Home Office,Standing Desk Frame,Furniture,2,309.47,618.94,374.46,244.48,North
+TXN-11677,2025-09-17,CUST-1045,Home Office,Premium Notebook A5,Office Supplies,9,12.42,111.78,38.47,73.31,South
+TXN-11678,2025-11-19,CUST-1050,Corporate,Ergonomic Chair,Furniture,6,249.66,1497.96,958.99,538.97,East
+TXN-11679,2025-08-12,CUST-1100,Consumer,Ergonomic Chair,Furniture,6,239.45,1436.7,918.48,518.22,West
+TXN-11680,2025-05-04,CUST-1096,Consumer,Smart Bluetooth Speaker,Technology,2,78.31,156.62,77.62,79.0,South
+TXN-11681,2025-11-27,CUST-1029,Corporate,High-Speed USB-C Cable,Technology,3,17.29,51.87,15.61,36.26,South
+TXN-11683,2025-01-01,CUST-1076,Consumer,Smart Bluetooth Speaker,Technology,4,82.48,329.92,166.35,163.57,East
+TXN-11684,2025-10-31,CUST-1131,Corporate,Wireless Mouse M2,Technology,1,24.42,24.42,9.76,14.66,North
+TXN-11686,2025-09-09,CUST-1013,Consumer,Ergonomic Chair,Furniture,10,247.64,2476.4,1596.04,880.36,East
+TXN-11687,2025-02-20,CUST-1150,Corporate,Filing Cabinet 3-Drawer,Furniture,2,149.95,299.9,163.78,136.12,South
+TXN-11688,2025-08-25,CUST-1124,Home Office,Pro Laptop 15,Technology,6,1241.7,7450.2,5274.0,2176.2,East
+TXN-11689,2025-10-18,CUST-1043,Corporate,Pro Laptop 15,Technology,6,1186.51,7119.06,4999.0,2120.06,North
+TXN-11691,2025-08-23,CUST-1075,Corporate,Pro Laptop 15,Technology,6,1190.24,7141.44,4987.58,2153.86,West
+TXN-11694,2025-12-02,CUST-1005,Corporate,Standing Desk Frame,Furniture,8,288.32,2306.56,1380.01,926.55,East
+TXN-11695,2025-01-30,CUST-1138,Consumer,Gel Pens (Pack of 12),Office Supplies,1,15.6,15.6,4.69,10.91,West
+TXN-11696,2025-08-29,CUST-1006,Consumer,Sticky Notes Pastel,Office Supplies,2,7.63,15.26,3.85,11.41,West
+TXN-11697,2025-01-19,CUST-1020,Home Office,Ergonomic Chair,Furniture,8,237.54,1900.32,1240.34,659.98,South
+TXN-11700,2025-09-29,CUST-1013,Home Office,High-Speed USB-C Cable,Technology,4,18.24,72.96,21.98,50.98,East
+TXN-11701,2025-05-07,CUST-1128,Corporate,Filing Cabinet 3-Drawer,Furniture,2,143.13,286.26,159.7,126.56,East
+TXN-11702,2025-03-23,CUST-1137,Home Office,Gel Pens (Pack of 12),Office Supplies,3,14.64,43.92,13.27,30.65,West
+TXN-11703,2025-05-13,CUST-1095,Home Office,Smart Bluetooth Speaker,Technology,5,82.27,411.35,203.12,208.23,West
+TXN-11704,2025-04-24,CUST-1117,Corporate,Sticky Notes Pastel,Office Supplies,1,8.14,8.14,2.07,6.07,North
+TXN-11705,2025-11-30,CUST-1064,Consumer,UltraWide Monitor 34,Technology,1,405.12,405.12,288.85,116.27,South
+TXN-11706,2025-12-06,CUST-1047,Home Office,Standing Desk Frame,Furniture,6,296.27,1777.62,1069.42,708.2,West
+TXN-11709,2025-08-16,CUST-1041,Home Office,UltraWide Monitor 34,Technology,7,384.9,2694.3,1953.1,741.2,East
+TXN-11710,2025-03-11,CUST-1127,Corporate,Premium Notebook A5,Office Supplies,6,11.95,71.7,25.46,46.24,South
+TXN-11711,2025-05-18,CUST-1076,Corporate,Filing Cabinet 3-Drawer,Furniture,8,149.95,1199.6,667.1,532.5,West
+TXN-11713,2025-07-31,CUST-1050,Home Office,Executive Wooden Desk,Furniture,7,438.43,3069.01,1846.93,1222.08,East
+TXN-11714,2025-05-26,CUST-1130,Consumer,Wireless Mouse M2,Technology,7,24.82,173.74,68.3,105.44,East
+TXN-11716,2025-02-04,CUST-1018,Corporate,UltraWide Monitor 34,Technology,8,416.61,3332.88,2445.67,887.21,North
+TXN-11717,2025-07-21,CUST-1026,Corporate,Gel Pens (Pack of 12),Office Supplies,2,15.37,30.74,9.05,21.69,West
+TXN-11718,2025-12-01,CUST-1039,Consumer,High-Speed USB-C Cable,Technology,5,17.78,88.9,27.07,61.83,North
+TXN-11719,2025-07-30,CUST-1068,Home Office,Smart Bluetooth Speaker,Technology,3,79.96,239.88,122.12,117.76,South
+TXN-11720,2025-05-28,CUST-1006,Consumer,Pro Laptop 15,Technology,7,1152.07,8064.49,5556.43,2508.06,East
+TXN-11722,2025-11-11,CUST-1087,Corporate,UltraWide Monitor 34,Technology,6,401.9,2411.4,1715.95,695.45,South
+TXN-11723,2025-12-22,CUST-1022,Corporate,Smart Bluetooth Speaker,Technology,4,82.4,329.6,166.58,163.02,West
+TXN-11724,2025-04-25,CUST-1118,Corporate,Smart Bluetooth Speaker,Technology,8,83.26,666.08,334.97,331.11,North
+TXN-11725,2025-05-27,CUST-1102,Consumer,Executive Wooden Desk,Furniture,5,465.0,2325.0,1414.53,910.47,South
+TXN-11726,2025-06-21,CUST-1043,Consumer,Premium Notebook A5,Office Supplies,9,11.6,104.4,37.22,67.18,South
+TXN-11727,2025-11-21,CUST-1063,Consumer,Executive Wooden Desk,Furniture,2,455.11,910.22,545.13,365.09,North
+TXN-11728,2025-05-22,CUST-1067,Home Office,Gel Pens (Pack of 12),Office Supplies,1,14.49,14.49,4.28,10.21,South
+TXN-11729,2025-09-26,CUST-1051,Corporate,Premium Notebook A5,Office Supplies,2,12.4,24.8,8.65,16.15,South
+TXN-11730,2025-02-05,CUST-1080,Home Office,Sticky Notes Pastel,Office Supplies,10,8.36,83.6,21.08,62.52,North
+TXN-11731,2025-07-16,CUST-1013,Consumer,UltraWide Monitor 34,Technology,8,412.52,3300.16,2389.65,910.51,South
+TXN-11732,2025-01-22,CUST-1068,Consumer,Premium Notebook A5,Office Supplies,10,11.84,118.4,41.24,77.16,East
+TXN-11733,2025-06-01,CUST-1105,Consumer,Executive Wooden Desk,Furniture,1,439.04,439.04,268.43,170.61,South
+TXN-11734,2025-08-09,CUST-1082,Home Office,Gel Pens (Pack of 12),Office Supplies,2,14.63,29.26,8.85,20.41,South
+TXN-11735,2025-10-26,CUST-1080,Consumer,Standing Desk Frame,Furniture,10,304.02,3040.2,1809.83,1230.37,South
+TXN-11736,2025-02-08,CUST-1100,Consumer,Smart Bluetooth Speaker,Technology,10,83.77,837.7,411.56,426.14,North
+TXN-11737,2025-10-19,CUST-1082,Consumer,UltraWide Monitor 34,Technology,9,417.58,3758.22,2658.56,1099.66,East
+TXN-11739,2025-08-03,CUST-1053,Consumer,Standing Desk Frame,Furniture,2,299.37,598.74,364.03,234.71,South
+TXN-11740,2025-04-19,CUST-1023,Home Office,Pro Laptop 15,Technology,2,1236.42,2472.84,1725.05,747.79,West
+TXN-11742,2025-09-14,CUST-1002,Consumer,Ergonomic Chair,Furniture,2,252.57,505.14,332.63,172.51,East
+TXN-11744,2025-06-04,CUST-1038,Consumer,Sticky Notes Pastel,Office Supplies,5,7.73,38.65,9.48,29.17,West
+TXN-11745,2025-06-26,CUST-1052,Corporate,High-Speed USB-C Cable,Technology,5,17.27,86.35,26.4,59.95,East
+TXN-11746,2025-12-13,CUST-1100,Home Office,Sticky Notes Pastel,Office Supplies,7,8.37,58.59,14.44,44.15,East
+TXN-11747,2025-05-30,CUST-1150,Consumer,Executive Wooden Desk,Furniture,7,455.08,3185.56,1896.36,1289.2,North
+TXN-11748,2025-04-13,CUST-1092,Home Office,Ergonomic Chair,Furniture,5,262.22,1311.1,848.41,462.69,North
+TXN-11749,2025-11-24,CUST-1047,Corporate,Filing Cabinet 3-Drawer,Furniture,1,147.39,147.39,80.45,66.94,West
+TXN-11750,2025-04-20,CUST-1064,Home Office,Sticky Notes Pastel,Office Supplies,3,7.88,23.64,5.89,17.75,South
+TXN-11752,2025-05-08,CUST-1047,Corporate,Premium Notebook A5,Office Supplies,1,11.45,11.45,3.97,7.48,East
+TXN-11753,2025-03-23,CUST-1067,Corporate,High-Speed USB-C Cable,Technology,4,18.34,73.36,22.25,51.11,East
+TXN-11755,2025-11-05,CUST-1075,Consumer,Pro Laptop 15,Technology,5,1219.46,6097.3,4199.82,1897.48,North
+TXN-11756,2025-08-19,CUST-1067,Corporate,Smart Bluetooth Speaker,Technology,5,81.42,407.1,199.68,207.42,West
+TXN-11757,2025-12-01,CUST-1110,Home Office,Pro Laptop 15,Technology,4,1244.36,4977.44,3463.8,1513.64,West
+TXN-11758,2025-06-10,CUST-1020,Home Office,Sticky Notes Pastel,Office Supplies,3,8.14,24.42,6.0,18.42,South
+TXN-11759,2025-07-22,CUST-1030,Corporate,High-Speed USB-C Cable,Technology,7,18.77,131.39,39.4,91.99,North
+TXN-11760,2025-03-07,CUST-1103,Home Office,High-Speed USB-C Cable,Technology,3,17.29,51.87,15.39,36.48,East
+TXN-11762,2025-12-25,CUST-1033,Corporate,Pro Laptop 15,Technology,4,1145.38,4581.52,3158.04,1423.48,South
+TXN-11763,2025-01-24,CUST-1060,Corporate,Premium Notebook A5,Office Supplies,5,12.37,61.85,21.28,40.57,South
+TXN-11764,2025-06-21,CUST-1111,Corporate,Executive Wooden Desk,Furniture,6,455.57,2733.42,1612.44,1120.98,West
+TXN-11765,2025-06-27,CUST-1008,Corporate,Sticky Notes Pastel,Office Supplies,7,7.64,53.48,13.14,40.34,East
+TXN-11766,2025-04-08,CUST-1110,Consumer,Smart Bluetooth Speaker,Technology,5,83.79,418.95,212.66,206.29,North
+TXN-11767,2025-10-27,CUST-1081,Consumer,Sticky Notes Pastel,Office Supplies,10,7.85,78.5,19.33,59.17,North
+TXN-11768,2025-02-11,CUST-1003,Consumer,Standing Desk Frame,Furniture,10,307.15,3071.5,1822.01,1249.49,East
+TXN-11770,2025-11-01,CUST-1050,Consumer,Standing Desk Frame,Furniture,3,308.08,924.24,544.01,380.23,North
+TXN-11771,2025-05-29,CUST-1131,Consumer,Ergonomic Chair,Furniture,2,249.06,498.12,321.29,176.83,South
+TXN-11772,2025-11-30,CUST-1107,Home Office,Sticky Notes Pastel,Office Supplies,8,7.83,62.64,15.47,47.17,West
+TXN-11773,2025-12-31,CUST-1013,Corporate,Wireless Mouse M2,Technology,1,24.49,24.49,9.82,14.67,South
+TXN-11774,2025-07-14,CUST-1143,Corporate,Standing Desk Frame,Furniture,6,314.37,1886.22,1115.7,770.52,North
+TXN-11775,2025-04-28,CUST-1144,Consumer,Standing Desk Frame,Furniture,8,296.73,2373.84,1406.03,967.81,East
+TXN-11776,2025-08-16,CUST-1045,Home Office,High-Speed USB-C Cable,Technology,6,17.77,106.62,32.59,74.03,West
+TXN-11777,2025-10-15,CUST-1069,Home Office,Executive Wooden Desk,Furniture,7,427.76,2994.32,1812.76,1181.56,West
+TXN-11778,2025-11-22,CUST-1081,Consumer,Ergonomic Chair,Furniture,8,255.33,2042.64,1340.79,701.85,North
+TXN-11779,2025-12-19,CUST-1101,Consumer,High-Speed USB-C Cable,Technology,7,17.78,124.46,37.69,86.77,North
+TXN-11780,2025-11-14,CUST-1022,Corporate,Pro Laptop 15,Technology,10,1233.49,12334.9,8776.28,3558.62,South
+TXN-11781,2025-05-02,CUST-1066,Consumer,Ergonomic Chair,Furniture,10,247.2,2472.0,1631.03,840.97,North
+TXN-11782,2025-11-15,CUST-1106,Corporate,Gel Pens (Pack of 12),Office Supplies,4,15.5,62.0,18.45,43.55,North
+TXN-11783,2025-09-03,CUST-1080,Consumer,Smart Bluetooth Speaker,Technology,3,76.75,230.25,114.78,115.47,West
+TXN-11784,2025-02-04,CUST-1120,Corporate,Standing Desk Frame,Furniture,5,301.82,1509.1,908.78,600.32,West
+TXN-11785,2025-11-15,CUST-1107,Consumer,High-Speed USB-C Cable,Technology,4,17.37,69.48,21.03,48.45,East
+TXN-11786,2025-05-17,CUST-1147,Consumer,High-Speed USB-C Cable,Technology,8,17.3,138.4,41.88,96.52,East
+TXN-11787,2025-08-13,CUST-1050,Corporate,Ergonomic Chair,Furniture,9,244.21,2197.89,1405.55,792.34,South
+TXN-11789,2025-09-24,CUST-1010,Home Office,Sticky Notes Pastel,Office Supplies,9,8.09,72.81,17.88,54.93,South
+TXN-11790,2025-11-26,CUST-1125,Consumer,High-Speed USB-C Cable,Technology,3,17.24,51.72,15.26,36.46,West
+TXN-11791,2025-02-25,CUST-1011,Corporate,Executive Wooden Desk,Furniture,2,450.45,900.9,536.85,364.05,South
+TXN-11792,2025-05-28,CUST-1032,Consumer,Filing Cabinet 3-Drawer,Furniture,4,147.96,591.84,324.51,267.33,East
+TXN-11793,2025-10-14,CUST-1042,Consumer,Wireless Mouse M2,Technology,1,24.97,24.97,9.9,15.07,North
+TXN-11794,2025-12-04,CUST-1115,Consumer,Ergonomic Chair,Furniture,3,247.39,742.17,480.93,261.24,East
+TXN-11795,2025-10-31,CUST-1094,Home Office,Premium Notebook A5,Office Supplies,4,11.59,46.36,16.0,30.36,South
+TXN-11796,2025-11-29,CUST-1095,Corporate,Standing Desk Frame,Furniture,7,313.29,2193.03,1335.34,857.69,West
+TXN-11797,2025-11-18,CUST-1107,Consumer,Ergonomic Chair,Furniture,5,237.94,1189.7,758.43,431.27,West
+TXN-11798,2025-11-17,CUST-1011,Corporate,Sticky Notes Pastel,Office Supplies,6,7.67,46.02,11.45,34.57,North
+TXN-11799,2025-01-12,CUST-1108,Home Office,Ergonomic Chair,Furniture,10,257.34,2573.4,1666.79,906.61,East
+TXN-11800,2025-03-08,CUST-1039,Home Office,Wireless Mouse M2,Technology,7,25.96,181.72,72.4,109.32,East
+TXN-11801,2025-03-02,CUST-1089,Corporate,Ergonomic Chair,Furniture,7,246.52,1725.64,1125.81,599.83,North
+TXN-11802,2025-09-01,CUST-1018,Home Office,Standing Desk Frame,Furniture,1,311.62,311.62,187.78,123.84,South
+TXN-11803,2025-05-06,CUST-1093,Consumer,Standing Desk Frame,Furniture,2,286.89,573.78,346.05,227.73,West
+TXN-11804,2025-08-18,CUST-1079,Corporate,High-Speed USB-C Cable,Technology,8,18.15,145.2,43.53,101.67,West
+TXN-11805,2025-04-18,CUST-1051,Corporate,Wireless Mouse M2,Technology,9,24.78,223.02,90.84,132.18,North
+TXN-11807,2025-09-21,CUST-1044,Consumer,Standing Desk Frame,Furniture,9,299.29,2693.61,1635.02,1058.59,North
+TXN-11808,2025-12-31,CUST-1150,Consumer,Wireless Mouse M2,Technology,1,24.2,24.2,9.84,14.36,South
+TXN-11809,2025-07-02,CUST-1076,Corporate,Standing Desk Frame,Furniture,9,290.19,2611.71,1574.34,1037.37,West
+TXN-11810,2025-02-17,CUST-1079,Consumer,Ergonomic Chair,Furniture,7,247.51,1732.57,1105.38,627.19,North
+TXN-11811,2025-06-20,CUST-1107,Home Office,Executive Wooden Desk,Furniture,1,446.25,446.25,272.52,173.73,West
+TXN-11812,2025-03-31,CUST-1123,Home Office,Smart Bluetooth Speaker,Technology,2,78.78,157.56,79.91,77.65,South
+TXN-11813,2025-02-12,CUST-1129,Corporate,Filing Cabinet 3-Drawer,Furniture,5,155.8,779.0,420.82,358.18,East
+TXN-11814,2025-05-14,CUST-1009,Consumer,Standing Desk Frame,Furniture,5,298.6,1493.0,905.36,587.64,West
+TXN-11815,2025-10-18,CUST-1096,Home Office,Standing Desk Frame,Furniture,8,308.6,2468.8,1488.44,980.36,West
+TXN-11816,2025-06-29,CUST-1127,Corporate,High-Speed USB-C Cable,Technology,6,17.17,103.02,31.48,71.54,East
+TXN-11817,2025-12-05,CUST-1133,Corporate,Sticky Notes Pastel,Office Supplies,1,7.9,7.9,1.99,5.91,North
+TXN-11818,2025-09-24,CUST-1056,Consumer,Ergonomic Chair,Furniture,7,247.83,1734.81,1128.67,606.14,East
+TXN-11819,2025-02-05,CUST-1150,Corporate,Standing Desk Frame,Furniture,2,287.29,574.58,340.78,233.8,South
+TXN-11820,2025-03-18,CUST-1115,Corporate,Pro Laptop 15,Technology,1,1197.54,1197.54,852.65,344.89,North
+TXN-11821,2025-08-26,CUST-1057,Corporate,High-Speed USB-C Cable,Technology,8,17.27,138.16,40.62,97.54,East
+TXN-11822,2025-05-16,CUST-1033,Home Office,High-Speed USB-C Cable,Technology,3,18.73,56.19,16.8,39.39,East
+TXN-11823,2025-05-30,CUST-1108,Consumer,Ergonomic Chair,Furniture,10,252.11,2521.1,1667.71,853.39,North
+TXN-11824,2025-03-23,CUST-1026,Consumer,UltraWide Monitor 34,Technology,7,383.18,2682.26,1960.46,721.8,South
+TXN-11825,2025-04-21,CUST-1113,Corporate,Executive Wooden Desk,Furniture,10,443.13,4431.3,2629.09,1802.21,South
+TXN-11826,2025-06-21,CUST-1080,Corporate,Gel Pens (Pack of 12),Office Supplies,5,15.13,75.65,22.88,52.77,East
+TXN-11827,2025-04-14,CUST-1119,Home Office,Executive Wooden Desk,Furniture,4,465.69,1862.76,1109.27,753.49,North
+TXN-11828,2025-06-29,CUST-1012,Home Office,Smart Bluetooth Speaker,Technology,10,82.62,826.2,417.64,408.56,East
+TXN-11829,2025-09-10,CUST-1133,Consumer,Premium Notebook A5,Office Supplies,3,12.46,37.38,13.1,24.28,South
+TXN-11831,2025-11-29,CUST-1128,Corporate,Premium Notebook A5,Office Supplies,8,12.09,96.72,34.27,62.45,East
+TXN-11832,2025-04-05,CUST-1028,Corporate,Gel Pens (Pack of 12),Office Supplies,10,15.21,152.1,46.54,105.56,South
+TXN-11833,2025-11-11,CUST-1082,Consumer,Executive Wooden Desk,Furniture,4,469.75,1879.0,1145.44,733.56,West
+TXN-11834,2025-12-18,CUST-1087,Home Office,Pro Laptop 15,Technology,9,1150.4,10353.6,7342.77,3010.83,South
+TXN-11835,2025-07-11,CUST-1046,Home Office,Wireless Mouse M2,Technology,7,26.2,183.4,72.92,110.48,East
+TXN-11836,2025-04-08,CUST-1125,Home Office,High-Speed USB-C Cable,Technology,4,18.21,72.84,21.52,51.32,West
+TXN-11837,2025-01-11,CUST-1064,Home Office,Filing Cabinet 3-Drawer,Furniture,5,143.79,718.95,392.69,326.26,East
+TXN-11839,2025-07-05,CUST-1058,Consumer,Pro Laptop 15,Technology,10,1257.43,12574.3,8925.24,3649.06,South
+TXN-11840,2025-08-12,CUST-1140,Corporate,Smart Bluetooth Speaker,Technology,5,82.22,411.1,204.73,206.37,South
+TXN-11841,2025-08-27,CUST-1109,Home Office,Executive Wooden Desk,Furniture,1,465.86,465.86,275.46,190.4,West
+TXN-11842,2025-12-25,CUST-1071,Corporate,Sticky Notes Pastel,Office Supplies,8,8.1,64.8,16.32,48.48,South
+TXN-11843,2025-09-04,CUST-1033,Corporate,Sticky Notes Pastel,Office Supplies,1,7.9,7.9,2.0,5.9,East
+TXN-11844,2025-06-21,CUST-1030,Home Office,Sticky Notes Pastel,Office Supplies,5,7.94,39.7,10.03,29.67,North
+TXN-11845,2025-07-25,CUST-1041,Home Office,Ergonomic Chair,Furniture,8,240.39,1923.12,1272.53,650.59,East
+TXN-11846,2025-07-02,CUST-1130,Consumer,UltraWide Monitor 34,Technology,2,385.08,770.16,545.04,225.12,West
+TXN-11847,2025-02-18,CUST-1012,Consumer,Sticky Notes Pastel,Office Supplies,8,8.32,66.56,16.92,49.64,West
+TXN-11848,2025-07-19,CUST-1146,Home Office,Pro Laptop 15,Technology,7,1231.41,8619.87,6011.5,2608.37,East
+TXN-11849,2025-10-28,CUST-1005,Consumer,Standing Desk Frame,Furniture,7,311.39,2179.73,1315.25,864.48,North
+TXN-11850,2025-01-15,CUST-1110,Consumer,UltraWide Monitor 34,Technology,4,406.64,1626.56,1175.84,450.72,North
+TXN-11851,2025-07-05,CUST-1081,Corporate,Sticky Notes Pastel,Office Supplies,1,7.71,7.71,1.91,5.8,West
+TXN-11852,2025-04-17,CUST-1089,Corporate,Executive Wooden Desk,Furniture,8,452.16,3617.28,2208.35,1408.93,West
+TXN-11853,2025-05-27,CUST-1001,Consumer,Premium Notebook A5,Office Supplies,2,12.09,24.18,8.59,15.59,South
+TXN-11854,2025-07-16,CUST-1109,Consumer,Executive Wooden Desk,Furniture,1,443.88,443.88,267.53,176.35,South
+TXN-11855,2025-04-01,CUST-1006,Corporate,Filing Cabinet 3-Drawer,Furniture,7,145.39,1017.73,566.88,450.85,North
+TXN-11856,2025-09-03,CUST-1075,Consumer,Wireless Mouse M2,Technology,1,25.08,25.08,9.91,15.17,East
+TXN-11857,2025-10-07,CUST-1142,Corporate,High-Speed USB-C Cable,Technology,9,17.65,158.85,48.27,110.58,North
+TXN-11858,2025-07-27,CUST-1052,Home Office,Executive Wooden Desk,Furniture,4,466.31,1865.24,1112.24,753.0,South
+TXN-11859,2025-12-29,CUST-1095,Consumer,Executive Wooden Desk,Furniture,6,450.45,2702.7,1602.43,1100.27,South
+TXN-11860,2025-08-09,CUST-1145,Home Office,Ergonomic Chair,Furniture,5,245.06,1225.3,785.66,439.64,East
+TXN-11861,2025-09-26,CUST-1075,Consumer,Sticky Notes Pastel,Office Supplies,3,8.0,24.0,5.94,18.06,North
+TXN-11862,2025-12-05,CUST-1141,Home Office,High-Speed USB-C Cable,Technology,6,17.99,107.94,32.8,75.14,North
+TXN-11863,2025-03-29,CUST-1011,Consumer,Filing Cabinet 3-Drawer,Furniture,8,153.7,1229.6,673.57,556.03,West
+TXN-11864,2025-11-19,CUST-1044,Home Office,Ergonomic Chair,Furniture,7,241.64,1691.48,1087.28,604.2,West
+TXN-11865,2025-05-12,CUST-1004,Corporate,Standing Desk Frame,Furniture,4,290.88,1163.52,700.09,463.43,South
+TXN-11866,2025-03-11,CUST-1011,Consumer,Executive Wooden Desk,Furniture,2,442.55,885.1,521.85,363.25,East
+TXN-11867,2025-06-29,CUST-1070,Consumer,Standing Desk Frame,Furniture,3,296.87,890.61,534.28,356.33,West
+TXN-11868,2025-11-21,CUST-1125,Consumer,Premium Notebook A5,Office Supplies,3,11.87,35.61,12.67,22.94,East
+TXN-11869,2025-06-02,CUST-1021,Home Office,Smart Bluetooth Speaker,Technology,4,82.76,331.04,166.12,164.92,East
+TXN-11871,2025-01-08,CUST-1128,Consumer,Sticky Notes Pastel,Office Supplies,1,7.93,7.93,1.98,5.95,West
+TXN-11872,2025-10-12,CUST-1032,Corporate,Pro Laptop 15,Technology,10,1258.8,12588.0,8777.61,3810.39,West
+TXN-11873,2025-06-25,CUST-1082,Consumer,Smart Bluetooth Speaker,Technology,1,80.39,80.39,40.99,39.4,North
+TXN-11874,2025-04-04,CUST-1041,Consumer,Filing Cabinet 3-Drawer,Furniture,3,150.07,450.21,245.68,204.53,East
+TXN-11875,2025-06-19,CUST-1017,Home Office,High-Speed USB-C Cable,Technology,7,17.41,121.87,36.55,85.32,East
+TXN-11877,2025-06-10,CUST-1025,Consumer,Filing Cabinet 3-Drawer,Furniture,3,146.68,440.04,241.45,198.59,West
+TXN-11878,2025-11-28,CUST-1079,Home Office,Smart Bluetooth Speaker,Technology,3,78.43,235.29,118.61,116.68,West
+TXN-11879,2025-05-11,CUST-1085,Corporate,Smart Bluetooth Speaker,Technology,9,80.09,720.81,354.06,366.75,West
+TXN-11881,2025-02-06,CUST-1039,Home Office,Standing Desk Frame,Furniture,5,305.79,1528.95,917.83,611.12,South
+TXN-11883,2025-03-30,CUST-1104,Home Office,Wireless Mouse M2,Technology,8,25.99,207.92,84.29,123.63,East
+TXN-11884,2025-05-02,CUST-1132,Corporate,Smart Bluetooth Speaker,Technology,6,81.79,490.74,248.46,242.28,North
+TXN-11886,2025-02-28,CUST-1112,Home Office,Smart Bluetooth Speaker,Technology,7,77.89,545.23,272.56,272.67,West
+TXN-11887,2025-11-02,CUST-1033,Home Office,Executive Wooden Desk,Furniture,1,458.55,458.55,278.29,180.26,West
+TXN-11888,2025-06-01,CUST-1058,Corporate,Pro Laptop 15,Technology,7,1195.6,8369.2,5862.62,2506.58,East
+TXN-11889,2025-02-17,CUST-1085,Home Office,Premium Notebook A5,Office Supplies,3,12.47,37.41,12.91,24.5,East
+TXN-11890,2025-09-15,CUST-1150,Corporate,Filing Cabinet 3-Drawer,Furniture,7,157.15,1100.05,593.48,506.57,East
+TXN-11891,2025-01-10,CUST-1095,Consumer,Gel Pens (Pack of 12),Office Supplies,3,14.88,44.64,13.13,31.51,South
+TXN-11892,2025-03-28,CUST-1116,Home Office,Pro Laptop 15,Technology,2,1154.51,2309.02,1601.07,707.95,West
+TXN-11894,2025-12-28,CUST-1084,Home Office,High-Speed USB-C Cable,Technology,4,18.77,75.08,22.8,52.28,East
+TXN-11896,2025-06-21,CUST-1122,Consumer,Ergonomic Chair,Furniture,3,239.93,719.79,465.13,254.66,South
+TXN-11897,2025-12-04,CUST-1047,Home Office,Standing Desk Frame,Furniture,1,305.93,305.93,180.07,125.86,West
+TXN-11898,2025-09-18,CUST-1033,Corporate,Wireless Mouse M2,Technology,9,25.87,232.83,91.57,141.26,North
+TXN-11899,2025-11-19,CUST-1071,Home Office,UltraWide Monitor 34,Technology,3,408.83,1226.49,875.22,351.27,East
+TXN-11900,2025-07-14,CUST-1073,Home Office,Executive Wooden Desk,Furniture,6,431.35,2588.1,1579.78,1008.32,South
+TXN-11902,2025-10-30,CUST-1107,Home Office,Pro Laptop 15,Technology,10,1211.72,12117.2,8536.57,3580.63,North
+TXN-11903,2025-11-17,CUST-1032,Home Office,Premium Notebook A5,Office Supplies,3,12.19,36.57,12.77,23.8,North
+TXN-11904,2025-03-29,CUST-1145,Consumer,Sticky Notes Pastel,Office Supplies,8,7.77,62.16,15.61,46.55,West
+TXN-11905,2025-06-21,CUST-1145,Consumer,Gel Pens (Pack of 12),Office Supplies,9,14.83,133.47,39.41,94.06,East
+TXN-11906,2025-04-30,CUST-1090,Home Office,Pro Laptop 15,Technology,9,1230.48,11074.32,7808.5,3265.82,West
+TXN-11907,2025-11-05,CUST-1149,Consumer,High-Speed USB-C Cable,Technology,2,17.72,35.44,10.63,24.81,South
+TXN-11908,2025-05-10,CUST-1029,Corporate,High-Speed USB-C Cable,Technology,10,18.02,180.2,54.6,125.6,South
+TXN-11910,2025-08-14,CUST-1149,Home Office,Executive Wooden Desk,Furniture,8,450.45,3603.6,2186.3,1417.3,West
+TXN-11911,2025-10-11,CUST-1063,Home Office,Filing Cabinet 3-Drawer,Furniture,5,144.41,722.05,401.6,320.45,West
+TXN-11912,2025-09-04,CUST-1051,Corporate,Executive Wooden Desk,Furniture,6,455.21,2731.26,1633.84,1097.42,South
+TXN-11913,2025-09-01,CUST-1036,Home Office,Sticky Notes Pastel,Office Supplies,4,7.85,31.4,7.89,23.51,West
+TXN-11914,2025-11-08,CUST-1094,Corporate,UltraWide Monitor 34,Technology,9,403.2,3628.8,2608.38,1020.42,North
+TXN-11915,2025-12-29,CUST-1123,Corporate,Gel Pens (Pack of 12),Office Supplies,1,15.35,15.35,4.58,10.77,West
+TXN-11916,2025-04-04,CUST-1050,Consumer,Wireless Mouse M2,Technology,7,25.2,176.4,69.66,106.74,South
+TXN-11917,2025-12-13,CUST-1037,Corporate,Ergonomic Chair,Furniture,9,253.7,2283.3,1482.09,801.21,West
+TXN-11918,2025-03-29,CUST-1082,Home Office,High-Speed USB-C Cable,Technology,8,18.72,149.76,45.33,104.43,West
+TXN-11919,2025-06-07,CUST-1053,Corporate,Standing Desk Frame,Furniture,4,313.59,1254.36,757.63,496.73,East
+TXN-11920,2025-08-17,CUST-1107,Consumer,Pro Laptop 15,Technology,5,1258.28,6291.4,4392.03,1899.37,West
+TXN-11921,2025-09-06,CUST-1013,Corporate,Executive Wooden Desk,Furniture,1,433.12,433.12,261.43,171.69,West
+TXN-11922,2025-12-15,CUST-1068,Home Office,Gel Pens (Pack of 12),Office Supplies,4,15.68,62.72,18.78,43.94,North
+TXN-11923,2025-03-09,CUST-1107,Home Office,Wireless Mouse M2,Technology,1,24.41,24.41,9.58,14.83,South
+TXN-11925,2025-08-20,CUST-1012,Home Office,Pro Laptop 15,Technology,4,1241.5,4966.0,3443.42,1522.58,West
+TXN-11926,2025-08-24,CUST-1012,Consumer,Filing Cabinet 3-Drawer,Furniture,6,156.67,940.02,516.45,423.57,East
+TXN-11927,2025-04-10,CUST-1070,Home Office,High-Speed USB-C Cable,Technology,8,18.23,145.84,43.59,102.25,South
+TXN-11929,2025-01-08,CUST-1023,Home Office,Smart Bluetooth Speaker,Technology,10,82.81,828.1,416.29,411.81,North
+TXN-11930,2025-12-22,CUST-1078,Home Office,Premium Notebook A5,Office Supplies,5,12.33,61.65,21.68,39.97,North
+TXN-11931,2025-03-24,CUST-1147,Consumer,Ergonomic Chair,Furniture,5,239.12,1195.6,764.94,430.66,North
+TXN-11932,2025-08-05,CUST-1010,Corporate,Filing Cabinet 3-Drawer,Furniture,4,143.41,573.64,318.48,255.16,West
+TXN-11933,2025-08-28,CUST-1043,Corporate,Gel Pens (Pack of 12),Office Supplies,2,15.61,31.22,9.38,21.84,East
+TXN-11934,2025-07-13,CUST-1150,Consumer,Standing Desk Frame,Furniture,2,297.8,595.6,361.29,234.31,South
+TXN-11935,2025-01-17,CUST-1023,Corporate,UltraWide Monitor 34,Technology,2,390.34,780.68,553.58,227.1,North
+TXN-11936,2025-03-03,CUST-1125,Home Office,Smart Bluetooth Speaker,Technology,9,81.35,732.15,371.79,360.36,West
+TXN-11937,2025-06-05,CUST-1044,Consumer,Standing Desk Frame,Furniture,10,285.46,2854.6,1705.91,1148.69,East
+TXN-11939,2025-05-25,CUST-1026,Home Office,Smart Bluetooth Speaker,Technology,9,82.71,744.39,366.54,377.85,East
+TXN-11941,2025-05-18,CUST-1061,Corporate,Executive Wooden Desk,Furniture,2,434.79,869.58,520.36,349.22,West
+TXN-11942,2025-03-15,CUST-1007,Corporate,Sticky Notes Pastel,Office Supplies,9,7.64,68.76,17.11,51.65,North
+TXN-11944,2025-05-06,CUST-1133,Consumer,Filing Cabinet 3-Drawer,Furniture,4,152.02,608.08,336.88,271.2,South
+TXN-11945,2025-01-09,CUST-1036,Consumer,Wireless Mouse M2,Technology,6,25.7,154.2,62.91,91.29,West
+TXN-11946,2025-05-20,CUST-1043,Corporate,Premium Notebook A5,Office Supplies,5,11.93,59.65,20.62,39.03,South
+TXN-11947,2025-08-23,CUST-1142,Consumer,Gel Pens (Pack of 12),Office Supplies,2,15.15,30.3,8.94,21.36,East
+TXN-11949,2025-07-23,CUST-1037,Corporate,Filing Cabinet 3-Drawer,Furniture,9,145.05,1305.45,729.88,575.57,East
+TXN-11950,2025-05-06,CUST-1090,Consumer,Filing Cabinet 3-Drawer,Furniture,2,143.99,287.98,157.09,130.89,East
+TXN-11951,2025-12-28,CUST-1146,Corporate,Filing Cabinet 3-Drawer,Furniture,2,153.09,306.18,165.4,140.78,South
+TXN-11952,2025-02-09,CUST-1128,Home Office,Smart Bluetooth Speaker,Technology,7,80.44,563.08,285.03,278.05,North
+TXN-11953,2025-01-23,CUST-1134,Corporate,Wireless Mouse M2,Technology,9,26.21,235.89,95.94,139.95,West
+TXN-11954,2025-09-04,CUST-1130,Home Office,Premium Notebook A5,Office Supplies,10,11.74,117.4,40.39,77.01,South
+TXN-11955,2025-03-22,CUST-1047,Home Office,Gel Pens (Pack of 12),Office Supplies,6,15.64,93.84,28.4,65.44,North
+TXN-11956,2025-02-06,CUST-1132,Consumer,Sticky Notes Pastel,Office Supplies,1,7.64,7.64,1.94,5.7,West
+TXN-11957,2025-07-20,CUST-1075,Corporate,High-Speed USB-C Cable,Technology,8,17.69,141.52,42.16,99.36,North
+TXN-11958,2025-04-17,CUST-1111,Consumer,Sticky Notes Pastel,Office Supplies,4,7.8,31.2,7.92,23.28,East
+TXN-11959,2025-10-10,CUST-1073,Corporate,Standing Desk Frame,Furniture,2,290.27,580.54,346.12,234.42,East
+TXN-11960,2025-02-15,CUST-1040,Home Office,Wireless Mouse M2,Technology,6,24.6,147.6,58.15,89.45,North
+TXN-11961,2025-11-13,CUST-1044,Corporate,Filing Cabinet 3-Drawer,Furniture,1,154.58,154.58,85.92,68.66,North
+TXN-11963,2025-06-20,CUST-1038,Consumer,Gel Pens (Pack of 12),Office Supplies,3,15.54,46.62,14.02,32.6,West
+TXN-11964,2025-06-26,CUST-1109,Consumer,Smart Bluetooth Speaker,Technology,1,83.33,83.33,41.87,41.46,North
+TXN-11965,2025-12-15,CUST-1105,Consumer,Gel Pens (Pack of 12),Office Supplies,7,15.17,106.19,31.94,74.25,East
+TXN-11966,2025-09-06,CUST-1144,Consumer,Smart Bluetooth Speaker,Technology,2,83.04,166.08,83.89,82.19,South
+TXN-11967,2025-10-10,CUST-1015,Corporate,Ergonomic Chair,Furniture,3,260.54,781.62,507.43,274.19,East
+TXN-11968,2025-01-25,CUST-1068,Consumer,Executive Wooden Desk,Furniture,3,461.27,1383.81,844.4,539.41,East
+TXN-11970,2025-06-02,CUST-1106,Corporate,Ergonomic Chair,Furniture,8,246.55,1972.4,1277.92,694.48,East
+TXN-11971,2025-05-22,CUST-1074,Consumer,Executive Wooden Desk,Furniture,6,464.72,2788.32,1657.38,1130.94,South
+TXN-11972,2025-03-01,CUST-1088,Corporate,High-Speed USB-C Cable,Technology,3,17.97,53.91,16.02,37.89,East
+TXN-11973,2025-06-03,CUST-1147,Consumer,Ergonomic Chair,Furniture,3,257.88,773.64,504.65,268.99,West
+TXN-11974,2025-02-20,CUST-1084,Home Office,Ergonomic Chair,Furniture,1,239.27,239.27,153.4,85.87,West
+TXN-11975,2025-10-29,CUST-1047,Home Office,UltraWide Monitor 34,Technology,1,386.81,386.81,272.97,113.84,East
+TXN-11976,2025-10-06,CUST-1073,Consumer,UltraWide Monitor 34,Technology,8,386.19,3089.52,2249.79,839.73,North
+TXN-11977,2025-07-20,CUST-1071,Home Office,Standing Desk Frame,Furniture,1,312.1,312.1,189.63,122.47,East
+TXN-11978,2025-03-14,CUST-1072,Home Office,Executive Wooden Desk,Furniture,1,471.34,471.34,283.61,187.73,North
+TXN-11979,2025-10-28,CUST-1088,Consumer,Smart Bluetooth Speaker,Technology,7,76.41,534.87,270.86,264.01,West
+TXN-11980,2025-05-25,CUST-1042,Home Office,High-Speed USB-C Cable,Technology,10,18.38,183.8,54.64,129.16,South
+TXN-11981,2025-12-01,CUST-1080,Corporate,Ergonomic Chair,Furniture,4,251.68,1006.72,650.04,356.68,North
+TXN-11982,2025-04-19,CUST-1004,Corporate,Pro Laptop 15,Technology,6,1240.78,7444.68,5297.63,2147.05,North
+TXN-11983,2025-10-03,CUST-1086,Corporate,Wireless Mouse M2,Technology,3,25.58,76.74,30.58,46.16,East
+TXN-11984,2025-07-17,CUST-1013,Corporate,Wireless Mouse M2,Technology,8,25.28,202.24,79.34,122.9,East
+TXN-11985,2025-02-16,CUST-1075,Home Office,Pro Laptop 15,Technology,10,1143.97,11439.7,8115.32,3324.38,South
+TXN-11986,2025-08-06,CUST-1142,Corporate,Smart Bluetooth Speaker,Technology,8,81.46,651.68,324.02,327.66,North
+TXN-11987,2025-01-19,CUST-1133,Consumer,Smart Bluetooth Speaker,Technology,8,77.15,617.2,305.95,311.25,South
+TXN-11988,2025-04-08,CUST-1146,Corporate,Executive Wooden Desk,Furniture,1,437.87,437.87,265.61,172.26,West
+TXN-11990,2025-05-29,CUST-1068,Consumer,Executive Wooden Desk,Furniture,2,427.54,855.08,505.69,349.39,North
+TXN-11991,2025-05-21,CUST-1068,Corporate,Gel Pens (Pack of 12),Office Supplies,6,14.35,86.1,26.23,59.87,West
+TXN-11992,2025-11-19,CUST-1106,Consumer,Executive Wooden Desk,Furniture,1,462.14,462.14,278.25,183.89,North
+TXN-11993,2025-08-15,CUST-1143,Consumer,Pro Laptop 15,Technology,2,1161.21,2322.42,1635.68,686.74,North
+TXN-11994,2025-07-29,CUST-1132,Home Office,High-Speed USB-C Cable,Technology,4,17.99,71.96,21.17,50.79,East
+TXN-11996,2025-07-16,CUST-1119,Consumer,Filing Cabinet 3-Drawer,Furniture,8,148.03,1184.24,655.6,528.64,North
+TXN-11997,2025-02-21,CUST-1034,Home Office,Executive Wooden Desk,Furniture,9,470.89,4238.01,2591.12,1646.89,West
+TXN-11998,2025-01-01,CUST-1148,Consumer,High-Speed USB-C Cable,Technology,8,17.3,138.4,41.34,97.06,East
+TXN-11999,2025-03-11,CUST-1075,Corporate,Pro Laptop 15,Technology,6,1253.97,7523.82,5365.99,2157.83,South
+TXN-12000,2025-04-06,CUST-1087,Consumer,Ergonomic Chair,Furniture,3,256.97,770.91,508.03,262.88,North

@@ -1,0 +1,1731 @@
+Customer_ID,Signup_Date,Plan_Type,Billing_Cycle,Tenure_Months,Monthly_Charges,Churn_Status,Churn_Reason,LTV,Region
+CUST-20001,2024-07-02,Premium,Annual,14,79.84,Yes,Customer Support,1117.76,East
+CUST-20002,2024-09-29,Basic,Annual,21,14.67,Yes,Product Bug,308.07,East
+CUST-20003,2025-01-09,Premium,Monthly,1,81.85,Yes,Customer Support,81.85,North
+CUST-20004,2025-01-31,Premium,Monthly,23,81.3,Yes,Customer Support,1869.9,North
+CUST-20005,2024-07-26,Premium,Monthly,6,81.0,Yes,Product Bug,486.0,North
+CUST-20006,2024-11-23,Basic,Annual,8,15.66,No,N/A,125.28,West
+CUST-20007,2025-03-26,Premium,Monthly,23,82.24,No,N/A,1891.52,West
+CUST-20008,2024-02-19,Basic,Annual,15,15.63,Yes,Price,234.45,West
+CUST-20009,2024-06-24,Basic,Monthly,24,15.67,Yes,Competitor,376.08,East
+CUST-20010,2025-05-08,Standard,Monthly,17,37.77,No,N/A,642.09,West
+CUST-20011,2024-05-24,Standard,Monthly,3,39.94,No,N/A,119.82,North
+CUST-20012,2025-04-24,Basic,Monthly,11,15.43,No,N/A,169.73,South
+CUST-20013,2024-11-15,Standard,Annual,22,38.08,No,N/A,837.76,South
+CUST-20014,2025-05-06,Basic,Monthly,7,15.09,No,N/A,105.63,South
+CUST-20015,2025-02-19,Standard,Annual,3,40.32,No,N/A,120.96,North
+CUST-20016,2025-04-16,Premium,Monthly,16,76.57,Yes,Product Bug,1225.12,North
+CUST-20017,2024-12-02,Standard,Annual,6,37.38,No,N/A,224.28,West
+CUST-20018,2025-02-25,Standard,Monthly,24,39.11,Yes,Price,938.64,South
+CUST-20019,2024-11-23,Premium,Annual,20,77.71,Yes,Price,1554.2,South
+CUST-20020,2024-07-09,Standard,Monthly,22,40.51,No,N/A,891.22,South
+CUST-20021,2025-04-18,Premium,Annual,11,77.89,No,N/A,856.79,South
+CUST-20022,2025-03-08,Basic,Monthly,20,14.59,Yes,Competitor,291.8,South
+CUST-20073,2024-01-17,Basic,Monthly,7,15.12,Yes,Product Bug,105.84,North
+CUST-20024,2024-03-20,Standard,Annual,16,37.61,No,N/A,601.76,North
+CUST-20025,2025-05-15,Standard,Annual,14,38.53,No,N/A,539.42,West
+CUST-20026,2024-11-21,Basic,Annual,10,15.62,Yes,Competitor,156.2,North
+CUST-20028,2024-04-27,Standard,Monthly,1,40.42,No,N/A,40.42,West
+CUST-20029,2024-03-27,Basic,Monthly,21,14.87,Yes,Competitor,312.27,East
+CUST-20030,2024-03-18,Standard,Monthly,22,37.66,No,N/A,828.52,West
+CUST-20031,2024-12-28,Basic,Monthly,16,15.24,Yes,Price,243.84,South
+CUST-20033,2025-04-10,Standard,Annual,18,40.07,Yes,Customer Support,721.26,South
+CUST-20034,2024-09-07,Premium,Annual,2,80.3,Yes,Product Bug,160.6,West
+CUST-20035,2024-07-04,Premium,Monthly,18,76.76,Yes,No_Reason,1381.68,South
+CUST-20036,2024-02-09,Basic,Monthly,11,15.18,Yes,Competitor,166.98,South
+CUST-20037,2024-05-06,Standard,Annual,19,40.64,No,N/A,772.16,North
+CUST-20039,2024-09-23,Basic,Monthly,8,14.3,No,N/A,114.4,West
+CUST-20040,2025-02-03,Basic,Monthly,12,15.54,No,N/A,186.48,East
+CUST-20041,2025-04-15,Standard,Monthly,0,38.2,No,N/A,0.0,South
+CUST-20042,2025-04-07,Premium,Annual,24,76.8,No,N/A,1843.2,East
+CUST-20043,2024-08-10,Standard,Monthly,4,40.18,Yes,Price,160.72,South
+CUST-20044,2024-09-19,Standard,Annual,23,38.97,No,N/A,896.31,West
+CUST-20045,2024-01-09,Basic,Monthly,10,14.76,No,N/A,147.6,East
+CUST-20046,2025-04-13,Premium,Monthly,12,80.38,Yes,Customer Support,964.56,West
+CUST-20047,2025-02-08,Premium,Monthly,14,79.45,No,N/A,1112.3,East
+CUST-20049,2024-05-25,Premium,Annual,5,80.85,No,N/A,404.25,North
+CUST-20050,2024-12-21,Basic,Monthly,9,14.37,No,N/A,129.33,West
+CUST-20051,2024-03-01,Premium,Annual,24,80.05,No,N/A,1921.2,West
+CUST-20052,2024-07-01,Standard,Monthly,11,38.81,Yes,Competitor,426.91,North
+CUST-20053,2024-12-28,Premium,Monthly,0,79.71,Yes,Price,0.0,East
+CUST-20054,2025-04-11,Standard,Annual,3,40.28,No,N/A,120.84,West
+CUST-20055,2024-06-19,Standard,Monthly,0,37.26,No,N/A,0.0,West
+CUST-20056,2025-02-21,Premium,Annual,6,75.94,No,N/A,455.64,South
+CUST-20057,2024-05-18,Standard,Monthly,21,37.79,Yes,Product Bug,793.59,South
+CUST-20058,2024-06-30,Standard,Monthly,22,38.34,Yes,Product Bug,843.48,South
+CUST-20059,2024-01-28,Basic,Monthly,3,14.7,No,N/A,44.1,East
+CUST-20061,2024-05-04,Basic,Monthly,15,14.26,No,N/A,213.9,West
+CUST-20062,2025-03-31,Premium,Monthly,11,78.88,Yes,No_Reason,867.68,West
+CUST-20063,2024-04-18,Basic,Monthly,23,15.34,Yes,Customer Support,352.82,East
+CUST-20064,2024-10-28,Standard,Monthly,14,37.65,Yes,Product Bug,527.1,North
+CUST-20066,2024-01-31,Basic,Monthly,5,15.37,Yes,Price,76.85,North
+CUST-20067,2024-10-30,Premium,Monthly,14,80.0,No,N/A,1120.0,East
+CUST-20069,2024-01-05,Premium,Annual,24,77.46,No,N/A,1859.04,East
+CUST-20070,2025-02-03,Premium,Monthly,15,80.2,No,N/A,1203.0,North
+CUST-20071,2024-09-18,Premium,Monthly,24,78.89,No,N/A,1893.36,North
+CUST-20072,2024-04-20,Premium,Annual,20,75.5,No,N/A,1510.0,East
+CUST-20074,2024-07-19,Premium,Annual,20,76.39,No,N/A,1527.8,West
+CUST-20075,2024-11-22,Basic,Monthly,4,15.54,Yes,Customer Support,62.16,East
+CUST-20076,2025-03-30,Standard,Annual,15,40.58,No,N/A,608.7,North
+CUST-20077,2024-10-15,Basic,Monthly,9,14.86,No,N/A,133.74,South
+CUST-20078,2024-05-17,Premium,Annual,20,75.7,No,N/A,1514.0,South
+CUST-20079,2024-10-04,Standard,Annual,10,38.87,No,N/A,388.7,West
+CUST-20081,2024-04-26,Premium,Annual,9,79.83,No,N/A,718.47,North
+CUST-20082,2025-01-30,Standard,Annual,22,40.2,Yes,Price,884.4,North
+CUST-20083,2024-11-06,Basic,Monthly,5,14.5,Yes,Competitor,72.5,South
+CUST-20084,2024-05-09,Basic,Monthly,6,15.36,No,N/A,92.16,West
+CUST-20086,2024-10-05,Standard,Monthly,16,39.12,No,N/A,625.92,West
+CUST-20087,2024-08-25,Standard,Annual,0,40.92,Yes,Competitor,0.0,East
+CUST-20088,2024-09-02,Premium,Monthly,19,79.23,No,N/A,1505.37,North
+CUST-20089,2024-05-12,Standard,Monthly,17,38.0,No,N/A,646.0,East
+CUST-20090,2024-12-31,Standard,Annual,6,37.59,Yes,Competitor,225.54,West
+CUST-20091,2025-04-09,Basic,Monthly,22,15.33,Yes,Product Bug,337.26,West
+CUST-20092,2024-10-10,Basic,Monthly,24,15.01,Yes,Competitor,360.24,East
+CUST-20093,2024-01-23,Basic,Annual,13,14.62,Yes,Product Bug,190.06,East
+CUST-20094,2024-01-16,Premium,Monthly,3,78.12,Yes,Customer Support,234.36,West
+CUST-20095,2024-03-25,Standard,Monthly,8,37.43,Yes,No_Reason,299.44,West
+CUST-20096,2024-12-31,Premium,Annual,5,77.3,Yes,Competitor,386.5,South
+CUST-20098,2024-01-15,Basic,Monthly,22,14.47,No,N/A,318.34,East
+CUST-20099,2024-07-29,Standard,Annual,14,37.05,Yes,Product Bug,518.7,West
+CUST-20100,2025-02-19,Basic,Annual,0,14.98,Yes,Customer Support,0.0,West
+CUST-20101,2025-03-09,Standard,Annual,21,40.43,No,N/A,849.03,South
+CUST-20103,2024-12-23,Standard,Annual,13,38.78,No,N/A,504.14,East
+CUST-20104,2024-06-12,Premium,Annual,15,77.14,No,N/A,1157.1,West
+CUST-20105,2025-02-17,Premium,Monthly,1,75.83,Yes,Customer Support,75.83,North
+CUST-20106,2025-04-06,Standard,Monthly,18,37.42,No,N/A,673.56,North
+CUST-20108,2024-06-26,Premium,Annual,23,76.04,No,N/A,1748.92,North
+CUST-20109,2024-05-24,Premium,Annual,2,80.77,No,N/A,161.54,North
+CUST-20110,2025-01-17,Standard,Annual,14,39.07,No,N/A,546.98,East
+CUST-20111,2024-01-20,Standard,Monthly,3,38.33,Yes,Price,114.99,West
+CUST-20112,2024-05-05,Basic,Annual,9,15.25,Yes,Price,137.25,West
+CUST-20113,2024-02-15,Premium,Annual,12,79.8,No,N/A,957.6,South
+CUST-20114,2025-05-02,Basic,Annual,22,14.71,No,N/A,323.62,West
+CUST-20115,2024-01-01,Premium,Annual,16,79.08,No,N/A,1265.28,South
+CUST-20116,2024-10-08,Premium,Monthly,1,82.42,No,N/A,82.42,South
+CUST-20117,2025-04-18,Basic,Monthly,18,15.73,Yes,No_Reason,283.14,West
+CUST-20118,2024-11-28,Basic,Monthly,15,15.1,Yes,Price,226.5,East
+CUST-20119,2024-06-15,Premium,Monthly,11,75.61,Yes,Product Bug,831.71,East
+CUST-20120,2024-02-15,Basic,Monthly,12,14.44,No,N/A,173.28,West
+CUST-20121,2024-05-06,Premium,Monthly,2,75.33,Yes,Price,150.66,North
+CUST-20122,2024-09-16,Standard,Monthly,8,40.49,No,N/A,323.92,South
+CUST-20123,2025-03-18,Standard,Monthly,20,40.17,No,N/A,803.4,West
+CUST-20124,2025-05-12,Basic,Monthly,17,14.51,Yes,Price,246.67,East
+CUST-20125,2024-05-25,Premium,Annual,10,75.72,No,N/A,757.2,West
+CUST-20126,2024-12-12,Standard,Monthly,8,40.86,No,N/A,326.88,East
+CUST-20127,2025-04-25,Basic,Monthly,15,15.27,No,N/A,229.05,East
+CUST-20128,2025-04-28,Standard,Monthly,3,40.33,Yes,Product Bug,120.99,West
+CUST-20129,2025-05-09,Basic,Monthly,19,14.26,Yes,Competitor,270.94,South
+CUST-20130,2025-01-20,Premium,Monthly,19,75.85,No,N/A,1441.15,South
+CUST-20131,2024-09-06,Premium,Annual,16,75.54,No,N/A,1208.64,West
+CUST-20132,2024-04-17,Standard,Annual,21,40.19,No,N/A,843.99,South
+CUST-20133,2024-04-15,Standard,Annual,3,37.34,No,N/A,112.02,West
+CUST-20134,2024-12-09,Premium,Monthly,11,77.33,Yes,Customer Support,850.63,South
+CUST-20135,2024-04-14,Basic,Monthly,15,14.83,No,N/A,222.45,West
+CUST-20136,2024-06-17,Basic,Annual,23,14.41,Yes,No_Reason,331.43,South
+CUST-20138,2024-01-02,Premium,Annual,17,80.05,No,N/A,1360.85,West
+CUST-20139,2025-05-08,Premium,Annual,24,81.42,Yes,Customer Support,1954.08,East
+CUST-20140,2024-10-26,Standard,Monthly,1,38.46,Yes,Product Bug,38.46,North
+CUST-20142,2024-04-07,Standard,Annual,20,39.39,No,N/A,787.8,East
+CUST-20143,2025-04-05,Standard,Annual,6,38.41,No,N/A,230.46,North
+CUST-20144,2025-03-23,Standard,Monthly,7,38.18,No,N/A,267.26,South
+CUST-20145,2024-01-01,Premium,Monthly,7,77.38,No,N/A,541.66,North
+CUST-20146,2024-05-04,Standard,Monthly,16,37.22,No,N/A,595.52,North
+CUST-20278,2024-06-10,Basic,Monthly,1,15.35,Yes,Customer Support,15.35,South
+CUST-20147,2024-05-17,Premium,Monthly,11,81.8,No,N/A,899.8,South
+CUST-20148,2024-05-12,Basic,Monthly,21,15.35,Yes,No_Reason,322.35,South
+CUST-20150,2024-08-03,Basic,Monthly,12,15.24,No,N/A,182.88,South
+CUST-20151,2024-05-22,Premium,Annual,14,79.0,Yes,Price,1106.0,East
+CUST-20152,2024-05-12,Premium,Annual,17,80.39,No,N/A,1366.63,East
+CUST-20154,2024-09-24,Standard,Annual,19,40.47,No,N/A,768.93,North
+CUST-20155,2024-03-21,Premium,Monthly,21,75.55,No,N/A,1586.55,North
+CUST-20156,2024-06-17,Standard,Monthly,19,40.13,No,N/A,762.47,North
+CUST-21372,2024-06-27,Premium,Monthly,17,78.99,Yes,Customer Support,1342.83,West
+CUST-20159,2024-02-20,Premium,Annual,5,81.88,No,N/A,409.4,East
+CUST-20160,2024-04-13,Basic,Monthly,6,14.4,No,N/A,86.4,West
+CUST-20161,2024-07-17,Basic,Monthly,2,14.65,Yes,Competitor,29.3,East
+CUST-20162,2025-01-14,Standard,Annual,1,40.41,Yes,Product Bug,40.41,East
+CUST-20163,2024-11-30,Standard,Annual,13,38.53,No,N/A,500.89,West
+CUST-20166,2024-12-27,Basic,Monthly,6,15.67,Yes,Competitor,94.02,South
+CUST-20167,2025-01-21,Standard,Annual,8,40.88,No,N/A,327.04,South
+CUST-20168,2024-05-08,Standard,Monthly,14,40.6,No,N/A,568.4,East
+CUST-20169,2024-10-14,Premium,Monthly,4,75.28,No,N/A,301.12,East
+CUST-20170,2025-02-16,Premium,Monthly,5,75.52,No,N/A,377.6,North
+CUST-20172,2024-05-28,Basic,Monthly,0,15.54,No,N/A,0.0,North
+CUST-20173,2024-11-30,Basic,Monthly,14,15.45,Yes,Price,216.3,East
+CUST-20174,2025-02-23,Standard,Annual,11,39.51,No,N/A,434.61,West
+CUST-20175,2024-02-26,Basic,Annual,3,15.04,No,N/A,45.12,East
+CUST-20176,2024-01-14,Premium,Monthly,7,77.11,No,N/A,539.77,North
+CUST-20177,2024-10-12,Premium,Monthly,16,78.63,Yes,Competitor,1258.08,East
+CUST-20179,2024-04-28,Standard,Monthly,17,37.48,Yes,Price,637.16,North
+CUST-20180,2024-07-13,Premium,Annual,20,77.93,Yes,Competitor,1558.6,West
+CUST-20181,2024-11-11,Basic,Monthly,21,15.12,Yes,Price,317.52,East
+CUST-20182,2024-02-29,Premium,Annual,18,77.3,Yes,Product Bug,1391.4,North
+CUST-20183,2024-06-27,Premium,Monthly,13,75.26,No,N/A,978.38,North
+CUST-20203,2024-12-26,Premium,Annual,10,76.41,Yes,Product Bug,764.1,East
+CUST-20184,2025-04-19,Premium,Monthly,10,75.57,No,N/A,755.7,North
+CUST-20185,2025-02-10,Standard,Monthly,0,38.57,Yes,Product Bug,0.0,West
+CUST-20187,2024-09-01,Basic,Monthly,16,15.38,Yes,Competitor,246.08,South
+CUST-20188,2024-09-07,Premium,Monthly,5,76.0,No,N/A,380.0,South
+CUST-20189,2024-04-28,Premium,Monthly,1,79.97,No,N/A,79.97,East
+CUST-20190,2024-10-04,Standard,Monthly,21,40.43,No,N/A,849.03,West
+CUST-20191,2024-11-23,Premium,Monthly,22,79.44,No,N/A,1747.68,East
+CUST-20192,2024-08-04,Standard,Annual,16,37.65,No,N/A,602.4,North
+CUST-20193,2024-02-03,Standard,Annual,6,37.13,No,N/A,222.78,North
+CUST-20194,2025-04-02,Basic,Monthly,12,14.4,Yes,Customer Support,172.8,West
+CUST-20196,2024-09-02,Premium,Annual,4,76.34,No,N/A,305.36,South
+CUST-20197,2025-01-26,Basic,Monthly,1,14.56,Yes,Customer Support,14.56,North
+CUST-20198,2024-12-29,Premium,Monthly,5,77.98,Yes,No_Reason,389.9,North
+CUST-20199,2025-01-03,Premium,Annual,19,77.06,Yes,Competitor,1464.14,North
+CUST-20200,2024-06-02,Basic,Annual,2,15.0,No,N/A,30.0,East
+CUST-20201,2024-11-07,Standard,Monthly,21,37.23,Yes,Competitor,781.83,West
+CUST-20202,2025-03-05,Basic,Annual,3,15.45,Yes,Competitor,46.35,East
+CUST-20204,2024-07-25,Premium,Annual,12,82.69,No,N/A,992.28,West
+CUST-20205,2025-01-17,Premium,Annual,18,79.86,No,N/A,1437.48,East
+CUST-20206,2025-02-26,Standard,Monthly,16,38.9,No,N/A,622.4,South
+CUST-20207,2024-07-17,Standard,Annual,12,38.7,Yes,Product Bug,464.4,West
+CUST-20208,2025-02-28,Standard,Annual,4,37.38,Yes,Competitor,149.52,South
+CUST-20209,2025-03-27,Basic,Annual,20,14.67,No,N/A,293.4,West
+CUST-20210,2024-01-13,Premium,Annual,16,81.38,No,N/A,1302.08,West
+CUST-20211,2024-05-23,Standard,Monthly,15,40.1,Yes,Price,601.5,West
+CUST-20212,2024-10-19,Standard,Monthly,11,40.88,No,N/A,449.68,South
+CUST-20213,2025-04-04,Standard,Annual,22,38.14,Yes,Competitor,839.08,West
+CUST-20214,2025-03-13,Basic,Monthly,3,14.84,Yes,No_Reason,44.52,North
+CUST-20215,2024-09-28,Basic,Annual,8,15.52,No,N/A,124.16,South
+CUST-20217,2024-08-01,Basic,Monthly,23,14.81,Yes,Product Bug,340.63,South
+CUST-20218,2025-02-23,Standard,Monthly,4,39.74,No,N/A,158.96,West
+CUST-20219,2024-11-07,Premium,Annual,11,79.63,No,N/A,875.93,North
+CUST-20222,2024-03-20,Basic,Monthly,14,14.75,No,N/A,206.5,West
+CUST-21650,2025-04-15,Standard,Monthly,3,40.64,No,N/A,121.92,South
+CUST-20223,2025-01-07,Basic,Monthly,1,15.15,Yes,No_Reason,15.15,East
+CUST-20224,2024-08-17,Basic,Monthly,18,15.4,Yes,Price,277.2,South
+CUST-20225,2024-04-21,Basic,Annual,8,15.52,Yes,Customer Support,124.16,East
+CUST-20226,2024-09-17,Premium,Annual,0,79.0,Yes,Customer Support,0.0,South
+CUST-20230,2024-01-29,Basic,Annual,21,15.31,Yes,Customer Support,321.51,North
+CUST-20231,2024-12-28,Standard,Monthly,2,37.96,Yes,Price,75.92,East
+CUST-20232,2025-04-18,Premium,Annual,21,75.07,No,N/A,1576.47,East
+CUST-20233,2024-12-26,Basic,Monthly,8,15.03,No,N/A,120.24,West
+CUST-20235,2024-10-16,Standard,Annual,12,40.44,No,N/A,485.28,South
+CUST-20236,2025-01-07,Basic,Monthly,11,14.92,Yes,No_Reason,164.12,West
+CUST-20237,2024-12-25,Basic,Annual,1,15.32,Yes,Competitor,15.32,West
+CUST-20239,2024-04-09,Standard,Annual,22,40.14,No,N/A,883.08,East
+CUST-20240,2025-02-06,Premium,Monthly,20,76.97,No,N/A,1539.4,East
+CUST-20241,2024-12-11,Standard,Annual,0,39.46,Yes,No_Reason,0.0,North
+CUST-20242,2024-09-08,Premium,Monthly,19,82.43,No,N/A,1566.17,West
+CUST-20243,2024-01-10,Basic,Monthly,6,15.11,No,N/A,90.66,West
+CUST-20244,2025-03-07,Standard,Monthly,6,39.87,No,N/A,239.22,East
+CUST-20245,2024-10-23,Standard,Annual,4,40.12,Yes,Competitor,160.48,West
+CUST-20246,2025-03-12,Basic,Annual,3,14.66,No,N/A,43.98,West
+CUST-20248,2024-09-28,Premium,Monthly,13,77.54,Yes,Price,1008.02,North
+CUST-20249,2024-06-03,Premium,Annual,2,79.64,Yes,Price,159.28,East
+CUST-20250,2025-02-01,Premium,Monthly,1,76.86,Yes,Customer Support,76.86,East
+CUST-20252,2024-07-28,Basic,Monthly,0,14.88,Yes,Customer Support,0.0,West
+CUST-20253,2024-05-14,Basic,Annual,19,15.01,No,N/A,285.19,South
+CUST-20254,2024-06-05,Standard,Annual,10,40.8,No,N/A,408.0,South
+CUST-20255,2024-09-11,Standard,Annual,11,40.5,No,N/A,445.5,West
+CUST-20256,2024-06-16,Basic,Annual,15,14.78,No,N/A,221.7,West
+CUST-20651,2025-01-21,Premium,Monthly,14,79.17,Yes,Competitor,1108.38,North
+CUST-20257,2024-01-07,Basic,Monthly,4,14.61,Yes,Product Bug,58.44,West
+CUST-20258,2024-09-05,Basic,Monthly,9,14.8,No,N/A,133.2,North
+CUST-20259,2024-04-20,Standard,Monthly,3,40.76,No,N/A,122.28,South
+CUST-20260,2024-11-30,Standard,Annual,18,37.37,No,N/A,672.66,South
+CUST-20887,2025-01-24,Premium,Annual,5,76.8,No,N/A,384.0,East
+CUST-20261,2025-04-03,Standard,Monthly,22,38.58,No,N/A,848.76,South
+CUST-20262,2024-01-20,Basic,Annual,24,14.53,No,N/A,348.72,West
+CUST-20264,2024-05-08,Standard,Annual,2,37.68,No,N/A,75.36,South
+CUST-20265,2024-07-14,Basic,Annual,18,14.45,No,N/A,260.1,East
+CUST-20266,2024-03-21,Premium,Annual,1,76.48,Yes,No_Reason,76.48,North
+CUST-20267,2024-02-22,Premium,Monthly,14,75.95,Yes,Price,1063.3,South
+CUST-20268,2024-08-19,Premium,Monthly,2,82.22,No,N/A,164.44,East
+CUST-20269,2024-11-19,Standard,Annual,3,39.0,No,N/A,117.0,South
+CUST-20270,2024-05-09,Standard,Monthly,7,40.04,No,N/A,280.28,East
+CUST-20271,2024-05-13,Basic,Monthly,8,14.35,Yes,Price,114.8,East
+CUST-20272,2025-04-03,Standard,Annual,17,37.25,Yes,Competitor,633.25,East
+CUST-20275,2024-05-22,Standard,Annual,16,39.99,No,N/A,639.84,North
+CUST-20276,2024-12-11,Basic,Monthly,8,14.79,No,N/A,118.32,West
+CUST-20277,2024-03-18,Basic,Monthly,13,14.8,Yes,Competitor,192.4,East
+CUST-20279,2024-11-18,Premium,Monthly,12,78.89,No,N/A,946.68,West
+CUST-20280,2024-02-01,Premium,Annual,12,82.49,Yes,Product Bug,989.88,North
+CUST-20281,2025-05-15,Premium,Annual,20,75.25,No,N/A,1505.0,East
+CUST-20282,2024-09-07,Standard,Annual,2,40.06,Yes,Product Bug,80.12,South
+CUST-20283,2025-02-22,Basic,Monthly,0,15.33,Yes,Competitor,0.0,South
+CUST-20284,2024-09-19,Basic,Monthly,11,14.99,Yes,Competitor,164.89,West
+CUST-20285,2024-08-08,Standard,Monthly,24,38.4,No,N/A,921.6,West
+CUST-20287,2024-08-25,Standard,Annual,7,39.26,No,N/A,274.82,West
+CUST-20288,2024-10-25,Basic,Annual,5,14.36,Yes,Competitor,71.8,West
+CUST-20289,2024-06-26,Standard,Monthly,18,40.1,No,N/A,721.8,West
+CUST-20290,2024-02-25,Standard,Annual,2,40.05,No,N/A,80.1,West
+CUST-20291,2024-06-14,Premium,Monthly,2,79.23,No,N/A,158.46,South
+CUST-20292,2024-12-14,Premium,Annual,12,78.3,Yes,No_Reason,939.6,West
+CUST-20293,2025-05-04,Standard,Monthly,7,40.94,No,N/A,286.58,South
+CUST-20294,2024-12-24,Premium,Monthly,17,78.82,No,N/A,1339.94,West
+CUST-20295,2024-01-15,Premium,Monthly,21,81.44,Yes,Competitor,1710.24,West
+CUST-20296,2025-03-04,Standard,Annual,17,37.05,No,N/A,629.85,East
+CUST-20297,2024-04-08,Premium,Monthly,0,75.35,Yes,Competitor,0.0,East
+CUST-20298,2024-12-13,Premium,Annual,23,75.33,Yes,Product Bug,1732.59,East
+CUST-20300,2024-02-08,Basic,Monthly,21,15.29,Yes,Product Bug,321.09,East
+CUST-20301,2024-01-31,Basic,Monthly,16,15.6,No,N/A,249.6,North
+CUST-20302,2024-08-04,Standard,Annual,9,39.34,No,N/A,354.06,North
+CUST-20304,2024-06-20,Premium,Monthly,3,78.51,No,N/A,235.53,East
+CUST-20307,2025-01-06,Standard,Monthly,17,37.1,Yes,Competitor,630.7,South
+CUST-20308,2024-02-08,Standard,Monthly,6,37.59,Yes,Customer Support,225.54,North
+CUST-20309,2024-11-02,Standard,Monthly,0,39.42,Yes,Customer Support,0.0,South
+CUST-20310,2024-05-12,Standard,Annual,21,38.11,No,N/A,800.31,South
+CUST-20311,2025-01-27,Premium,Annual,19,75.77,No,N/A,1439.63,North
+CUST-20312,2024-01-14,Basic,Annual,0,14.36,Yes,Customer Support,0.0,East
+CUST-20314,2024-03-30,Basic,Annual,14,14.58,No,N/A,204.12,South
+CUST-20315,2024-10-04,Standard,Annual,12,39.46,No,N/A,473.52,West
+CUST-20317,2025-03-03,Premium,Annual,6,79.71,No,N/A,478.26,West
+CUST-20318,2025-04-10,Standard,Annual,9,39.9,Yes,No_Reason,359.1,East
+CUST-20319,2025-03-04,Premium,Monthly,16,76.02,No,N/A,1216.32,South
+CUST-20320,2025-02-16,Premium,Annual,24,77.26,No,N/A,1854.24,North
+CUST-20321,2024-09-21,Premium,Annual,14,79.92,No,N/A,1118.88,West
+CUST-20322,2024-07-20,Basic,Monthly,9,15.47,No,N/A,139.23,South
+CUST-20323,2025-03-04,Standard,Monthly,10,39.2,No,N/A,392.0,East
+CUST-20324,2024-02-03,Premium,Annual,10,75.78,Yes,Competitor,757.8,South
+CUST-20327,2024-08-02,Standard,Annual,17,39.47,Yes,Price,670.99,South
+CUST-20329,2024-08-01,Basic,Annual,0,15.29,Yes,No_Reason,0.0,East
+CUST-20330,2025-03-08,Basic,Monthly,5,14.73,No,N/A,73.65,South
+CUST-20331,2024-03-27,Basic,Monthly,13,15.43,Yes,Product Bug,200.59,South
+CUST-20332,2024-07-10,Basic,Annual,7,14.61,Yes,Product Bug,102.27,East
+CUST-20333,2024-01-05,Standard,Monthly,0,38.09,Yes,Competitor,0.0,South
+CUST-20334,2025-01-28,Standard,Annual,15,40.71,No,N/A,610.65,South
+CUST-20335,2024-08-08,Premium,Monthly,21,81.47,No,N/A,1710.87,West
+CUST-20336,2024-05-31,Standard,Monthly,11,38.42,Yes,Competitor,422.62,North
+CUST-20338,2024-09-16,Standard,Annual,23,38.62,No,N/A,888.26,West
+CUST-20339,2024-07-08,Standard,Annual,2,37.95,Yes,Competitor,75.9,North
+CUST-20340,2024-02-16,Standard,Annual,16,40.04,No,N/A,640.64,South
+CUST-20341,2025-01-21,Basic,Annual,7,15.23,Yes,Price,106.61,West
+CUST-20342,2024-06-23,Standard,Annual,11,39.16,No,N/A,430.76,East
+CUST-20343,2024-09-26,Basic,Monthly,13,14.85,No,N/A,193.05,North
+CUST-20344,2024-09-19,Standard,Monthly,21,38.25,Yes,Product Bug,803.25,West
+CUST-20345,2024-01-17,Basic,Monthly,12,14.94,Yes,Product Bug,179.28,West
+CUST-20346,2024-10-11,Standard,Monthly,9,40.34,Yes,Price,363.06,North
+CUST-20349,2025-05-09,Premium,Monthly,5,80.93,Yes,Product Bug,404.65,East
+CUST-20351,2024-07-24,Basic,Monthly,8,14.36,Yes,No_Reason,114.88,North
+CUST-20352,2025-03-28,Basic,Annual,17,14.97,No,N/A,254.49,North
+CUST-20353,2024-02-25,Premium,Annual,23,79.51,No,N/A,1828.73,South
+CUST-20354,2024-12-02,Basic,Monthly,7,15.22,No,N/A,106.54,West
+CUST-20355,2025-02-06,Basic,Annual,23,15.43,No,N/A,354.89,West
+CUST-20356,2024-03-06,Basic,Monthly,19,15.39,No,N/A,292.41,West
+CUST-20357,2024-11-16,Basic,Monthly,21,15.07,No,N/A,316.47,South
+CUST-20358,2024-01-11,Premium,Annual,14,79.93,No,N/A,1119.02,South
+CUST-20359,2024-03-01,Premium,Annual,12,75.89,No,N/A,910.68,North
+CUST-20360,2024-03-15,Basic,Annual,5,15.3,No,N/A,76.5,East
+CUST-20361,2024-08-02,Basic,Annual,1,15.39,No,N/A,15.39,North
+CUST-20362,2025-05-05,Standard,Annual,24,39.53,No,N/A,948.72,South
+CUST-20363,2024-04-13,Standard,Monthly,2,37.86,No,N/A,75.72,West
+CUST-20364,2024-06-24,Standard,Monthly,2,38.09,Yes,Product Bug,76.18,North
+CUST-20365,2024-08-29,Standard,Monthly,14,38.86,No,N/A,544.04,West
+CUST-20366,2024-06-01,Standard,Annual,16,39.81,No,N/A,636.96,East
+CUST-20367,2024-02-25,Premium,Monthly,19,81.02,Yes,Product Bug,1539.38,North
+CUST-20368,2024-04-04,Premium,Annual,2,76.27,Yes,Product Bug,152.54,North
+CUST-20369,2024-05-26,Standard,Monthly,8,39.43,No,N/A,315.44,North
+CUST-20370,2024-12-12,Standard,Annual,21,40.67,No,N/A,854.07,East
+CUST-20371,2024-04-07,Basic,Monthly,12,15.37,Yes,Price,184.44,North
+CUST-20372,2025-03-29,Standard,Monthly,24,39.8,Yes,No_Reason,955.2,North
+CUST-20373,2024-11-24,Premium,Monthly,23,79.0,No,N/A,1817.0,South
+CUST-20374,2024-12-20,Standard,Monthly,18,39.74,Yes,Customer Support,715.32,West
+CUST-20375,2025-03-28,Premium,Annual,13,76.07,No,N/A,988.91,South
+CUST-20376,2024-02-13,Basic,Annual,24,14.61,No,N/A,350.64,South
+CUST-20377,2025-01-28,Basic,Annual,13,14.88,Yes,Price,193.44,East
+CUST-20378,2025-02-18,Standard,Annual,19,38.21,Yes,Price,725.99,East
+CUST-20379,2024-10-12,Premium,Monthly,1,77.65,No,N/A,77.65,East
+CUST-20380,2025-02-13,Standard,Monthly,2,37.26,Yes,Competitor,74.52,North
+CUST-20381,2025-02-15,Basic,Annual,0,14.44,No,N/A,0.0,West
+CUST-20382,2024-07-13,Standard,Annual,1,37.39,Yes,Competitor,37.39,South
+CUST-20383,2025-01-10,Premium,Monthly,4,77.43,Yes,Competitor,309.72,North
+CUST-20384,2024-09-06,Premium,Monthly,16,75.38,No,N/A,1206.08,West
+CUST-20385,2025-03-31,Standard,Monthly,10,37.6,No,N/A,376.0,South
+CUST-20386,2024-04-19,Basic,Annual,13,15.4,No,N/A,200.2,East
+CUST-20387,2024-01-29,Basic,Monthly,10,15.32,No,N/A,153.2,North
+CUST-20389,2024-09-16,Standard,Monthly,18,40.72,No,N/A,732.96,South
+CUST-20390,2024-06-19,Standard,Monthly,22,40.19,No,N/A,884.18,East
+CUST-20391,2024-02-27,Basic,Monthly,4,14.68,Yes,Customer Support,58.72,South
+CUST-20393,2025-02-27,Basic,Annual,10,15.15,No,N/A,151.5,East
+CUST-20394,2025-05-02,Premium,Monthly,3,77.79,Yes,Price,233.37,West
+CUST-20395,2025-03-19,Basic,Annual,18,15.07,Yes,Product Bug,271.26,West
+CUST-20396,2025-04-01,Premium,Annual,19,78.57,No,N/A,1492.83,West
+CUST-20397,2025-01-15,Premium,Annual,7,76.68,No,N/A,536.76,North
+CUST-20399,2024-01-09,Premium,Annual,24,82.03,No,N/A,1968.72,South
+CUST-20400,2025-04-08,Basic,Monthly,14,15.48,Yes,Competitor,216.72,East
+CUST-21507,2024-04-17,Standard,Annual,3,38.02,Yes,Price,114.06,South
+CUST-20401,2024-03-20,Basic,Annual,14,15.03,No,N/A,210.42,North
+CUST-20402,2024-03-07,Basic,Annual,22,14.66,Yes,Product Bug,322.52,East
+CUST-20403,2025-04-17,Standard,Monthly,8,38.49,No,N/A,307.92,North
+CUST-20404,2024-06-12,Basic,Monthly,20,14.82,No,N/A,296.4,South
+CUST-20405,2024-08-31,Standard,Monthly,17,37.12,Yes,Customer Support,631.04,North
+CUST-20406,2024-06-21,Basic,Annual,9,14.98,No,N/A,134.82,South
+CUST-20407,2024-05-12,Basic,Monthly,2,14.37,Yes,Price,28.74,West
+CUST-20408,2024-04-18,Standard,Annual,6,38.12,No,N/A,228.72,North
+CUST-20409,2024-08-26,Basic,Annual,18,14.57,No,N/A,262.26,South
+CUST-20410,2024-06-25,Premium,Annual,18,77.46,No,N/A,1394.28,East
+CUST-20411,2025-05-07,Basic,Annual,4,14.91,Yes,Price,59.64,North
+CUST-20412,2024-02-09,Standard,Annual,6,38.21,No,N/A,229.26,North
+CUST-20413,2024-12-08,Premium,Monthly,14,82.81,No,N/A,1159.34,West
+CUST-20414,2024-12-12,Standard,Annual,8,37.13,Yes,Product Bug,297.04,North
+CUST-20415,2024-12-28,Premium,Annual,4,79.72,Yes,Competitor,318.88,East
+CUST-20416,2024-11-15,Standard,Annual,17,37.68,No,N/A,640.56,North
+CUST-20417,2024-02-09,Standard,Monthly,19,40.13,No,N/A,762.47,West
+CUST-20418,2024-11-28,Standard,Annual,10,40.18,No,N/A,401.8,South
+CUST-20420,2024-05-16,Premium,Monthly,10,81.5,No,N/A,815.0,South
+CUST-20421,2025-05-14,Premium,Annual,14,79.64,Yes,Product Bug,1114.96,West
+CUST-20422,2024-01-17,Premium,Monthly,15,80.21,Yes,Competitor,1203.15,North
+CUST-20423,2025-05-08,Premium,Annual,23,82.74,No,N/A,1903.02,North
+CUST-20424,2024-01-09,Basic,Monthly,21,15.0,Yes,Competitor,315.0,West
+CUST-20425,2025-02-16,Basic,Monthly,1,14.53,Yes,Customer Support,14.53,North
+CUST-20426,2024-09-11,Premium,Monthly,19,78.33,No,N/A,1488.27,North
+CUST-20427,2024-07-05,Premium,Monthly,9,78.06,Yes,Customer Support,702.54,East
+CUST-20428,2024-07-05,Standard,Monthly,2,40.05,Yes,Customer Support,80.1,East
+CUST-20430,2025-04-09,Standard,Annual,0,38.26,No,N/A,0.0,North
+CUST-20431,2024-07-22,Premium,Annual,17,79.0,No,N/A,1343.0,South
+CUST-20432,2024-07-29,Premium,Monthly,1,77.02,Yes,Price,77.02,East
+CUST-21671,2024-05-03,Standard,Annual,7,39.0,No,N/A,273.0,North
+CUST-20433,2025-05-12,Basic,Monthly,15,15.27,No,N/A,229.05,East
+CUST-20434,2024-06-30,Standard,Monthly,11,37.72,Yes,Competitor,414.92,South
+CUST-20435,2024-03-20,Premium,Annual,9,75.29,Yes,Price,677.61,West
+CUST-20436,2024-10-16,Standard,Monthly,1,38.98,Yes,Price,38.98,North
+CUST-20437,2024-10-24,Premium,Annual,16,80.71,No,N/A,1291.36,South
+CUST-20438,2024-09-13,Basic,Annual,23,15.42,No,N/A,354.66,West
+CUST-20440,2024-07-18,Standard,Monthly,19,40.68,Yes,Product Bug,772.92,East
+CUST-20441,2024-04-18,Premium,Monthly,12,77.66,No,N/A,931.92,South
+CUST-20442,2024-07-17,Premium,Monthly,9,75.55,No,N/A,679.95,West
+CUST-20443,2025-04-24,Standard,Monthly,12,40.35,Yes,Customer Support,484.2,South
+CUST-20444,2025-05-02,Premium,Annual,21,75.74,No,N/A,1590.54,East
+CUST-20445,2024-04-27,Premium,Annual,23,78.34,Yes,No_Reason,1801.82,South
+CUST-20446,2024-09-03,Premium,Monthly,13,80.07,No,N/A,1040.91,East
+CUST-20448,2024-03-08,Basic,Monthly,6,15.58,Yes,Price,93.48,South
+CUST-20449,2025-03-10,Premium,Annual,0,77.79,Yes,Competitor,0.0,West
+CUST-20450,2025-04-04,Basic,Monthly,17,15.27,No,N/A,259.59,South
+CUST-20451,2024-06-28,Standard,Annual,23,40.8,No,N/A,938.4,North
+CUST-20452,2024-04-22,Standard,Monthly,23,39.47,Yes,Product Bug,907.81,West
+CUST-20453,2024-04-29,Premium,Annual,12,75.32,No,N/A,903.84,North
+CUST-20455,2025-03-26,Standard,Annual,22,40.92,No,N/A,900.24,East
+CUST-20456,2024-03-13,Basic,Monthly,5,14.27,Yes,Competitor,71.35,North
+CUST-20457,2024-07-20,Premium,Annual,11,82.74,No,N/A,910.14,East
+CUST-20458,2024-10-01,Basic,Annual,22,14.72,No,N/A,323.84,North
+CUST-20459,2025-02-10,Basic,Monthly,22,15.19,No,N/A,334.18,West
+CUST-20460,2024-11-25,Standard,Annual,10,37.48,Yes,Product Bug,374.8,West
+CUST-20461,2025-05-12,Standard,Annual,24,40.32,Yes,Customer Support,967.68,West
+CUST-20462,2024-07-01,Premium,Monthly,21,77.58,No,N/A,1629.18,West
+CUST-20463,2024-07-21,Standard,Annual,13,38.19,No,N/A,496.47,West
+CUST-20464,2024-11-24,Premium,Monthly,18,81.57,Yes,Competitor,1468.26,North
+CUST-20674,2024-11-09,Standard,Annual,22,39.93,No,N/A,878.46,North
+CUST-20465,2024-03-08,Basic,Annual,11,14.73,No,N/A,162.03,East
+CUST-20466,2025-02-11,Standard,Monthly,7,40.85,No,N/A,285.95,East
+CUST-20467,2025-03-24,Standard,Monthly,9,38.78,No,N/A,349.02,North
+CUST-20468,2024-03-06,Basic,Annual,8,15.27,Yes,Price,122.16,South
+CUST-20470,2025-01-23,Basic,Annual,14,14.49,No,N/A,202.86,West
+CUST-20471,2024-03-14,Basic,Monthly,5,14.52,No,N/A,72.6,West
+CUST-20472,2025-01-24,Basic,Monthly,23,15.52,Yes,Competitor,356.96,South
+CUST-20473,2024-10-31,Premium,Monthly,16,78.76,No,N/A,1260.16,West
+CUST-20476,2024-05-02,Premium,Monthly,14,78.9,No,N/A,1104.6,South
+CUST-20477,2025-01-04,Premium,Annual,11,79.27,No,N/A,871.97,South
+CUST-20478,2025-02-24,Basic,Annual,3,15.61,Yes,Product Bug,46.83,East
+CUST-20479,2025-05-09,Basic,Monthly,13,14.61,No,N/A,189.93,West
+CUST-20480,2024-08-03,Basic,Monthly,6,14.29,Yes,Customer Support,85.74,North
+CUST-20482,2024-04-30,Basic,Monthly,22,14.88,Yes,Competitor,327.36,South
+CUST-21813,2024-06-25,Standard,Annual,5,39.15,Yes,Product Bug,195.75,South
+CUST-20484,2024-02-04,Basic,Monthly,8,15.65,No,N/A,125.2,East
+CUST-20485,2024-04-25,Premium,Monthly,22,81.07,Yes,No_Reason,1783.54,North
+CUST-20486,2024-10-04,Basic,Monthly,20,15.05,Yes,No_Reason,301.0,North
+CUST-20487,2025-04-25,Premium,Monthly,13,80.84,Yes,Competitor,1050.92,East
+CUST-20488,2024-08-04,Standard,Monthly,5,39.5,No,N/A,197.5,East
+CUST-20490,2024-09-16,Standard,Annual,15,38.22,No,N/A,573.3,North
+CUST-20491,2024-12-02,Premium,Monthly,7,79.34,No,N/A,555.38,West
+CUST-20492,2024-03-11,Basic,Annual,3,14.69,Yes,No_Reason,44.07,North
+CUST-20493,2025-03-01,Standard,Annual,11,40.94,Yes,Price,450.34,West
+CUST-20494,2025-03-05,Premium,Annual,3,81.62,No,N/A,244.86,North
+CUST-20495,2025-03-29,Premium,Annual,18,78.07,No,N/A,1405.26,North
+CUST-20496,2024-04-25,Basic,Annual,8,15.0,No,N/A,120.0,West
+CUST-20497,2024-08-18,Standard,Monthly,20,37.65,No,N/A,753.0,East
+CUST-20498,2025-03-28,Basic,Annual,6,15.41,No,N/A,92.46,East
+CUST-20499,2024-12-16,Premium,Monthly,1,75.86,No,N/A,75.86,East
+CUST-20501,2025-02-26,Premium,Annual,14,77.98,Yes,Competitor,1091.72,South
+CUST-20502,2024-11-14,Basic,Monthly,3,14.65,Yes,Product Bug,43.95,South
+CUST-20503,2024-11-20,Basic,Annual,22,14.96,No,N/A,329.12,North
+CUST-20504,2024-02-01,Premium,Monthly,23,79.96,Yes,Competitor,1839.08,North
+CUST-20505,2024-08-23,Standard,Monthly,16,37.8,No,N/A,604.8,South
+CUST-20507,2025-04-25,Basic,Annual,23,14.35,No,N/A,330.05,South
+CUST-20508,2024-10-19,Standard,Monthly,7,38.04,No,N/A,266.28,East
+CUST-20509,2024-11-03,Standard,Monthly,22,40.33,Yes,Product Bug,887.26,East
+CUST-20510,2024-11-15,Basic,Annual,12,14.76,Yes,Customer Support,177.12,East
+CUST-20512,2025-02-10,Standard,Monthly,5,37.58,Yes,Product Bug,187.9,North
+CUST-20513,2024-02-15,Premium,Monthly,0,76.88,Yes,Customer Support,0.0,West
+CUST-20514,2024-09-04,Basic,Monthly,13,15.5,No,N/A,201.5,North
+CUST-20515,2024-04-15,Basic,Monthly,6,15.31,No,N/A,91.86,North
+CUST-20517,2024-07-15,Premium,Monthly,13,79.06,No,N/A,1027.78,West
+CUST-20518,2025-05-02,Premium,Annual,11,79.89,No,N/A,878.79,North
+CUST-20519,2024-05-26,Basic,Monthly,2,15.65,Yes,Price,31.3,North
+CUST-20520,2025-03-10,Basic,Annual,13,15.57,Yes,No_Reason,202.41,East
+CUST-20521,2025-05-15,Premium,Monthly,18,79.73,Yes,Customer Support,1435.14,West
+CUST-20522,2024-07-02,Standard,Annual,10,40.45,No,N/A,404.5,South
+CUST-20523,2024-07-27,Basic,Monthly,24,14.88,No,N/A,357.12,North
+CUST-20524,2025-05-15,Basic,Monthly,2,14.84,Yes,Price,29.68,North
+CUST-20525,2025-03-20,Standard,Annual,2,37.51,Yes,Competitor,75.02,South
+CUST-20526,2025-04-26,Basic,Monthly,8,15.39,No,N/A,123.12,West
+CUST-20527,2025-04-08,Premium,Monthly,14,82.06,No,N/A,1148.84,North
+CUST-20528,2024-11-07,Standard,Monthly,18,39.62,No,N/A,713.16,East
+CUST-20529,2024-09-08,Standard,Monthly,6,39.79,No,N/A,238.74,South
+CUST-20530,2024-05-02,Premium,Monthly,5,76.21,Yes,Product Bug,381.05,South
+CUST-20531,2024-02-26,Basic,Annual,22,14.47,No,N/A,318.34,North
+CUST-20532,2024-01-19,Standard,Monthly,12,39.43,Yes,Competitor,473.16,North
+CUST-20533,2024-07-10,Standard,Monthly,11,37.62,Yes,Customer Support,413.82,South
+CUST-20534,2024-12-29,Standard,Monthly,20,39.15,No,N/A,783.0,North
+CUST-20535,2024-10-16,Basic,Annual,14,14.52,No,N/A,203.28,North
+CUST-20536,2024-05-29,Standard,Monthly,20,37.87,Yes,Competitor,757.4,North
+CUST-20537,2025-03-11,Basic,Annual,19,15.74,No,N/A,299.06,North
+CUST-20538,2024-11-27,Standard,Annual,10,39.69,No,N/A,396.9,South
+CUST-20539,2024-07-13,Standard,Monthly,3,37.41,Yes,Competitor,112.23,North
+CUST-20540,2024-04-15,Premium,Monthly,23,81.17,No,N/A,1866.91,South
+CUST-20541,2024-04-20,Standard,Monthly,19,37.19,No,N/A,706.61,East
+CUST-21926,2025-05-14,Standard,Monthly,15,40.21,Yes,Competitor,603.15,South
+CUST-20542,2025-01-09,Standard,Annual,23,37.53,No,N/A,863.19,North
+CUST-20543,2024-05-02,Premium,Monthly,12,77.56,No,N/A,930.72,South
+CUST-20546,2025-02-26,Basic,Annual,24,15.09,No,N/A,362.16,West
+CUST-20547,2025-01-05,Premium,Monthly,1,76.5,No,N/A,76.5,North
+CUST-20548,2024-09-10,Basic,Monthly,24,15.31,No,N/A,367.44,East
+CUST-20550,2024-05-02,Premium,Monthly,22,79.28,No,N/A,1744.16,East
+CUST-20551,2024-10-11,Basic,Annual,18,14.56,Yes,Competitor,262.08,East
+CUST-20552,2024-03-29,Basic,Monthly,1,14.47,Yes,Competitor,14.47,West
+CUST-20553,2024-08-21,Basic,Annual,12,15.17,Yes,No_Reason,182.04,East
+CUST-20554,2024-01-17,Premium,Monthly,10,76.17,Yes,Price,761.7,North
+CUST-20555,2024-10-07,Basic,Annual,14,14.51,No,N/A,203.14,South
+CUST-20556,2024-12-18,Standard,Monthly,16,39.85,Yes,Product Bug,637.6,South
+CUST-21778,2024-03-07,Premium,Annual,4,81.8,No,N/A,327.2,East
+CUST-20557,2024-02-11,Standard,Monthly,23,38.93,Yes,Customer Support,895.39,South
+CUST-20558,2024-01-19,Premium,Annual,7,77.58,Yes,Price,543.06,East
+CUST-21193,2024-10-21,Basic,Monthly,5,14.52,Yes,Product Bug,72.6,South
+CUST-20559,2024-04-25,Premium,Monthly,13,77.96,No,N/A,1013.48,West
+CUST-20560,2024-09-28,Premium,Monthly,13,81.94,No,N/A,1065.22,West
+CUST-20562,2024-05-02,Standard,Annual,19,38.67,No,N/A,734.73,East
+CUST-20563,2025-05-07,Premium,Monthly,17,75.61,No,N/A,1285.37,South
+CUST-20564,2024-02-16,Premium,Monthly,9,76.06,No,N/A,684.54,East
+CUST-20565,2024-08-29,Basic,Monthly,9,15.27,No,N/A,137.43,East
+CUST-20566,2024-01-27,Basic,Monthly,16,15.19,Yes,No_Reason,243.04,East
+CUST-20567,2024-07-21,Premium,Annual,21,77.39,No,N/A,1625.19,North
+CUST-20568,2025-01-04,Standard,Annual,4,37.39,No,N/A,149.56,South
+CUST-20569,2025-03-18,Standard,Monthly,24,38.02,Yes,Price,912.48,West
+CUST-20570,2024-04-03,Standard,Annual,9,37.16,No,N/A,334.44,West
+CUST-20571,2024-09-27,Basic,Annual,15,15.43,No,N/A,231.45,East
+CUST-20572,2024-10-27,Premium,Annual,6,79.85,Yes,Product Bug,479.1,South
+CUST-20573,2025-04-15,Standard,Monthly,21,37.15,Yes,Competitor,780.15,South
+CUST-20574,2024-03-07,Basic,Annual,14,15.37,No,N/A,215.18,South
+CUST-20575,2024-12-20,Basic,Annual,17,14.52,No,N/A,246.84,West
+CUST-20576,2024-10-31,Basic,Monthly,19,14.68,Yes,Customer Support,278.92,East
+CUST-20577,2025-03-03,Basic,Annual,8,15.7,No,N/A,125.6,North
+CUST-20578,2024-03-31,Standard,Monthly,13,38.44,Yes,Price,499.72,South
+CUST-20579,2024-08-09,Standard,Monthly,18,39.0,No,N/A,702.0,West
+CUST-20580,2024-03-12,Basic,Annual,15,14.34,No,N/A,215.1,West
+CUST-20581,2024-07-17,Standard,Annual,15,39.0,No,N/A,585.0,South
+CUST-20582,2024-05-01,Premium,Monthly,10,82.9,Yes,Price,829.0,East
+CUST-20583,2025-01-11,Standard,Annual,18,40.15,No,N/A,722.7,South
+CUST-20584,2024-12-28,Standard,Monthly,23,40.71,Yes,Price,936.33,North
+CUST-20585,2024-10-22,Basic,Annual,5,15.36,Yes,Price,76.8,East
+CUST-20586,2024-03-15,Basic,Monthly,21,14.5,No,N/A,304.5,East
+CUST-20587,2024-02-12,Premium,Monthly,21,80.67,Yes,Customer Support,1694.07,South
+CUST-20588,2024-05-30,Premium,Annual,9,78.43,No,N/A,705.87,West
+CUST-20591,2025-04-28,Basic,Monthly,15,14.29,No,N/A,214.35,West
+CUST-20593,2024-04-28,Premium,Annual,20,80.07,No,N/A,1601.4,West
+CUST-20594,2024-07-17,Basic,Monthly,1,15.2,No,N/A,15.2,West
+CUST-20595,2025-03-21,Standard,Monthly,19,39.89,No,N/A,757.91,North
+CUST-20596,2024-03-11,Basic,Annual,8,14.82,No,N/A,118.56,South
+CUST-20598,2024-11-18,Premium,Monthly,23,77.38,No,N/A,1779.74,East
+CUST-20599,2024-03-19,Premium,Annual,13,82.31,No,N/A,1070.03,South
+CUST-20600,2024-03-05,Standard,Annual,14,38.08,No,N/A,533.12,West
+CUST-20601,2025-02-01,Standard,Annual,21,38.98,Yes,No_Reason,818.58,West
+CUST-20602,2024-04-16,Standard,Monthly,0,38.42,Yes,No_Reason,0.0,West
+CUST-20603,2024-09-20,Basic,Monthly,19,14.44,Yes,No_Reason,274.36,East
+CUST-20604,2024-06-19,Standard,Annual,24,40.41,No,N/A,969.84,North
+CUST-20606,2024-05-26,Basic,Monthly,6,14.3,No,N/A,85.8,North
+CUST-20607,2025-02-17,Basic,Annual,11,14.64,Yes,Competitor,161.04,South
+CUST-20608,2024-12-23,Premium,Monthly,20,77.93,No,N/A,1558.6,West
+CUST-20610,2025-05-05,Premium,Monthly,15,81.09,No,N/A,1216.35,East
+CUST-20611,2024-12-31,Standard,Annual,14,38.27,No,N/A,535.78,West
+CUST-20612,2025-02-10,Basic,Monthly,6,15.42,No,N/A,92.52,West
+CUST-20613,2024-05-31,Standard,Annual,13,37.12,No,N/A,482.56,East
+CUST-20614,2024-11-30,Basic,Monthly,18,14.85,Yes,Competitor,267.3,West
+CUST-20615,2024-08-03,Basic,Monthly,22,14.97,No,N/A,329.34,West
+CUST-20618,2025-03-16,Standard,Monthly,20,40.93,No,N/A,818.6,East
+CUST-20619,2024-01-25,Standard,Annual,7,40.03,No,N/A,280.21,South
+CUST-20620,2025-01-03,Basic,Annual,7,14.45,No,N/A,101.15,South
+CUST-20621,2024-08-26,Basic,Monthly,13,14.7,No,N/A,191.1,North
+CUST-20622,2024-01-01,Standard,Monthly,23,37.79,No,N/A,869.17,West
+CUST-20623,2024-09-10,Basic,Monthly,20,14.85,No,N/A,297.0,South
+CUST-20625,2025-01-09,Premium,Monthly,21,77.98,No,N/A,1637.58,South
+CUST-20626,2025-01-13,Standard,Monthly,7,38.12,No,N/A,266.84,North
+CUST-20627,2024-08-06,Standard,Annual,0,38.76,No,N/A,0.0,East
+CUST-20628,2024-05-23,Premium,Annual,8,82.04,Yes,No_Reason,656.32,East
+CUST-20629,2024-02-17,Premium,Annual,7,79.25,Yes,Price,554.75,East
+CUST-20630,2024-04-05,Premium,Annual,7,80.02,No,N/A,560.14,North
+CUST-20631,2024-12-22,Premium,Annual,16,82.01,No,N/A,1312.16,South
+CUST-20632,2024-12-05,Basic,Annual,5,15.68,Yes,Price,78.4,South
+CUST-20633,2025-03-02,Basic,Annual,23,15.02,Yes,Price,345.46,North
+CUST-20634,2024-04-27,Premium,Monthly,5,78.74,No,N/A,393.7,West
+CUST-20635,2024-03-25,Standard,Annual,2,40.46,Yes,Product Bug,80.92,South
+CUST-20636,2025-04-15,Premium,Monthly,7,82.86,No,N/A,580.02,North
+CUST-20638,2025-02-21,Premium,Monthly,20,77.1,No,N/A,1542.0,West
+CUST-20639,2024-04-19,Premium,Monthly,9,82.19,No,N/A,739.71,West
+CUST-20640,2024-03-01,Basic,Annual,8,15.32,No,N/A,122.56,West
+CUST-20641,2024-04-16,Standard,Annual,7,37.81,Yes,Price,264.67,South
+CUST-20642,2024-05-04,Standard,Monthly,22,39.27,No,N/A,863.94,West
+CUST-20643,2024-06-04,Premium,Annual,2,79.05,Yes,Product Bug,158.1,East
+CUST-20644,2024-06-26,Basic,Annual,16,15.64,No,N/A,250.24,West
+CUST-20645,2024-09-03,Standard,Monthly,7,37.76,No,N/A,264.32,East
+CUST-20647,2024-12-02,Basic,Monthly,10,14.26,No,N/A,142.6,North
+CUST-20648,2025-04-03,Standard,Annual,9,38.07,Yes,Customer Support,342.63,North
+CUST-20649,2024-06-25,Standard,Annual,12,38.51,No,N/A,462.12,South
+CUST-20650,2024-10-03,Basic,Monthly,6,15.39,Yes,Competitor,92.34,East
+CUST-20652,2025-03-31,Basic,Annual,24,14.94,No,N/A,358.56,West
+CUST-20653,2024-09-30,Standard,Monthly,18,40.95,Yes,Competitor,737.1,East
+CUST-20654,2025-01-25,Premium,Annual,13,80.85,No,N/A,1051.05,North
+CUST-20655,2024-10-24,Basic,Annual,17,14.61,Yes,Price,248.37,South
+CUST-20656,2024-02-11,Basic,Monthly,3,14.25,Yes,Customer Support,42.75,North
+CUST-20657,2024-10-10,Standard,Annual,6,38.68,No,N/A,232.08,East
+CUST-20658,2024-10-01,Premium,Annual,9,80.27,No,N/A,722.43,West
+CUST-20659,2024-12-09,Premium,Annual,23,78.2,Yes,Competitor,1798.6,North
+CUST-20660,2024-04-29,Premium,Monthly,19,79.47,No,N/A,1509.93,West
+CUST-20661,2024-01-26,Standard,Monthly,17,38.68,No,N/A,657.56,West
+CUST-20662,2025-03-22,Basic,Annual,23,15.17,No,N/A,348.91,East
+CUST-20663,2024-07-03,Standard,Monthly,9,37.75,No,N/A,339.75,West
+CUST-20664,2025-04-16,Premium,Monthly,6,78.16,Yes,Competitor,468.96,West
+CUST-20666,2024-08-11,Standard,Annual,20,37.96,Yes,Price,759.2,South
+CUST-20667,2024-08-02,Basic,Annual,9,15.66,Yes,Competitor,140.94,East
+CUST-20668,2024-12-31,Standard,Monthly,22,40.87,No,N/A,899.14,West
+CUST-20669,2024-03-28,Basic,Monthly,0,15.0,No,N/A,0.0,South
+CUST-20670,2025-03-04,Basic,Monthly,22,14.75,Yes,Product Bug,324.5,East
+CUST-20673,2024-10-17,Standard,Monthly,13,40.52,Yes,Product Bug,526.76,North
+CUST-20885,2024-06-14,Basic,Monthly,22,14.42,No,N/A,317.24,North
+CUST-20675,2025-01-08,Premium,Monthly,10,78.27,No,N/A,782.7,South
+CUST-20676,2024-06-28,Premium,Monthly,8,79.0,No,N/A,632.0,North
+CUST-20677,2024-04-07,Premium,Monthly,13,79.18,No,N/A,1029.34,North
+CUST-20678,2025-05-11,Premium,Annual,19,82.94,No,N/A,1575.86,West
+CUST-20679,2024-10-06,Premium,Monthly,19,81.55,No,N/A,1549.45,East
+CUST-20680,2024-10-06,Premium,Annual,22,78.35,Yes,Competitor,1723.7,South
+CUST-20681,2024-01-08,Premium,Annual,20,79.56,No,N/A,1591.2,North
+CUST-20683,2024-04-18,Standard,Annual,3,37.72,No,N/A,113.16,South
+CUST-20684,2025-03-13,Basic,Monthly,1,15.33,Yes,Product Bug,15.33,East
+CUST-20685,2024-11-21,Premium,Annual,6,77.21,No,N/A,463.26,East
+CUST-20686,2024-03-22,Basic,Monthly,21,14.96,Yes,Competitor,314.16,North
+CUST-20687,2024-08-28,Basic,Annual,24,14.63,No,N/A,351.12,South
+CUST-20688,2024-10-08,Premium,Annual,0,79.59,No,N/A,0.0,South
+CUST-20690,2025-01-04,Standard,Annual,22,37.65,Yes,No_Reason,828.3,North
+CUST-20691,2024-08-07,Premium,Annual,23,82.86,No,N/A,1905.78,East
+CUST-20692,2024-03-15,Basic,Monthly,2,14.31,Yes,No_Reason,28.62,North
+CUST-20693,2024-04-07,Standard,Annual,14,37.21,No,N/A,520.94,South
+CUST-20694,2025-05-10,Standard,Monthly,14,40.43,No,N/A,566.02,North
+CUST-20696,2024-12-09,Premium,Monthly,17,75.84,No,N/A,1289.28,North
+CUST-20697,2025-03-02,Standard,Monthly,2,39.11,Yes,Product Bug,78.22,North
+CUST-20698,2024-01-03,Basic,Monthly,18,15.05,Yes,Customer Support,270.9,North
+CUST-20700,2024-07-20,Basic,Monthly,0,14.68,Yes,Product Bug,0.0,North
+CUST-20701,2024-07-01,Basic,Monthly,4,15.75,Yes,No_Reason,63.0,East
+CUST-20702,2024-03-10,Premium,Monthly,2,78.97,Yes,Customer Support,157.94,West
+CUST-20703,2024-07-06,Standard,Monthly,13,39.92,Yes,Competitor,518.96,South
+CUST-20704,2024-06-18,Standard,Monthly,19,38.32,Yes,Customer Support,728.08,East
+CUST-20705,2024-08-17,Premium,Monthly,2,79.77,Yes,No_Reason,159.54,East
+CUST-20707,2024-05-27,Basic,Annual,18,14.68,No,N/A,264.24,West
+CUST-20708,2024-08-19,Premium,Monthly,12,79.14,Yes,No_Reason,949.68,North
+CUST-20709,2025-01-16,Basic,Monthly,17,15.0,Yes,Competitor,255.0,South
+CUST-20710,2024-04-04,Standard,Monthly,21,40.56,No,N/A,851.76,West
+CUST-20711,2024-11-01,Basic,Annual,21,14.57,No,N/A,305.97,East
+CUST-20712,2024-02-08,Premium,Annual,7,79.51,No,N/A,556.57,South
+CUST-21323,2024-05-08,Standard,Monthly,6,38.45,No,N/A,230.7,East
+CUST-21271,2025-02-08,Basic,Monthly,15,15.15,Yes,Product Bug,227.25,West
+CUST-20714,2024-11-08,Standard,Annual,11,37.9,No,N/A,416.9,North
+CUST-20716,2025-01-08,Premium,Annual,24,78.15,Yes,Price,1875.6,South
+CUST-20717,2024-10-30,Basic,Monthly,12,15.58,No,N/A,186.96,North
+CUST-20718,2024-09-11,Premium,Annual,7,82.88,No,N/A,580.16,East
+CUST-20719,2025-03-31,Premium,Annual,8,79.68,No,N/A,637.44,East
+CUST-20720,2024-05-11,Standard,Monthly,9,37.53,No,N/A,337.77,South
+CUST-20721,2024-12-10,Standard,Monthly,0,37.68,Yes,Price,0.0,North
+CUST-20722,2025-03-06,Basic,Monthly,10,14.98,No,N/A,149.8,South
+CUST-20723,2024-12-13,Standard,Annual,22,37.87,No,N/A,833.14,East
+CUST-20724,2024-04-08,Premium,Annual,9,81.13,No,N/A,730.17,East
+CUST-20726,2025-04-01,Basic,Monthly,20,15.1,No,N/A,302.0,South
+CUST-20727,2024-11-14,Standard,Annual,18,39.14,No,N/A,704.52,East
+CUST-20728,2024-02-29,Standard,Annual,22,39.87,No,N/A,877.14,North
+CUST-20729,2024-06-18,Standard,Annual,14,37.5,No,N/A,525.0,West
+CUST-20730,2024-05-13,Standard,Monthly,5,38.71,Yes,No_Reason,193.55,West
+CUST-20731,2024-03-05,Basic,Monthly,5,14.38,Yes,Product Bug,71.9,West
+CUST-20732,2025-04-13,Basic,Monthly,20,15.55,Yes,Customer Support,311.0,West
+CUST-20733,2024-08-09,Premium,Monthly,21,76.51,No,N/A,1606.71,East
+CUST-20734,2024-12-07,Standard,Annual,13,37.32,No,N/A,485.16,East
+CUST-20736,2024-08-05,Premium,Annual,4,82.54,Yes,No_Reason,330.16,North
+CUST-20737,2025-05-14,Standard,Annual,15,39.29,Yes,Competitor,589.35,South
+CUST-20738,2025-03-07,Premium,Monthly,12,76.92,No,N/A,923.04,North
+CUST-20739,2024-07-17,Basic,Monthly,18,15.5,Yes,Price,279.0,North
+CUST-20740,2025-01-21,Basic,Annual,19,14.86,No,N/A,282.34,South
+CUST-20741,2024-01-19,Basic,Monthly,9,15.36,No,N/A,138.24,West
+CUST-20742,2024-05-02,Standard,Annual,3,37.93,No,N/A,113.79,South
+CUST-20743,2024-02-25,Premium,Monthly,3,76.8,No,N/A,230.4,East
+CUST-20744,2024-08-16,Standard,Annual,8,39.13,Yes,Competitor,313.04,South
+CUST-20745,2024-09-12,Premium,Annual,15,78.18,No,N/A,1172.7,East
+CUST-20746,2025-01-21,Standard,Monthly,17,40.7,Yes,Price,691.9,South
+CUST-20748,2024-05-07,Standard,Monthly,9,38.25,No,N/A,344.25,West
+CUST-20749,2025-01-22,Premium,Annual,8,79.4,Yes,Product Bug,635.2,North
+CUST-20750,2024-02-25,Premium,Annual,22,82.16,No,N/A,1807.52,South
+CUST-20751,2024-04-24,Basic,Annual,11,15.25,Yes,Competitor,167.75,East
+CUST-20752,2024-02-29,Basic,Monthly,6,15.06,No,N/A,90.36,West
+CUST-20753,2024-10-18,Premium,Annual,12,76.85,No,N/A,922.2,North
+CUST-20755,2024-02-23,Premium,Monthly,13,79.22,No,N/A,1029.86,West
+CUST-20756,2024-06-30,Basic,Monthly,17,15.1,Yes,Customer Support,256.7,East
+CUST-20757,2024-11-29,Premium,Monthly,15,77.91,Yes,No_Reason,1168.65,North
+CUST-20758,2025-04-06,Standard,Monthly,2,38.94,No,N/A,77.88,North
+CUST-20759,2024-04-26,Standard,Annual,12,37.29,No,N/A,447.48,East
+CUST-20760,2024-04-18,Premium,Monthly,4,77.17,Yes,Price,308.68,West
+CUST-20761,2025-04-03,Standard,Annual,17,38.38,No,N/A,652.46,South
+CUST-20762,2025-03-15,Basic,Monthly,3,14.78,No,N/A,44.34,West
+CUST-20763,2024-05-08,Premium,Annual,4,81.54,Yes,Competitor,326.16,West
+CUST-20764,2024-07-15,Premium,Monthly,11,76.85,Yes,Product Bug,845.35,North
+CUST-20766,2024-05-23,Standard,Annual,21,38.42,Yes,Product Bug,806.82,North
+CUST-20767,2024-05-14,Premium,Annual,7,76.04,Yes,Competitor,532.28,North
+CUST-20770,2024-05-28,Standard,Monthly,7,39.96,Yes,Price,279.72,West
+CUST-20771,2024-06-15,Standard,Annual,22,39.48,Yes,Customer Support,868.56,South
+CUST-20772,2024-08-08,Basic,Monthly,13,15.16,No,N/A,197.08,East
+CUST-20773,2024-11-03,Basic,Annual,6,14.29,No,N/A,85.74,North
+CUST-20775,2024-10-12,Premium,Annual,11,81.74,No,N/A,899.14,South
+CUST-20776,2025-02-27,Basic,Annual,18,15.15,No,N/A,272.7,West
+CUST-20777,2025-01-24,Basic,Monthly,0,14.81,No,N/A,0.0,North
+CUST-20778,2024-01-05,Premium,Annual,10,78.31,No,N/A,783.1,South
+CUST-20781,2024-05-21,Premium,Monthly,1,78.39,No,N/A,78.39,East
+CUST-20782,2024-09-09,Standard,Monthly,15,38.59,No,N/A,578.85,East
+CUST-20783,2025-05-15,Premium,Monthly,6,77.41,No,N/A,464.46,North
+CUST-20784,2024-05-26,Standard,Monthly,13,39.76,Yes,Customer Support,516.88,West
+CUST-20786,2024-11-18,Basic,Monthly,5,15.64,Yes,Customer Support,78.2,East
+CUST-20787,2025-05-06,Standard,Monthly,5,40.84,No,N/A,204.2,East
+CUST-20789,2024-03-27,Basic,Monthly,10,14.64,Yes,No_Reason,146.4,North
+CUST-21276,2025-03-09,Premium,Annual,11,80.36,No,N/A,883.96,South
+CUST-20791,2024-07-06,Standard,Monthly,5,40.77,Yes,Price,203.85,North
+CUST-20792,2024-04-03,Premium,Monthly,21,82.69,No,N/A,1736.49,North
+CUST-20793,2024-10-20,Premium,Monthly,3,76.33,No,N/A,228.99,South
+CUST-20794,2025-05-07,Standard,Annual,8,40.09,No,N/A,320.72,West
+CUST-20795,2024-05-10,Premium,Monthly,14,82.56,No,N/A,1155.84,South
+CUST-20796,2024-11-11,Basic,Annual,17,15.67,No,N/A,266.39,West
+CUST-20797,2024-06-22,Premium,Annual,7,77.62,No,N/A,543.34,South
+CUST-20798,2024-09-06,Premium,Annual,16,81.0,No,N/A,1296.0,South
+CUST-20799,2024-05-25,Premium,Monthly,13,79.0,No,N/A,1027.0,East
+CUST-20801,2024-03-12,Premium,Monthly,21,76.7,No,N/A,1610.7,West
+CUST-20802,2024-07-08,Premium,Monthly,23,79.93,Yes,Customer Support,1838.39,East
+CUST-20803,2024-09-15,Premium,Annual,21,77.73,Yes,Price,1632.33,West
+CUST-20804,2024-04-02,Standard,Annual,10,39.65,Yes,Customer Support,396.5,East
+CUST-20805,2024-08-25,Premium,Monthly,6,77.5,No,N/A,465.0,North
+CUST-20806,2024-09-23,Standard,Monthly,13,37.63,No,N/A,489.19,West
+CUST-20807,2024-03-28,Premium,Monthly,4,82.01,No,N/A,328.04,West
+CUST-20808,2025-02-03,Premium,Annual,16,76.27,No,N/A,1220.32,East
+CUST-20809,2025-05-03,Premium,Annual,17,78.49,No,N/A,1334.33,South
+CUST-20810,2024-11-06,Premium,Annual,8,79.21,No,N/A,633.68,East
+CUST-20811,2025-02-09,Standard,Annual,19,39.0,No,N/A,741.0,East
+CUST-20813,2024-02-14,Basic,Monthly,6,15.24,Yes,Customer Support,91.44,East
+CUST-20815,2024-09-26,Standard,Annual,12,37.98,No,N/A,455.76,North
+CUST-21686,2024-05-28,Basic,Annual,4,14.92,Yes,Customer Support,59.68,North
+CUST-20816,2025-04-10,Standard,Monthly,1,40.19,Yes,Product Bug,40.19,East
+CUST-20817,2024-11-13,Premium,Monthly,15,76.08,No,N/A,1141.2,West
+CUST-20818,2024-08-13,Premium,Monthly,4,79.0,Yes,Customer Support,316.0,West
+CUST-20820,2024-01-19,Premium,Monthly,23,82.34,No,N/A,1893.82,North
+CUST-20821,2024-04-15,Premium,Annual,15,77.77,No,N/A,1166.55,North
+CUST-20823,2024-08-13,Standard,Annual,20,40.85,No,N/A,817.0,West
+CUST-20824,2025-04-28,Standard,Annual,6,37.22,No,N/A,223.32,East
+CUST-20826,2024-11-14,Premium,Annual,20,77.51,Yes,Competitor,1550.2,North
+CUST-20827,2024-08-11,Basic,Monthly,8,14.44,No,N/A,115.52,West
+CUST-20828,2024-06-14,Basic,Monthly,22,15.18,Yes,Product Bug,333.96,West
+CUST-20829,2024-12-14,Basic,Monthly,19,14.65,Yes,Price,278.35,West
+CUST-20830,2025-04-15,Premium,Annual,22,78.93,Yes,No_Reason,1736.46,West
+CUST-20831,2024-01-19,Standard,Monthly,6,40.74,No,N/A,244.44,East
+CUST-20832,2025-04-23,Premium,Annual,23,79.54,No,N/A,1829.42,East
+CUST-20833,2024-02-11,Standard,Monthly,8,39.0,No,N/A,312.0,South
+CUST-20834,2024-06-10,Standard,Monthly,19,40.2,No,N/A,763.8,East
+CUST-20836,2024-08-18,Premium,Monthly,6,81.29,No,N/A,487.74,East
+CUST-20838,2024-01-15,Premium,Monthly,24,77.89,No,N/A,1869.36,West
+CUST-20839,2024-08-03,Standard,Monthly,12,39.9,Yes,Price,478.8,North
+CUST-20841,2024-11-23,Standard,Monthly,16,40.22,Yes,Price,643.52,West
+CUST-20842,2024-01-13,Standard,Monthly,24,37.91,Yes,Competitor,909.84,North
+CUST-20843,2024-06-14,Basic,Monthly,14,14.58,Yes,Product Bug,204.12,North
+CUST-20844,2024-07-10,Premium,Annual,22,76.75,No,N/A,1688.5,North
+CUST-20845,2025-02-25,Premium,Monthly,0,79.56,Yes,Price,0.0,West
+CUST-20846,2024-11-18,Premium,Annual,12,80.86,No,N/A,970.32,South
+CUST-20848,2024-12-16,Standard,Annual,14,39.46,No,N/A,552.44,North
+CUST-20850,2024-04-18,Standard,Annual,5,38.78,Yes,Competitor,193.9,North
+CUST-20851,2024-09-02,Standard,Monthly,11,39.09,No,N/A,429.99,North
+CUST-20852,2025-02-21,Basic,Annual,0,14.61,No,N/A,0.0,East
+CUST-20853,2024-03-02,Standard,Monthly,21,40.28,No,N/A,845.88,North
+CUST-20854,2024-07-27,Standard,Monthly,24,38.67,No,N/A,928.08,East
+CUST-20855,2024-06-01,Basic,Annual,22,14.36,No,N/A,315.92,North
+CUST-20857,2025-04-01,Premium,Monthly,8,75.25,Yes,Product Bug,602.0,South
+CUST-20858,2024-02-25,Standard,Annual,12,40.56,No,N/A,486.72,North
+CUST-21637,2024-02-18,Standard,Monthly,1,37.35,Yes,No_Reason,37.35,East
+CUST-20859,2024-11-26,Standard,Annual,12,37.53,No,N/A,450.36,West
+CUST-20860,2024-06-21,Standard,Annual,17,37.65,No,N/A,640.05,East
+CUST-20861,2024-04-25,Basic,Monthly,1,14.72,Yes,No_Reason,14.72,East
+CUST-20863,2025-04-19,Standard,Monthly,4,39.17,Yes,Product Bug,156.68,South
+CUST-20864,2024-02-29,Basic,Monthly,16,15.22,Yes,Price,243.52,West
+CUST-20865,2024-11-27,Standard,Annual,6,37.92,No,N/A,227.52,South
+CUST-20867,2024-05-24,Standard,Annual,1,40.07,Yes,No_Reason,40.07,North
+CUST-20868,2024-01-14,Basic,Annual,14,14.74,Yes,No_Reason,206.36,North
+CUST-20869,2024-06-09,Standard,Monthly,1,37.78,Yes,Customer Support,37.78,West
+CUST-20871,2024-06-12,Basic,Annual,15,15.0,No,N/A,225.0,East
+CUST-20872,2024-12-23,Premium,Annual,6,75.15,No,N/A,450.9,West
+CUST-20874,2025-01-21,Premium,Annual,12,75.63,Yes,Product Bug,907.56,North
+CUST-20876,2025-02-24,Standard,Annual,20,39.24,No,N/A,784.8,South
+CUST-20877,2025-02-15,Basic,Annual,4,14.92,Yes,Product Bug,59.68,West
+CUST-20879,2025-01-03,Premium,Annual,23,81.03,No,N/A,1863.69,South
+CUST-20880,2025-04-14,Standard,Monthly,7,39.42,No,N/A,275.94,East
+CUST-20881,2025-04-06,Standard,Annual,3,38.34,Yes,Price,115.02,South
+CUST-20882,2024-10-23,Standard,Annual,12,40.03,No,N/A,480.36,North
+CUST-20883,2025-05-03,Premium,Monthly,22,80.87,Yes,Customer Support,1779.14,East
+CUST-20884,2025-03-13,Basic,Monthly,10,14.76,Yes,Product Bug,147.6,East
+CUST-20886,2024-10-06,Premium,Annual,7,76.35,Yes,Price,534.45,North
+CUST-20888,2024-09-12,Premium,Monthly,22,75.33,No,N/A,1657.26,West
+CUST-20889,2024-01-11,Basic,Monthly,20,15.31,Yes,No_Reason,306.2,East
+CUST-20890,2024-09-24,Premium,Monthly,18,82.16,No,N/A,1478.88,South
+CUST-20891,2024-06-14,Premium,Annual,1,82.67,Yes,Product Bug,82.67,South
+CUST-20892,2024-05-18,Premium,Annual,8,79.73,No,N/A,637.84,North
+CUST-20893,2024-10-31,Premium,Monthly,16,76.8,No,N/A,1228.8,West
+CUST-20895,2025-02-12,Standard,Monthly,14,40.77,No,N/A,570.78,North
+CUST-20898,2024-09-10,Basic,Monthly,4,15.27,No,N/A,61.08,East
+CUST-20900,2024-07-22,Premium,Monthly,24,82.88,Yes,No_Reason,1989.12,West
+CUST-20901,2024-05-28,Basic,Annual,23,15.05,Yes,Price,346.15,South
+CUST-20902,2024-08-08,Basic,Monthly,13,14.73,Yes,No_Reason,191.49,North
+CUST-20904,2024-10-21,Premium,Monthly,7,75.19,No,N/A,526.33,North
+CUST-20905,2024-10-31,Standard,Annual,16,38.93,No,N/A,622.88,West
+CUST-20906,2025-03-04,Premium,Annual,22,75.79,No,N/A,1667.38,West
+CUST-20907,2024-08-04,Basic,Monthly,21,14.37,Yes,No_Reason,301.77,North
+CUST-20908,2024-03-18,Standard,Annual,9,40.5,Yes,Product Bug,364.5,West
+CUST-20909,2025-01-30,Standard,Annual,14,37.5,No,N/A,525.0,South
+CUST-20910,2024-11-10,Basic,Monthly,8,15.07,Yes,Price,120.56,North
+CUST-20911,2025-01-12,Premium,Annual,19,77.1,No,N/A,1464.9,East
+CUST-20912,2024-03-16,Premium,Monthly,24,76.11,No,N/A,1826.64,North
+CUST-20913,2025-05-13,Premium,Monthly,18,77.52,Yes,Competitor,1395.36,South
+CUST-20914,2024-02-07,Premium,Annual,5,82.33,Yes,Competitor,411.65,East
+CUST-20915,2024-07-11,Premium,Monthly,3,80.56,Yes,Customer Support,241.68,West
+CUST-20916,2025-04-01,Standard,Monthly,5,40.05,Yes,Competitor,200.25,South
+CUST-20917,2024-04-28,Premium,Annual,21,79.81,No,N/A,1676.01,East
+CUST-20918,2025-02-17,Basic,Monthly,20,14.84,No,N/A,296.8,West
+CUST-20919,2024-12-15,Premium,Monthly,13,75.32,Yes,No_Reason,979.16,North
+CUST-20920,2024-05-06,Premium,Monthly,9,82.49,No,N/A,742.41,South
+CUST-20921,2025-04-14,Standard,Annual,19,37.27,No,N/A,708.13,South
+CUST-20922,2024-10-17,Basic,Annual,0,15.02,Yes,Product Bug,0.0,West
+CUST-20923,2024-01-07,Standard,Annual,2,39.27,No,N/A,78.54,West
+CUST-20924,2024-02-16,Basic,Annual,20,15.58,No,N/A,311.6,East
+CUST-20925,2024-12-14,Standard,Monthly,13,40.4,No,N/A,525.2,East
+CUST-20926,2024-08-14,Premium,Monthly,12,81.64,No,N/A,979.68,South
+CUST-20927,2024-06-12,Premium,Monthly,23,78.43,Yes,Customer Support,1803.89,South
+CUST-20928,2024-01-05,Premium,Monthly,1,77.6,No,N/A,77.6,West
+CUST-20930,2024-04-19,Premium,Monthly,2,78.05,Yes,Product Bug,156.1,East
+CUST-20932,2024-03-28,Standard,Annual,7,38.86,No,N/A,272.02,South
+CUST-20933,2025-03-24,Premium,Monthly,13,80.79,Yes,Customer Support,1050.27,East
+CUST-20934,2024-09-15,Premium,Monthly,8,81.63,No,N/A,653.04,East
+CUST-20935,2024-03-15,Premium,Annual,15,82.13,No,N/A,1231.95,West
+CUST-20936,2025-03-25,Standard,Monthly,17,37.14,Yes,Competitor,631.38,West
+CUST-20937,2024-10-04,Basic,Annual,14,14.77,No,N/A,206.78,West
+CUST-20938,2025-02-18,Standard,Annual,0,37.23,No,N/A,0.0,East
+CUST-20940,2025-01-24,Basic,Annual,20,14.53,No,N/A,290.6,West
+CUST-20941,2024-11-05,Basic,Annual,19,15.36,Yes,Product Bug,291.84,South
+CUST-20942,2025-02-24,Standard,Monthly,0,38.66,Yes,Competitor,0.0,East
+CUST-20943,2024-06-07,Basic,Monthly,21,14.98,No,N/A,314.58,West
+CUST-20944,2024-07-15,Standard,Annual,1,38.87,No,N/A,38.87,North
+CUST-20945,2024-06-20,Basic,Monthly,0,14.51,Yes,Product Bug,0.0,East
+CUST-20946,2025-01-23,Standard,Annual,6,40.59,No,N/A,243.54,East
+CUST-20947,2024-12-07,Standard,Monthly,12,39.0,No,N/A,468.0,West
+CUST-20949,2025-05-15,Standard,Monthly,19,40.49,Yes,Price,769.31,North
+CUST-20950,2025-04-14,Standard,Annual,9,37.12,No,N/A,334.08,East
+CUST-20951,2024-10-12,Standard,Monthly,23,40.05,No,N/A,921.15,North
+CUST-20952,2024-04-19,Standard,Monthly,0,37.5,No,N/A,0.0,South
+CUST-20954,2024-09-25,Standard,Monthly,3,39.2,Yes,Customer Support,117.6,South
+CUST-20955,2024-12-30,Basic,Monthly,15,15.28,No,N/A,229.2,West
+CUST-20957,2025-02-27,Standard,Monthly,21,39.5,No,N/A,829.5,South
+CUST-20959,2024-11-17,Standard,Annual,24,37.06,No,N/A,889.44,East
+CUST-20960,2024-05-11,Premium,Monthly,22,81.58,Yes,Price,1794.76,South
+CUST-20961,2024-04-18,Standard,Annual,21,40.54,No,N/A,851.34,West
+CUST-20962,2025-03-09,Premium,Monthly,8,78.63,No,N/A,629.04,East
+CUST-20963,2024-02-17,Basic,Annual,8,15.07,No,N/A,120.56,East
+CUST-20964,2024-05-25,Basic,Annual,19,14.4,No,N/A,273.6,South
+CUST-20965,2024-03-15,Standard,Monthly,10,39.55,Yes,Competitor,395.5,South
+CUST-20966,2024-12-12,Premium,Annual,16,76.66,Yes,No_Reason,1226.56,West
+CUST-20967,2024-05-30,Standard,Annual,20,37.39,Yes,Customer Support,747.8,North
+CUST-20968,2025-01-18,Basic,Monthly,0,15.62,Yes,No_Reason,0.0,West
+CUST-20969,2025-02-13,Premium,Annual,17,81.86,Yes,No_Reason,1391.62,East
+CUST-20970,2024-07-20,Basic,Monthly,18,15.61,No,N/A,280.98,East
+CUST-20971,2024-11-22,Basic,Monthly,22,14.45,No,N/A,317.9,East
+CUST-20972,2025-04-15,Standard,Annual,11,37.5,Yes,Product Bug,412.5,West
+CUST-20973,2024-10-25,Standard,Monthly,15,40.74,Yes,Product Bug,611.1,East
+CUST-20974,2025-02-19,Premium,Monthly,9,79.58,Yes,Competitor,716.22,West
+CUST-20975,2024-11-06,Basic,Annual,6,15.35,No,N/A,92.1,West
+CUST-20976,2024-12-27,Standard,Monthly,3,38.47,Yes,Price,115.41,South
+CUST-20977,2025-05-12,Standard,Monthly,6,37.98,Yes,No_Reason,227.88,North
+CUST-20978,2024-07-24,Premium,Monthly,18,80.75,Yes,Competitor,1453.5,North
+CUST-20979,2024-10-11,Basic,Annual,17,14.8,No,N/A,251.6,North
+CUST-20980,2025-04-26,Standard,Annual,16,37.94,No,N/A,607.04,North
+CUST-20981,2024-11-09,Premium,Monthly,12,77.33,No,N/A,927.96,South
+CUST-20982,2024-04-11,Standard,Annual,19,39.57,No,N/A,751.83,East
+CUST-20983,2024-07-18,Standard,Annual,1,40.71,No,N/A,40.71,North
+CUST-20984,2024-09-10,Basic,Monthly,21,14.35,Yes,No_Reason,301.35,West
+CUST-20985,2025-02-27,Standard,Annual,5,40.09,No,N/A,200.45,West
+CUST-20986,2025-04-30,Standard,Monthly,21,39.0,No,N/A,819.0,North
+CUST-20987,2024-11-28,Standard,Annual,9,37.79,No,N/A,340.11,West
+CUST-20988,2024-05-07,Standard,Annual,17,37.47,No,N/A,636.99,North
+CUST-20989,2024-01-11,Premium,Monthly,16,82.22,Yes,Price,1315.52,East
+CUST-21105,2024-11-19,Basic,Annual,23,14.6,Yes,Competitor,335.8,West
+CUST-20990,2024-05-08,Premium,Annual,0,80.45,No,N/A,0.0,West
+CUST-20991,2024-11-25,Standard,Monthly,22,39.96,No,N/A,879.12,West
+CUST-20992,2024-07-22,Basic,Monthly,5,14.56,Yes,No_Reason,72.8,West
+CUST-20993,2025-05-03,Premium,Annual,4,75.69,No,N/A,302.76,South
+CUST-20994,2024-04-24,Standard,Monthly,15,38.35,No,N/A,575.25,West
+CUST-20995,2024-08-11,Premium,Monthly,21,81.87,No,N/A,1719.27,West
+CUST-20996,2024-12-14,Basic,Monthly,13,15.0,Yes,Customer Support,195.0,West
+CUST-20997,2025-04-07,Basic,Monthly,5,14.95,No,N/A,74.75,West
+CUST-20998,2024-10-01,Standard,Annual,24,39.79,No,N/A,954.96,East
+CUST-20999,2024-05-15,Premium,Monthly,4,82.33,No,N/A,329.32,East
+CUST-21000,2025-05-11,Basic,Monthly,20,15.12,No,N/A,302.4,West
+CUST-21001,2024-12-20,Basic,Annual,9,15.57,No,N/A,140.13,South
+CUST-21002,2024-02-27,Premium,Monthly,0,76.33,Yes,No_Reason,0.0,South
+CUST-21003,2025-02-13,Basic,Monthly,23,14.27,Yes,Customer Support,328.21,South
+CUST-21004,2024-02-13,Premium,Annual,24,78.95,No,N/A,1894.8,West
+CUST-21987,2024-10-19,Basic,Monthly,0,15.08,Yes,Price,0.0,North
+CUST-21006,2025-03-27,Premium,Monthly,3,77.56,Yes,No_Reason,232.68,East
+CUST-21007,2025-01-08,Basic,Annual,10,14.82,No,N/A,148.2,East
+CUST-21008,2025-03-23,Premium,Annual,16,78.42,No,N/A,1254.72,East
+CUST-21009,2024-03-06,Standard,Monthly,4,40.57,Yes,No_Reason,162.28,South
+CUST-21010,2024-07-12,Standard,Monthly,24,37.6,Yes,Customer Support,902.4,North
+CUST-21011,2025-02-18,Premium,Monthly,5,75.22,Yes,Competitor,376.1,South
+CUST-21012,2024-12-22,Premium,Monthly,7,80.05,Yes,Customer Support,560.35,East
+CUST-21013,2024-11-23,Basic,Monthly,16,15.45,No,N/A,247.2,North
+CUST-21014,2025-02-08,Premium,Annual,16,77.77,No,N/A,1244.32,East
+CUST-21015,2024-05-24,Basic,Annual,20,14.63,No,N/A,292.6,South
+CUST-21017,2025-02-12,Standard,Monthly,23,38.3,No,N/A,880.9,North
+CUST-21018,2024-03-01,Standard,Monthly,18,40.07,No,N/A,721.26,East
+CUST-21019,2024-05-24,Premium,Monthly,20,78.44,Yes,Customer Support,1568.8,North
+CUST-21020,2024-04-05,Standard,Annual,2,38.38,No,N/A,76.76,East
+CUST-21022,2024-06-03,Standard,Monthly,6,39.7,No,N/A,238.2,North
+CUST-21023,2024-08-19,Basic,Annual,12,14.41,No,N/A,172.92,North
+CUST-21024,2024-12-21,Basic,Monthly,22,14.58,No,N/A,320.76,East
+CUST-21025,2024-02-20,Basic,Monthly,14,15.07,Yes,Competitor,210.98,West
+CUST-21026,2024-10-06,Standard,Monthly,20,40.28,No,N/A,805.6,North
+CUST-21028,2024-03-22,Basic,Annual,23,14.49,No,N/A,333.27,South
+CUST-21029,2024-12-01,Standard,Monthly,23,39.09,Yes,Competitor,899.07,West
+CUST-21030,2024-04-26,Standard,Monthly,12,40.5,Yes,Customer Support,486.0,East
+CUST-21031,2024-04-14,Standard,Annual,21,38.98,No,N/A,818.58,North
+CUST-21032,2024-11-16,Premium,Monthly,12,75.61,No,N/A,907.32,West
+CUST-21033,2025-05-11,Premium,Monthly,14,82.01,No,N/A,1148.14,East
+CUST-21034,2024-06-25,Basic,Monthly,5,14.72,No,N/A,73.6,East
+CUST-21036,2024-12-03,Premium,Annual,16,79.19,Yes,No_Reason,1267.04,South
+CUST-21037,2024-10-10,Premium,Monthly,10,79.78,No,N/A,797.8,South
+CUST-21038,2024-09-18,Basic,Monthly,17,15.65,No,N/A,266.05,West
+CUST-21039,2024-12-06,Standard,Monthly,0,40.43,No,N/A,0.0,North
+CUST-21040,2024-06-07,Basic,Annual,3,15.41,Yes,Competitor,46.23,South
+CUST-21041,2024-11-26,Premium,Annual,2,78.89,Yes,No_Reason,157.78,East
+CUST-21042,2024-01-31,Premium,Monthly,9,75.98,No,N/A,683.82,North
+CUST-21043,2024-09-13,Standard,Monthly,6,40.4,No,N/A,242.4,West
+CUST-21044,2024-11-24,Standard,Annual,5,40.63,Yes,Customer Support,203.15,East
+CUST-21045,2025-03-26,Basic,Annual,5,15.39,Yes,No_Reason,76.95,West
+CUST-21046,2024-02-04,Basic,Annual,14,15.3,Yes,Product Bug,214.2,West
+CUST-21047,2024-06-04,Standard,Annual,24,37.94,No,N/A,910.56,West
+CUST-21048,2024-05-28,Basic,Monthly,24,15.05,No,N/A,361.2,South
+CUST-21049,2024-05-29,Premium,Annual,18,77.97,No,N/A,1403.46,North
+CUST-21050,2024-08-14,Basic,Annual,21,14.55,No,N/A,305.55,East
+CUST-21051,2024-06-13,Basic,Annual,12,14.82,No,N/A,177.84,East
+CUST-21052,2024-03-22,Basic,Monthly,10,14.31,No,N/A,143.1,West
+CUST-21053,2025-01-07,Premium,Monthly,24,78.2,No,N/A,1876.8,West
+CUST-21054,2025-03-17,Premium,Monthly,14,76.86,No,N/A,1076.04,East
+CUST-21056,2024-10-07,Premium,Annual,14,82.17,No,N/A,1150.38,North
+CUST-21057,2024-10-08,Premium,Monthly,9,81.22,No,N/A,730.98,South
+CUST-21058,2024-05-12,Premium,Annual,20,75.38,No,N/A,1507.6,South
+CUST-21059,2025-03-22,Standard,Annual,1,37.21,No,N/A,37.21,North
+CUST-21061,2024-10-01,Premium,Annual,21,82.59,No,N/A,1734.39,North
+CUST-21062,2024-02-15,Premium,Monthly,0,81.12,Yes,Product Bug,0.0,East
+CUST-21064,2025-02-20,Premium,Monthly,1,81.27,No,N/A,81.27,South
+CUST-21065,2024-08-21,Basic,Monthly,10,14.73,No,N/A,147.3,South
+CUST-21066,2024-02-12,Standard,Annual,14,39.34,No,N/A,550.76,East
+CUST-21068,2025-01-18,Premium,Annual,24,79.0,No,N/A,1896.0,North
+CUST-21069,2025-05-08,Premium,Monthly,23,76.11,Yes,Competitor,1750.53,South
+CUST-21070,2024-09-17,Premium,Annual,1,82.24,No,N/A,82.24,South
+CUST-21938,2024-12-31,Basic,Monthly,0,14.64,No,N/A,0.0,East
+CUST-21072,2024-11-25,Standard,Annual,12,38.9,No,N/A,466.8,North
+CUST-21073,2024-08-04,Standard,Annual,15,38.98,No,N/A,584.7,West
+CUST-21074,2025-01-11,Standard,Monthly,5,39.24,Yes,Competitor,196.2,East
+CUST-21075,2024-02-06,Basic,Monthly,14,15.23,No,N/A,213.22,East
+CUST-21076,2024-06-16,Standard,Monthly,6,39.94,Yes,Price,239.64,East
+CUST-21077,2024-08-28,Premium,Annual,16,78.15,Yes,Product Bug,1250.4,North
+CUST-21078,2024-04-25,Standard,Monthly,1,39.0,Yes,No_Reason,39.0,South
+CUST-21079,2024-10-12,Premium,Monthly,13,82.44,No,N/A,1071.72,North
+CUST-21080,2024-01-29,Standard,Annual,14,37.26,No,N/A,521.64,South
+CUST-21081,2024-04-28,Premium,Annual,22,80.26,No,N/A,1765.72,South
+CUST-21082,2024-09-30,Premium,Monthly,20,76.86,No,N/A,1537.2,North
+CUST-21083,2024-09-17,Premium,Annual,5,77.94,Yes,No_Reason,389.7,North
+CUST-21084,2024-03-20,Standard,Monthly,13,37.76,Yes,Product Bug,490.88,East
+CUST-21085,2024-09-26,Standard,Monthly,2,39.24,No,N/A,78.48,South
+CUST-21087,2024-09-23,Premium,Monthly,11,75.99,No,N/A,835.89,South
+CUST-21088,2024-06-17,Standard,Annual,12,40.09,No,N/A,481.08,East
+CUST-21090,2024-07-17,Premium,Annual,9,79.77,No,N/A,717.93,East
+CUST-21091,2024-01-22,Standard,Monthly,5,40.46,Yes,Competitor,202.3,South
+CUST-21092,2024-07-09,Standard,Annual,8,37.43,No,N/A,299.44,West
+CUST-21093,2024-05-22,Basic,Monthly,18,14.79,Yes,Competitor,266.22,South
+CUST-21094,2024-05-20,Standard,Annual,6,39.95,No,N/A,239.7,West
+CUST-21095,2024-12-19,Basic,Annual,16,14.79,Yes,Product Bug,236.64,North
+CUST-21096,2025-02-26,Standard,Monthly,21,37.77,No,N/A,793.17,South
+CUST-21097,2025-04-29,Standard,Monthly,8,39.79,No,N/A,318.32,West
+CUST-21098,2024-09-09,Standard,Monthly,23,37.71,No,N/A,867.33,South
+CUST-21099,2024-07-10,Premium,Monthly,0,79.45,Yes,Price,0.0,North
+CUST-21100,2025-05-13,Basic,Monthly,10,15.6,Yes,Customer Support,156.0,North
+CUST-21101,2024-08-22,Basic,Annual,20,15.28,No,N/A,305.6,East
+CUST-21106,2024-04-21,Standard,Monthly,19,40.43,Yes,Price,768.17,North
+CUST-21107,2024-04-02,Standard,Annual,11,39.65,No,N/A,436.15,East
+CUST-21108,2024-06-21,Basic,Monthly,13,15.71,Yes,Customer Support,204.23,East
+CUST-21109,2024-04-18,Premium,Monthly,24,81.14,Yes,Competitor,1947.36,North
+CUST-21110,2024-05-11,Premium,Monthly,24,78.2,No,N/A,1876.8,South
+CUST-21111,2024-09-22,Basic,Monthly,21,14.35,No,N/A,301.35,South
+CUST-21112,2024-11-03,Premium,Annual,11,80.38,No,N/A,884.18,North
+CUST-21113,2025-05-09,Standard,Monthly,18,40.1,Yes,Product Bug,721.8,West
+CUST-21114,2024-10-08,Premium,Annual,18,75.86,No,N/A,1365.48,South
+CUST-21115,2025-03-30,Basic,Annual,17,14.97,No,N/A,254.49,West
+CUST-21116,2024-12-12,Standard,Annual,10,38.6,No,N/A,386.0,East
+CUST-21117,2025-03-14,Basic,Annual,15,14.63,Yes,Product Bug,219.45,East
+CUST-21118,2024-07-23,Basic,Annual,12,14.99,Yes,Competitor,179.88,South
+CUST-21120,2024-01-19,Premium,Monthly,10,76.06,Yes,No_Reason,760.6,North
+CUST-21121,2024-08-02,Premium,Annual,7,75.26,No,N/A,526.82,East
+CUST-21122,2025-02-04,Standard,Annual,14,37.37,Yes,Competitor,523.18,East
+CUST-21123,2024-11-29,Premium,Annual,4,82.87,No,N/A,331.48,North
+CUST-21124,2024-11-12,Basic,Monthly,4,15.25,Yes,Price,61.0,East
+CUST-21127,2025-05-06,Basic,Annual,18,15.48,No,N/A,278.64,West
+CUST-21128,2025-01-12,Premium,Annual,12,76.23,Yes,Price,914.76,West
+CUST-21129,2024-10-18,Standard,Monthly,10,37.86,Yes,Competitor,378.6,North
+CUST-21130,2024-07-06,Premium,Monthly,19,76.04,No,N/A,1444.76,South
+CUST-21131,2024-07-19,Premium,Monthly,24,81.31,No,N/A,1951.44,North
+CUST-21132,2024-05-06,Premium,Monthly,19,81.83,No,N/A,1554.77,West
+CUST-21133,2025-03-23,Standard,Monthly,1,38.2,Yes,Price,38.2,South
+CUST-21134,2024-03-05,Premium,Monthly,12,75.38,Yes,No_Reason,904.56,East
+CUST-21135,2025-02-22,Basic,Monthly,13,15.69,No,N/A,203.97,West
+CUST-21136,2025-02-18,Standard,Monthly,17,37.35,No,N/A,634.95,South
+CUST-21137,2024-04-30,Premium,Annual,9,77.25,No,N/A,695.25,East
+CUST-21138,2025-01-04,Premium,Monthly,19,81.16,Yes,Price,1542.04,West
+CUST-21139,2024-09-29,Basic,Annual,17,15.54,No,N/A,264.18,West
+CUST-21140,2024-04-24,Premium,Annual,9,75.41,No,N/A,678.69,North
+CUST-21141,2024-03-21,Basic,Monthly,22,15.26,No,N/A,335.72,West
+CUST-21142,2025-01-06,Premium,Annual,0,79.9,No,N/A,0.0,North
+CUST-21143,2025-02-15,Basic,Annual,19,14.76,No,N/A,280.44,East
+CUST-21144,2025-03-25,Basic,Monthly,4,15.63,Yes,Competitor,62.52,South
+CUST-21145,2024-06-18,Standard,Annual,14,37.75,No,N/A,528.5,South
+CUST-21977,2024-11-15,Standard,Monthly,24,37.74,No,N/A,905.76,South
+CUST-21147,2024-05-31,Standard,Monthly,12,40.13,No,N/A,481.56,South
+CUST-21148,2024-04-28,Basic,Annual,17,14.28,No,N/A,242.76,South
+CUST-21149,2024-11-30,Premium,Monthly,9,76.13,Yes,Customer Support,685.17,North
+CUST-21150,2025-03-05,Basic,Annual,9,14.83,Yes,Competitor,133.47,South
+CUST-21151,2024-07-22,Standard,Annual,15,39.19,No,N/A,587.85,East
+CUST-21153,2024-06-18,Premium,Monthly,5,78.55,Yes,Customer Support,392.75,South
+CUST-21154,2024-03-28,Standard,Annual,17,37.22,No,N/A,632.74,West
+CUST-21155,2024-02-16,Premium,Monthly,16,82.8,No,N/A,1324.8,West
+CUST-21156,2024-05-10,Premium,Monthly,10,80.26,No,N/A,802.6,South
+CUST-21157,2024-09-24,Basic,Monthly,13,15.09,No,N/A,196.17,North
+CUST-21158,2025-01-03,Premium,Monthly,0,75.85,Yes,No_Reason,0.0,North
+CUST-21159,2024-03-07,Standard,Monthly,11,37.66,No,N/A,414.26,North
+CUST-21160,2025-04-30,Premium,Annual,8,77.08,No,N/A,616.64,North
+CUST-21162,2024-07-10,Standard,Monthly,2,40.7,Yes,Price,81.4,East
+CUST-21164,2024-05-31,Premium,Annual,24,75.89,No,N/A,1821.36,East
+CUST-21165,2024-11-13,Standard,Monthly,11,39.07,Yes,Product Bug,429.77,South
+CUST-21166,2024-11-19,Standard,Monthly,21,40.91,No,N/A,859.11,West
+CUST-21167,2025-01-18,Basic,Monthly,8,15.02,No,N/A,120.16,East
+CUST-21168,2024-02-18,Premium,Monthly,8,80.42,No,N/A,643.36,South
+CUST-21169,2025-02-08,Standard,Monthly,13,38.17,No,N/A,496.21,North
+CUST-21170,2024-09-02,Basic,Annual,7,14.38,Yes,Price,100.66,North
+CUST-21171,2024-02-21,Standard,Annual,0,37.79,Yes,Price,0.0,East
+CUST-21172,2025-03-13,Standard,Annual,18,39.06,Yes,No_Reason,703.08,East
+CUST-21173,2024-06-25,Basic,Annual,13,14.61,No,N/A,189.93,South
+CUST-21174,2024-04-10,Standard,Monthly,13,39.52,No,N/A,513.76,East
+CUST-21175,2024-10-27,Premium,Annual,21,82.2,No,N/A,1726.2,West
+CUST-21176,2024-06-29,Premium,Monthly,12,79.79,Yes,Customer Support,957.48,North
+CUST-21179,2024-11-13,Basic,Annual,0,15.65,No,N/A,0.0,South
+CUST-21180,2025-04-29,Standard,Monthly,13,38.55,No,N/A,501.15,South
+CUST-21181,2024-05-02,Premium,Annual,13,80.9,No,N/A,1051.7,East
+CUST-21182,2024-04-14,Premium,Annual,13,75.12,No,N/A,976.56,North
+CUST-21183,2024-03-28,Standard,Monthly,1,39.52,Yes,No_Reason,39.52,East
+CUST-21184,2024-09-24,Basic,Annual,6,15.11,Yes,No_Reason,90.66,West
+CUST-21185,2024-04-07,Standard,Annual,8,37.24,No,N/A,297.92,South
+CUST-21187,2024-06-17,Premium,Monthly,14,77.23,Yes,Competitor,1081.22,West
+CUST-21188,2024-11-23,Basic,Annual,12,15.56,No,N/A,186.72,North
+CUST-21189,2024-07-29,Premium,Monthly,24,81.86,No,N/A,1964.64,East
+CUST-21190,2025-05-11,Standard,Annual,6,39.27,Yes,Product Bug,235.62,North
+CUST-21191,2025-04-16,Basic,Annual,3,14.61,Yes,Competitor,43.83,West
+CUST-21192,2024-11-24,Premium,Annual,8,75.69,No,N/A,605.52,West
+CUST-21194,2024-09-26,Premium,Monthly,19,80.3,No,N/A,1525.7,North
+CUST-21195,2025-05-12,Premium,Annual,21,82.09,Yes,Price,1723.89,South
+CUST-21196,2024-10-23,Standard,Annual,2,37.26,Yes,Product Bug,74.52,South
+CUST-21197,2024-02-25,Standard,Monthly,5,39.51,No,N/A,197.55,East
+CUST-21198,2025-01-07,Standard,Monthly,13,37.27,Yes,Customer Support,484.51,West
+CUST-21199,2025-03-02,Premium,Annual,20,75.07,Yes,Product Bug,1501.4,South
+CUST-21200,2025-04-07,Standard,Monthly,15,39.24,No,N/A,588.6,East
+CUST-21202,2024-10-05,Premium,Monthly,18,79.9,No,N/A,1438.2,South
+CUST-21203,2024-05-27,Standard,Monthly,21,40.84,No,N/A,857.64,West
+CUST-21206,2025-04-06,Basic,Monthly,1,15.61,Yes,Product Bug,15.61,West
+CUST-21207,2024-09-29,Premium,Monthly,19,77.31,No,N/A,1468.89,West
+CUST-21208,2025-05-15,Standard,Annual,16,39.83,No,N/A,637.28,South
+CUST-21209,2024-06-15,Premium,Annual,3,81.49,Yes,Product Bug,244.47,East
+CUST-21210,2024-05-14,Basic,Monthly,4,15.38,No,N/A,61.52,West
+CUST-21211,2024-09-24,Basic,Annual,2,15.54,Yes,Price,31.08,East
+CUST-21212,2024-10-21,Standard,Monthly,9,40.16,No,N/A,361.44,North
+CUST-21368,2024-12-28,Basic,Annual,10,14.59,Yes,Product Bug,145.9,South
+CUST-21213,2025-03-05,Standard,Monthly,4,37.28,No,N/A,149.12,East
+CUST-21214,2025-01-22,Basic,Annual,24,15.64,No,N/A,375.36,North
+CUST-21215,2025-01-03,Standard,Annual,0,37.91,No,N/A,0.0,East
+CUST-21216,2024-04-06,Standard,Monthly,21,37.74,Yes,Product Bug,792.54,East
+CUST-21217,2024-11-01,Standard,Monthly,14,39.34,No,N/A,550.76,North
+CUST-21218,2024-06-22,Standard,Annual,14,40.79,No,N/A,571.06,East
+CUST-21219,2025-01-11,Premium,Monthly,22,75.92,Yes,Customer Support,1670.24,North
+CUST-21220,2024-12-10,Premium,Annual,7,78.98,No,N/A,552.86,South
+CUST-21222,2024-03-23,Basic,Monthly,9,15.26,Yes,Customer Support,137.34,East
+CUST-21223,2024-11-22,Premium,Monthly,4,75.1,Yes,Competitor,300.4,West
+CUST-21224,2024-01-13,Premium,Annual,0,81.46,No,N/A,0.0,South
+CUST-21225,2024-02-19,Basic,Annual,19,15.02,No,N/A,285.38,East
+CUST-21226,2025-01-25,Premium,Annual,14,79.89,No,N/A,1118.46,North
+CUST-21228,2025-02-09,Premium,Annual,7,79.02,Yes,Customer Support,553.14,East
+CUST-21229,2024-04-11,Standard,Annual,12,39.18,Yes,No_Reason,470.16,West
+CUST-21230,2024-06-03,Standard,Monthly,1,40.76,No,N/A,40.76,North
+CUST-21231,2024-06-17,Standard,Annual,15,37.21,No,N/A,558.15,North
+CUST-21232,2024-10-19,Standard,Annual,13,37.4,No,N/A,486.2,West
+CUST-21233,2024-07-17,Standard,Monthly,3,39.0,Yes,Product Bug,117.0,North
+CUST-21234,2024-12-28,Standard,Annual,4,37.22,No,N/A,148.88,West
+CUST-21235,2024-07-31,Standard,Annual,6,37.63,No,N/A,225.78,East
+CUST-21237,2024-10-13,Basic,Monthly,0,14.61,Yes,Product Bug,0.0,South
+CUST-21238,2025-01-02,Standard,Monthly,24,38.57,No,N/A,925.68,South
+CUST-21239,2025-03-02,Premium,Monthly,2,81.47,No,N/A,162.94,East
+CUST-21240,2024-12-07,Premium,Monthly,10,78.45,No,N/A,784.5,South
+CUST-21241,2024-08-04,Standard,Monthly,0,37.62,Yes,Product Bug,0.0,North
+CUST-21242,2024-10-27,Premium,Monthly,8,80.83,No,N/A,646.64,West
+CUST-21243,2025-04-29,Premium,Annual,23,75.28,No,N/A,1731.44,West
+CUST-21244,2025-03-31,Standard,Annual,14,38.11,Yes,Competitor,533.54,South
+CUST-21245,2024-02-19,Standard,Annual,17,38.24,No,N/A,650.08,West
+CUST-21246,2025-04-29,Basic,Monthly,21,14.57,No,N/A,305.97,West
+CUST-21247,2025-03-31,Premium,Monthly,12,77.95,No,N/A,935.4,South
+CUST-21248,2024-10-20,Standard,Annual,16,37.43,No,N/A,598.88,South
+CUST-21250,2025-03-09,Standard,Monthly,9,37.74,Yes,Price,339.66,West
+CUST-21251,2024-10-09,Premium,Monthly,3,75.62,Yes,Product Bug,226.86,East
+CUST-21253,2024-11-24,Premium,Annual,22,77.33,Yes,No_Reason,1701.26,North
+CUST-21254,2024-12-24,Premium,Monthly,5,80.18,Yes,Competitor,400.9,West
+CUST-21255,2024-07-21,Basic,Monthly,9,14.38,Yes,Customer Support,129.42,North
+CUST-21257,2024-11-30,Standard,Monthly,18,38.3,Yes,Product Bug,689.4,West
+CUST-21258,2025-04-28,Basic,Monthly,10,14.36,Yes,Competitor,143.6,South
+CUST-21259,2025-01-24,Premium,Annual,16,81.73,No,N/A,1307.68,South
+CUST-21260,2024-02-26,Premium,Monthly,1,75.7,No,N/A,75.7,South
+CUST-21261,2024-06-15,Standard,Monthly,1,38.34,Yes,No_Reason,38.34,East
+CUST-21262,2024-08-04,Basic,Monthly,12,14.95,Yes,Competitor,179.4,East
+CUST-21263,2024-01-12,Basic,Monthly,10,15.19,No,N/A,151.9,North
+CUST-21264,2024-02-10,Standard,Annual,2,37.49,Yes,No_Reason,74.98,East
+CUST-21265,2024-05-12,Premium,Monthly,8,77.72,Yes,Product Bug,621.76,South
+CUST-21266,2024-09-05,Premium,Annual,24,81.79,No,N/A,1962.96,South
+CUST-21267,2025-04-26,Standard,Annual,15,38.88,Yes,Product Bug,583.2,North
+CUST-21268,2025-04-07,Premium,Annual,23,75.3,No,N/A,1731.9,North
+CUST-21269,2025-01-28,Premium,Annual,11,81.36,No,N/A,894.96,West
+CUST-21270,2024-10-13,Premium,Monthly,5,77.31,No,N/A,386.55,North
+CUST-21273,2024-11-06,Premium,Annual,22,76.33,Yes,Competitor,1679.26,East
+CUST-21274,2024-09-12,Basic,Annual,2,14.62,Yes,Customer Support,29.24,East
+CUST-21275,2025-01-28,Standard,Annual,16,40.3,No,N/A,644.8,East
+CUST-21277,2024-02-11,Premium,Annual,23,76.4,No,N/A,1757.2,South
+CUST-21278,2024-06-22,Standard,Monthly,12,37.19,No,N/A,446.28,West
+CUST-21279,2024-12-25,Premium,Monthly,14,79.63,No,N/A,1114.82,South
+CUST-21280,2024-07-14,Premium,Annual,14,82.49,No,N/A,1154.86,East
+CUST-21281,2024-04-17,Standard,Monthly,2,37.84,No,N/A,75.68,West
+CUST-21282,2024-10-19,Premium,Monthly,9,76.48,No,N/A,688.32,East
+CUST-21283,2025-01-19,Premium,Monthly,18,80.33,No,N/A,1445.94,East
+CUST-21284,2024-02-03,Standard,Annual,6,37.41,No,N/A,224.46,West
+CUST-21285,2024-06-19,Premium,Monthly,16,81.66,Yes,Product Bug,1306.56,South
+CUST-21286,2025-02-18,Premium,Monthly,13,81.52,No,N/A,1059.76,South
+CUST-21287,2024-07-14,Premium,Annual,10,79.85,No,N/A,798.5,East
+CUST-21288,2024-02-03,Premium,Monthly,5,78.96,Yes,Price,394.8,East
+CUST-21289,2024-08-19,Basic,Annual,11,14.74,No,N/A,162.14,East
+CUST-21290,2024-01-05,Standard,Annual,1,38.81,Yes,Customer Support,38.81,West
+CUST-21291,2024-11-13,Basic,Annual,17,15.34,No,N/A,260.78,East
+CUST-21292,2024-09-05,Premium,Monthly,23,77.34,Yes,Product Bug,1778.82,North
+CUST-21293,2024-01-02,Premium,Monthly,15,75.28,No,N/A,1129.2,North
+CUST-21294,2024-05-10,Premium,Monthly,21,78.69,Yes,Product Bug,1652.49,West
+CUST-21297,2025-05-11,Standard,Monthly,24,37.48,Yes,Competitor,899.52,South
+CUST-21298,2024-04-12,Basic,Monthly,11,14.95,Yes,Price,164.45,North
+CUST-21299,2024-08-21,Basic,Monthly,6,14.3,No,N/A,85.8,North
+CUST-21300,2024-03-01,Standard,Annual,3,40.63,Yes,Product Bug,121.89,South
+CUST-21301,2024-12-26,Standard,Monthly,0,40.81,Yes,Customer Support,0.0,East
+CUST-21302,2024-03-01,Premium,Monthly,5,81.59,Yes,No_Reason,407.95,North
+CUST-21303,2024-07-07,Standard,Annual,10,39.64,No,N/A,396.4,South
+CUST-21304,2024-02-08,Basic,Monthly,16,15.73,No,N/A,251.68,North
+CUST-21305,2024-09-17,Basic,Monthly,1,14.49,Yes,Customer Support,14.49,South
+CUST-21307,2024-05-02,Standard,Annual,15,37.5,No,N/A,562.5,North
+CUST-21309,2024-05-10,Standard,Monthly,5,37.66,Yes,Product Bug,188.3,North
+CUST-21310,2024-01-27,Basic,Annual,24,15.44,Yes,Price,370.56,South
+CUST-21311,2024-11-25,Standard,Monthly,6,38.83,No,N/A,232.98,South
+CUST-21314,2025-01-06,Basic,Monthly,6,15.02,No,N/A,90.12,East
+CUST-21315,2024-05-05,Premium,Annual,9,82.5,No,N/A,742.5,West
+CUST-21316,2024-09-13,Standard,Annual,1,37.77,Yes,No_Reason,37.77,West
+CUST-21317,2024-12-07,Basic,Monthly,23,14.25,No,N/A,327.75,North
+CUST-21318,2024-07-30,Basic,Annual,8,14.81,No,N/A,118.48,South
+CUST-21319,2025-03-28,Premium,Annual,6,80.46,No,N/A,482.76,South
+CUST-21320,2024-01-22,Standard,Monthly,10,40.48,No,N/A,404.8,East
+CUST-21322,2024-06-06,Basic,Annual,9,15.05,No,N/A,135.45,East
+CUST-21324,2024-05-21,Basic,Monthly,6,15.33,No,N/A,91.98,East
+CUST-21325,2024-03-26,Standard,Monthly,3,39.93,Yes,Competitor,119.79,East
+CUST-21326,2024-10-16,Premium,Annual,15,82.4,Yes,Competitor,1236.0,North
+CUST-21327,2024-02-01,Premium,Monthly,24,77.0,Yes,No_Reason,1848.0,South
+CUST-21328,2025-01-27,Basic,Annual,7,15.48,Yes,Product Bug,108.36,North
+CUST-21329,2024-12-03,Premium,Annual,8,79.23,No,N/A,633.84,East
+CUST-21330,2025-03-21,Standard,Monthly,3,37.71,No,N/A,113.13,North
+CUST-21331,2024-12-03,Standard,Monthly,4,38.75,Yes,No_Reason,155.0,East
+CUST-21332,2024-09-23,Standard,Monthly,10,38.74,No,N/A,387.4,North
+CUST-21333,2025-02-25,Standard,Monthly,16,38.04,Yes,Product Bug,608.64,East
+CUST-21334,2024-01-14,Standard,Monthly,14,39.14,Yes,Product Bug,547.96,West
+CUST-21335,2025-04-13,Standard,Annual,20,39.37,No,N/A,787.4,South
+CUST-21336,2024-01-16,Standard,Annual,14,37.94,No,N/A,531.16,South
+CUST-21337,2024-02-17,Standard,Annual,17,39.94,No,N/A,678.98,North
+CUST-21338,2024-11-13,Premium,Monthly,18,80.12,No,N/A,1442.16,South
+CUST-21341,2024-06-21,Premium,Monthly,16,79.08,Yes,No_Reason,1265.28,West
+CUST-21343,2024-10-04,Premium,Monthly,0,80.25,Yes,Product Bug,0.0,South
+CUST-21344,2024-01-13,Standard,Annual,11,38.4,No,N/A,422.4,North
+CUST-21345,2025-01-31,Premium,Monthly,14,79.17,No,N/A,1108.38,South
+CUST-21347,2025-04-24,Premium,Annual,0,80.39,Yes,No_Reason,0.0,South
+CUST-21348,2025-03-21,Premium,Monthly,13,82.36,No,N/A,1070.68,East
+CUST-21349,2024-02-17,Premium,Monthly,7,76.94,No,N/A,538.58,North
+CUST-21350,2024-09-06,Premium,Annual,1,82.58,No,N/A,82.58,East
+CUST-21351,2024-04-14,Basic,Annual,1,14.99,No,N/A,14.99,West
+CUST-21352,2024-11-03,Basic,Monthly,17,14.53,Yes,Competitor,247.01,West
+CUST-21353,2024-06-30,Standard,Annual,16,37.78,Yes,Price,604.48,North
+CUST-21354,2024-06-18,Premium,Annual,13,78.86,No,N/A,1025.18,East
+CUST-21355,2024-01-09,Premium,Annual,8,81.3,Yes,Competitor,650.4,West
+CUST-21357,2024-01-31,Basic,Monthly,7,15.23,Yes,Price,106.61,East
+CUST-21358,2024-12-20,Standard,Annual,11,38.94,No,N/A,428.34,South
+CUST-21359,2024-03-11,Premium,Annual,6,81.76,No,N/A,490.56,South
+CUST-21360,2024-12-14,Basic,Monthly,4,14.76,No,N/A,59.04,East
+CUST-21361,2024-04-29,Premium,Annual,20,80.33,No,N/A,1606.6,West
+CUST-21362,2025-02-15,Basic,Annual,13,14.55,No,N/A,189.15,West
+CUST-21364,2024-01-24,Basic,Monthly,10,15.29,Yes,Customer Support,152.9,West
+CUST-21365,2024-12-04,Standard,Monthly,19,38.32,Yes,Competitor,728.08,South
+CUST-21366,2024-11-19,Basic,Monthly,11,14.8,Yes,Customer Support,162.8,East
+CUST-21367,2024-01-26,Standard,Monthly,10,40.56,Yes,Product Bug,405.6,North
+CUST-21369,2025-03-29,Premium,Annual,6,78.18,No,N/A,469.08,West
+CUST-21370,2024-08-02,Premium,Annual,19,75.76,No,N/A,1439.44,North
+CUST-21371,2025-01-23,Standard,Monthly,21,39.87,Yes,Price,837.27,North
+CUST-21374,2024-10-06,Basic,Annual,0,15.26,No,N/A,0.0,East
+CUST-21375,2024-08-08,Basic,Annual,4,14.58,No,N/A,58.32,South
+CUST-21376,2025-02-16,Basic,Annual,3,14.61,Yes,No_Reason,43.83,East
+CUST-21377,2024-07-02,Standard,Annual,0,38.14,No,N/A,0.0,North
+CUST-21378,2024-05-03,Premium,Monthly,22,81.05,No,N/A,1783.1,North
+CUST-21379,2024-07-17,Basic,Annual,21,14.29,No,N/A,300.09,South
+CUST-21380,2024-12-29,Premium,Monthly,12,75.93,No,N/A,911.16,North
+CUST-21382,2024-03-06,Standard,Annual,8,37.86,Yes,Price,302.88,West
+CUST-21383,2025-05-05,Standard,Annual,5,38.87,No,N/A,194.35,South
+CUST-21384,2024-12-13,Premium,Monthly,17,78.96,No,N/A,1342.32,West
+CUST-21385,2024-03-16,Basic,Monthly,22,15.18,No,N/A,333.96,North
+CUST-21386,2024-02-28,Standard,Monthly,21,39.52,Yes,Customer Support,829.92,East
+CUST-21387,2024-10-13,Standard,Annual,5,40.0,No,N/A,200.0,South
+CUST-21388,2025-05-10,Basic,Monthly,7,15.37,Yes,Customer Support,107.59,South
+CUST-21389,2024-08-11,Standard,Monthly,20,37.55,No,N/A,751.0,East
+CUST-21390,2025-01-17,Premium,Monthly,23,75.54,Yes,No_Reason,1737.42,North
+CUST-21391,2024-08-30,Premium,Annual,0,82.04,Yes,Competitor,0.0,West
+CUST-21392,2024-09-09,Standard,Annual,24,37.43,No,N/A,898.32,West
+CUST-21393,2024-01-31,Premium,Annual,19,78.09,No,N/A,1483.71,East
+CUST-21394,2025-01-12,Standard,Annual,4,37.61,Yes,Price,150.44,West
+CUST-21395,2024-04-29,Premium,Annual,2,80.67,Yes,No_Reason,161.34,North
+CUST-21396,2025-04-14,Standard,Annual,17,38.74,No,N/A,658.58,East
+CUST-21397,2024-03-04,Basic,Annual,14,14.54,No,N/A,203.56,North
+CUST-21402,2024-03-07,Premium,Monthly,20,76.64,Yes,No_Reason,1532.8,South
+CUST-21404,2024-02-27,Standard,Monthly,12,40.05,No,N/A,480.6,East
+CUST-21405,2024-06-22,Standard,Annual,1,39.75,No,N/A,39.75,North
+CUST-21406,2024-07-05,Premium,Annual,9,79.65,No,N/A,716.85,North
+CUST-21409,2025-03-26,Premium,Annual,15,79.68,No,N/A,1195.2,West
+CUST-21410,2024-01-11,Basic,Monthly,14,15.17,No,N/A,212.38,South
+CUST-21411,2025-01-16,Standard,Monthly,21,37.18,Yes,Customer Support,780.78,East
+CUST-21413,2025-01-17,Standard,Monthly,5,38.04,No,N/A,190.2,North
+CUST-21414,2024-05-03,Premium,Monthly,7,76.31,No,N/A,534.17,East
+CUST-21415,2024-10-07,Basic,Monthly,8,15.74,Yes,Competitor,125.92,North
+CUST-21416,2024-04-09,Standard,Annual,4,38.01,No,N/A,152.04,West
+CUST-21417,2025-01-11,Standard,Monthly,8,37.93,Yes,Competitor,303.44,South
+CUST-21932,2025-04-25,Premium,Annual,17,75.21,Yes,Customer Support,1278.57,East
+CUST-21418,2024-05-28,Basic,Monthly,8,14.34,Yes,Product Bug,114.72,East
+CUST-21419,2024-06-30,Standard,Annual,9,37.67,No,N/A,339.03,West
+CUST-21420,2024-03-16,Premium,Monthly,2,82.0,No,N/A,164.0,South
+CUST-21421,2024-01-10,Premium,Annual,13,81.51,No,N/A,1059.63,West
+CUST-21422,2024-05-05,Standard,Monthly,19,37.28,No,N/A,708.32,West
+CUST-21423,2024-04-18,Premium,Monthly,23,82.16,No,N/A,1889.68,East
+CUST-21424,2024-04-13,Standard,Monthly,22,40.73,No,N/A,896.06,West
+CUST-21427,2024-09-14,Standard,Monthly,4,39.19,No,N/A,156.76,East
+CUST-21428,2024-07-31,Basic,Monthly,5,14.66,Yes,Customer Support,73.3,East
+CUST-21429,2024-08-06,Premium,Annual,10,81.36,No,N/A,813.6,East
+CUST-21430,2024-08-21,Standard,Monthly,14,39.04,Yes,Customer Support,546.56,West
+CUST-21431,2025-03-07,Standard,Annual,20,37.68,No,N/A,753.6,West
+CUST-21432,2024-09-19,Premium,Annual,13,81.43,Yes,Competitor,1058.59,North
+CUST-21433,2025-01-01,Basic,Annual,3,15.0,Yes,No_Reason,45.0,South
+CUST-21434,2024-11-21,Standard,Monthly,7,39.45,Yes,Competitor,276.15,North
+CUST-21435,2025-03-11,Standard,Annual,7,39.91,No,N/A,279.37,North
+CUST-21436,2024-10-16,Premium,Annual,12,77.43,Yes,Product Bug,929.16,East
+CUST-21437,2024-10-17,Standard,Annual,13,39.44,No,N/A,512.72,East
+CUST-21438,2025-01-05,Premium,Annual,4,79.16,No,N/A,316.64,West
+CUST-21440,2024-10-04,Standard,Monthly,4,38.51,No,N/A,154.04,South
+CUST-21441,2025-01-18,Premium,Annual,15,75.73,No,N/A,1135.95,South
+CUST-21442,2024-06-27,Basic,Monthly,19,14.58,No,N/A,277.02,East
+CUST-21443,2024-08-04,Premium,Monthly,6,75.86,No,N/A,455.16,East
+CUST-21444,2025-04-20,Premium,Annual,23,82.75,No,N/A,1903.25,South
+CUST-21445,2024-03-18,Basic,Monthly,23,15.27,Yes,Customer Support,351.21,South
+CUST-21446,2024-10-19,Standard,Monthly,7,39.65,No,N/A,277.55,East
+CUST-21447,2024-02-27,Basic,Annual,5,14.87,Yes,No_Reason,74.35,East
+CUST-21448,2024-02-29,Basic,Annual,9,15.43,Yes,Competitor,138.87,South
+CUST-21451,2025-03-17,Standard,Annual,20,38.53,No,N/A,770.6,North
+CUST-21452,2024-11-12,Basic,Monthly,4,15.38,Yes,Competitor,61.52,West
+CUST-21453,2024-04-18,Basic,Monthly,3,15.0,No,N/A,45.0,South
+CUST-21454,2025-03-16,Premium,Annual,20,76.8,No,N/A,1536.0,West
+CUST-21455,2024-05-28,Standard,Monthly,4,40.21,Yes,Price,160.84,East
+CUST-21456,2024-04-25,Premium,Monthly,5,76.54,Yes,Customer Support,382.7,East
+CUST-21457,2024-04-14,Premium,Monthly,14,79.31,No,N/A,1110.34,East
+CUST-21458,2024-10-17,Standard,Monthly,18,38.61,Yes,Product Bug,694.98,North
+CUST-21459,2025-04-02,Basic,Monthly,5,14.68,Yes,Price,73.4,West
+CUST-21460,2025-02-06,Standard,Annual,13,40.44,No,N/A,525.72,North
+CUST-21461,2024-07-05,Standard,Monthly,14,39.23,Yes,Price,549.22,South
+CUST-21462,2024-08-23,Standard,Monthly,2,40.4,Yes,Competitor,80.8,North
+CUST-21463,2024-07-16,Standard,Monthly,22,40.15,Yes,Product Bug,883.3,North
+CUST-21464,2024-11-18,Premium,Monthly,22,81.06,No,N/A,1783.32,West
+CUST-21466,2024-08-26,Premium,Monthly,6,78.84,Yes,Price,473.04,South
+CUST-21467,2024-06-01,Basic,Annual,5,14.8,Yes,Customer Support,74.0,South
+CUST-21468,2024-08-27,Premium,Annual,11,75.8,No,N/A,833.8,East
+CUST-21470,2024-03-04,Standard,Monthly,7,37.92,No,N/A,265.44,East
+CUST-21471,2024-06-23,Premium,Monthly,11,82.91,Yes,Competitor,912.01,West
+CUST-21472,2024-07-23,Basic,Monthly,19,14.28,Yes,No_Reason,271.32,East
+CUST-21474,2024-07-18,Premium,Monthly,2,81.09,Yes,Product Bug,162.18,North
+CUST-21475,2024-04-08,Premium,Annual,7,76.75,No,N/A,537.25,West
+CUST-21477,2024-06-06,Premium,Monthly,15,76.19,No,N/A,1142.85,North
+CUST-21478,2024-03-19,Basic,Annual,7,15.45,Yes,Price,108.15,West
+CUST-21479,2024-10-14,Basic,Monthly,15,15.33,No,N/A,229.95,North
+CUST-21481,2024-07-27,Basic,Monthly,5,14.96,Yes,No_Reason,74.8,East
+CUST-21482,2025-02-27,Premium,Monthly,13,81.89,Yes,No_Reason,1064.57,East
+CUST-21483,2024-08-13,Premium,Monthly,0,76.97,No,N/A,0.0,South
+CUST-21485,2024-08-12,Standard,Annual,16,39.38,No,N/A,630.08,South
+CUST-21486,2024-04-02,Premium,Annual,19,77.28,No,N/A,1468.32,North
+CUST-21487,2024-10-18,Premium,Monthly,16,79.27,No,N/A,1268.32,North
+CUST-21488,2024-05-09,Premium,Annual,14,75.35,Yes,No_Reason,1054.9,South
+CUST-21489,2024-11-05,Premium,Annual,4,77.21,No,N/A,308.84,South
+CUST-21490,2024-12-14,Standard,Annual,6,37.21,Yes,Product Bug,223.26,West
+CUST-21491,2024-06-24,Basic,Annual,3,15.7,Yes,No_Reason,47.1,South
+CUST-21492,2024-07-20,Standard,Monthly,1,37.2,No,N/A,37.2,West
+CUST-21493,2024-05-17,Standard,Monthly,2,38.08,No,N/A,76.16,West
+CUST-21494,2024-01-19,Premium,Annual,21,82.32,Yes,Customer Support,1728.72,East
+CUST-21495,2025-04-12,Premium,Annual,21,82.55,No,N/A,1733.55,West
+CUST-21496,2024-12-07,Basic,Annual,3,14.67,Yes,Competitor,44.01,South
+CUST-21497,2025-01-02,Standard,Annual,7,38.55,Yes,Competitor,269.85,South
+CUST-21498,2024-01-02,Premium,Annual,7,80.79,No,N/A,565.53,South
+CUST-21500,2024-11-26,Premium,Monthly,5,76.55,Yes,No_Reason,382.75,South
+CUST-21502,2024-04-10,Basic,Annual,23,15.28,No,N/A,351.44,West
+CUST-21503,2024-09-04,Standard,Monthly,1,39.5,Yes,Product Bug,39.5,South
+CUST-21505,2024-02-20,Premium,Annual,13,78.88,No,N/A,1025.44,South
+CUST-21506,2024-08-10,Premium,Monthly,19,80.97,No,N/A,1538.43,West
+CUST-21508,2024-09-26,Standard,Annual,13,40.13,No,N/A,521.69,North
+CUST-21509,2024-10-14,Standard,Monthly,24,39.16,No,N/A,939.84,West
+CUST-21511,2024-01-09,Premium,Annual,22,80.39,No,N/A,1768.58,East
+CUST-21512,2025-03-10,Basic,Monthly,11,15.53,Yes,Price,170.83,West
+CUST-21513,2024-08-11,Basic,Annual,10,15.46,No,N/A,154.6,South
+CUST-21514,2025-05-12,Premium,Annual,20,79.61,No,N/A,1592.2,East
+CUST-21515,2024-01-24,Premium,Monthly,6,78.35,Yes,Price,470.1,North
+CUST-21516,2024-10-02,Premium,Annual,24,79.47,No,N/A,1907.28,North
+CUST-21517,2024-05-01,Standard,Annual,12,38.26,No,N/A,459.12,North
+CUST-21519,2024-01-25,Standard,Monthly,0,39.64,Yes,No_Reason,0.0,South
+CUST-21520,2024-04-27,Basic,Annual,12,14.69,No,N/A,176.28,North
+CUST-21521,2025-03-21,Basic,Annual,5,14.79,Yes,Competitor,73.95,West
+CUST-21522,2024-05-12,Standard,Monthly,7,39.36,No,N/A,275.52,West
+CUST-21523,2024-01-29,Basic,Monthly,3,15.43,Yes,Product Bug,46.29,East
+CUST-21524,2024-11-04,Premium,Monthly,19,75.39,No,N/A,1432.41,West
+CUST-21525,2024-02-28,Standard,Annual,2,37.3,No,N/A,74.6,North
+CUST-21526,2025-02-20,Basic,Monthly,22,15.0,Yes,Competitor,330.0,East
+CUST-21527,2024-11-24,Basic,Monthly,12,15.58,Yes,No_Reason,186.96,East
+CUST-21528,2024-11-04,Premium,Annual,17,77.9,No,N/A,1324.3,West
+CUST-21529,2024-10-04,Basic,Monthly,6,14.56,No,N/A,87.36,East
+CUST-21530,2025-02-14,Premium,Annual,17,81.8,No,N/A,1390.6,South
+CUST-21531,2024-11-10,Standard,Monthly,21,39.25,No,N/A,824.25,East
+CUST-21532,2024-01-04,Premium,Monthly,7,78.18,Yes,Price,547.26,North
+CUST-21533,2024-08-23,Basic,Annual,22,14.3,No,N/A,314.6,East
+CUST-21534,2025-03-07,Premium,Annual,18,79.47,No,N/A,1430.46,North
+CUST-21535,2024-12-21,Standard,Monthly,8,39.68,No,N/A,317.44,North
+CUST-21536,2025-04-17,Basic,Annual,22,14.94,No,N/A,328.68,West
+CUST-21537,2024-04-12,Basic,Monthly,7,14.81,No,N/A,103.67,North
+CUST-21538,2025-04-05,Basic,Monthly,24,15.6,No,N/A,374.4,South
+CUST-21539,2025-05-01,Basic,Annual,5,15.38,No,N/A,76.9,East
+CUST-21540,2024-10-29,Basic,Annual,4,15.43,No,N/A,61.72,East
+CUST-21541,2024-02-08,Basic,Monthly,17,14.49,No,N/A,246.33,South
+CUST-21542,2025-03-02,Basic,Monthly,4,15.69,Yes,Customer Support,62.76,South
+CUST-21544,2024-02-03,Standard,Annual,2,40.87,No,N/A,81.74,East
+CUST-21545,2024-07-16,Premium,Annual,23,82.32,No,N/A,1893.36,North
+CUST-21546,2024-11-25,Premium,Monthly,15,81.9,No,N/A,1228.5,East
+CUST-21547,2024-11-21,Standard,Annual,4,37.11,Yes,Customer Support,148.44,East
+CUST-21549,2025-01-15,Basic,Annual,24,14.52,Yes,Customer Support,348.48,North
+CUST-21550,2024-05-10,Premium,Monthly,24,79.0,Yes,Customer Support,1896.0,West
+CUST-21552,2024-03-11,Premium,Monthly,14,78.81,Yes,Product Bug,1103.34,North
+CUST-21555,2024-08-01,Premium,Annual,7,81.37,Yes,Product Bug,569.59,East
+CUST-21556,2024-02-10,Basic,Annual,2,15.63,No,N/A,31.26,South
+CUST-21558,2025-01-21,Standard,Annual,19,37.6,No,N/A,714.4,East
+CUST-21559,2024-08-23,Premium,Monthly,15,82.79,Yes,Product Bug,1241.85,South
+CUST-21560,2025-02-24,Premium,Monthly,0,81.18,Yes,Price,0.0,North
+CUST-21561,2024-03-17,Standard,Annual,17,40.85,No,N/A,694.45,West
+CUST-21562,2024-10-02,Premium,Annual,3,80.01,Yes,No_Reason,240.03,East
+CUST-21563,2025-01-23,Standard,Monthly,5,38.69,No,N/A,193.45,West
+CUST-21564,2025-04-15,Standard,Monthly,16,38.15,No,N/A,610.4,West
+CUST-21566,2024-06-25,Standard,Annual,15,38.94,No,N/A,584.1,East
+CUST-21567,2024-12-10,Premium,Annual,17,78.8,No,N/A,1339.6,East
+CUST-21568,2024-05-30,Premium,Monthly,8,80.01,Yes,Competitor,640.08,North
+CUST-21569,2024-09-29,Standard,Monthly,9,37.13,No,N/A,334.17,North
+CUST-21570,2024-03-10,Premium,Annual,1,76.87,No,N/A,76.87,East
+CUST-21571,2024-05-06,Basic,Monthly,17,14.84,No,N/A,252.28,North
+CUST-21572,2024-05-05,Basic,Monthly,2,15.0,No,N/A,30.0,North
+CUST-21573,2024-07-27,Standard,Annual,20,38.72,No,N/A,774.4,North
+CUST-21574,2024-10-09,Premium,Monthly,5,82.4,Yes,No_Reason,412.0,South
+CUST-21696,2024-08-07,Standard,Annual,19,37.73,No,N/A,716.87,East
+CUST-21575,2024-11-25,Premium,Monthly,9,81.91,Yes,Price,737.19,North
+CUST-21577,2024-10-19,Standard,Monthly,17,40.58,No,N/A,689.86,East
+CUST-21579,2025-05-08,Premium,Monthly,22,82.35,No,N/A,1811.7,South
+CUST-21580,2024-06-20,Premium,Annual,2,75.83,Yes,Competitor,151.66,South
+CUST-21581,2024-03-16,Premium,Annual,17,76.5,No,N/A,1300.5,East
+CUST-21582,2024-12-23,Premium,Monthly,14,81.96,No,N/A,1147.44,West
+CUST-21583,2024-11-06,Standard,Annual,19,38.66,No,N/A,734.54,South
+CUST-21584,2025-03-19,Basic,Monthly,15,15.4,Yes,Competitor,231.0,North
+CUST-21585,2024-08-30,Premium,Monthly,13,80.31,No,N/A,1044.03,North
+CUST-21586,2024-03-17,Premium,Monthly,5,76.81,No,N/A,384.05,South
+CUST-21587,2025-01-07,Standard,Monthly,11,40.93,Yes,Product Bug,450.23,South
+CUST-21588,2025-01-16,Standard,Annual,4,38.82,Yes,Product Bug,155.28,South
+CUST-21589,2024-05-22,Premium,Monthly,16,79.0,Yes,Competitor,1264.0,West
+CUST-21590,2025-01-13,Standard,Monthly,2,39.0,Yes,Price,78.0,North
+CUST-21592,2024-12-12,Basic,Monthly,21,14.75,No,N/A,309.75,East
+CUST-21593,2024-01-22,Standard,Monthly,12,40.85,Yes,No_Reason,490.2,South
+CUST-21595,2024-01-16,Premium,Annual,21,82.54,Yes,No_Reason,1733.34,North
+CUST-21596,2024-07-26,Standard,Monthly,1,39.0,No,N/A,39.0,West
+CUST-21597,2024-02-08,Basic,Annual,15,15.22,Yes,Competitor,228.3,West
+CUST-21599,2024-10-04,Premium,Annual,20,76.48,Yes,Price,1529.6,East
+CUST-21600,2024-11-08,Premium,Monthly,4,75.78,No,N/A,303.12,East
+CUST-21601,2024-02-24,Basic,Annual,24,14.44,No,N/A,346.56,West
+CUST-21602,2025-01-18,Standard,Monthly,17,38.37,No,N/A,652.29,East
+CUST-21603,2025-01-15,Standard,Monthly,16,37.53,No,N/A,600.48,West
+CUST-21604,2024-07-25,Premium,Annual,22,82.73,No,N/A,1820.06,East
+CUST-21605,2025-03-25,Premium,Annual,5,79.17,Yes,Product Bug,395.85,West
+CUST-21608,2024-06-20,Basic,Annual,24,14.77,Yes,Customer Support,354.48,South
+CUST-21610,2024-02-19,Standard,Annual,22,39.56,No,N/A,870.32,East
+CUST-21611,2025-01-13,Basic,Annual,6,14.33,No,N/A,85.98,East
+CUST-21612,2024-11-22,Standard,Annual,21,39.01,No,N/A,819.21,West
+CUST-21613,2024-05-20,Basic,Monthly,19,15.58,No,N/A,296.02,East
+CUST-21614,2025-03-12,Premium,Annual,10,77.17,No,N/A,771.7,West
+CUST-21615,2024-04-25,Standard,Annual,18,40.18,No,N/A,723.24,West
+CUST-21616,2024-12-13,Premium,Monthly,8,75.51,No,N/A,604.08,West
+CUST-21618,2024-04-05,Standard,Annual,1,40.14,No,N/A,40.14,West
+CUST-21619,2025-03-27,Premium,Annual,7,78.09,No,N/A,546.63,West
+CUST-21620,2024-03-02,Basic,Annual,8,14.52,No,N/A,116.16,South
+CUST-21621,2024-02-28,Premium,Monthly,22,78.33,Yes,No_Reason,1723.26,West
+CUST-21622,2024-03-17,Standard,Annual,0,40.78,No,N/A,0.0,East
+CUST-21623,2024-01-21,Standard,Annual,10,38.67,Yes,Competitor,386.7,West
+CUST-21624,2025-03-18,Basic,Annual,2,15.24,No,N/A,30.48,South
+CUST-21625,2024-08-03,Premium,Annual,16,79.56,No,N/A,1272.96,East
+CUST-21626,2024-04-02,Premium,Annual,17,79.94,No,N/A,1358.98,East
+CUST-21627,2025-05-01,Premium,Annual,9,77.9,Yes,No_Reason,701.1,North
+CUST-21628,2024-05-12,Standard,Monthly,15,40.54,No,N/A,608.1,South
+CUST-21629,2024-06-12,Basic,Annual,20,14.41,No,N/A,288.2,North
+CUST-21631,2024-10-15,Premium,Monthly,18,79.0,Yes,Product Bug,1422.0,North
+CUST-21632,2024-02-11,Standard,Monthly,23,38.24,No,N/A,879.52,West
+CUST-21633,2024-05-24,Standard,Monthly,13,40.79,Yes,Price,530.27,East
+CUST-21634,2025-01-14,Standard,Annual,11,40.15,Yes,Competitor,441.65,South
+CUST-21635,2024-10-31,Premium,Annual,3,77.04,Yes,No_Reason,231.12,South
+CUST-21636,2025-04-02,Basic,Monthly,23,15.33,No,N/A,352.59,North
+CUST-21638,2024-03-06,Basic,Monthly,22,15.64,No,N/A,344.08,South
+CUST-21639,2025-04-14,Premium,Monthly,3,78.7,Yes,Price,236.1,South
+CUST-21640,2025-03-18,Premium,Monthly,24,78.46,No,N/A,1883.04,North
+CUST-21641,2024-07-25,Premium,Annual,11,76.78,No,N/A,844.58,West
+CUST-21643,2024-10-04,Basic,Annual,23,14.9,No,N/A,342.7,East
+CUST-21644,2024-04-19,Standard,Annual,20,40.81,No,N/A,816.2,East
+CUST-21646,2024-09-21,Basic,Monthly,6,14.62,No,N/A,87.72,North
+CUST-21647,2024-08-21,Standard,Annual,23,40.21,No,N/A,924.83,West
+CUST-21649,2024-09-17,Premium,Monthly,15,76.34,No,N/A,1145.1,East
+CUST-21651,2024-04-02,Premium,Annual,24,76.42,No,N/A,1834.08,South
+CUST-21652,2024-09-03,Premium,Monthly,10,82.73,No,N/A,827.3,East
+CUST-21653,2024-05-30,Premium,Monthly,7,75.08,No,N/A,525.56,South
+CUST-21654,2024-10-27,Premium,Monthly,17,78.57,No,N/A,1335.69,North
+CUST-21655,2025-05-14,Premium,Monthly,5,78.89,No,N/A,394.45,North
+CUST-21656,2024-10-15,Standard,Monthly,24,37.3,Yes,No_Reason,895.2,East
+CUST-21657,2025-03-24,Premium,Monthly,21,75.87,No,N/A,1593.27,East
+CUST-21658,2024-07-19,Basic,Monthly,19,14.34,No,N/A,272.46,East
+CUST-21659,2024-10-21,Basic,Monthly,2,14.52,Yes,Price,29.04,North
+CUST-21661,2024-03-12,Basic,Annual,12,14.59,No,N/A,175.08,North
+CUST-21662,2024-03-01,Premium,Monthly,17,78.52,No,N/A,1334.84,North
+CUST-21664,2025-04-29,Standard,Monthly,5,38.81,Yes,Competitor,194.05,East
+CUST-21665,2024-08-20,Premium,Monthly,18,79.61,No,N/A,1432.98,North
+CUST-21666,2025-01-13,Basic,Monthly,13,14.29,Yes,No_Reason,185.77,South
+CUST-21667,2024-07-04,Premium,Annual,12,78.18,No,N/A,938.16,North
+CUST-21668,2024-04-06,Standard,Annual,4,38.84,No,N/A,155.36,East
+CUST-21670,2025-05-13,Basic,Annual,0,14.65,No,N/A,0.0,East
+CUST-21672,2025-01-09,Premium,Monthly,1,80.86,Yes,Price,80.86,West
+CUST-21673,2024-08-30,Premium,Annual,10,77.49,Yes,Price,774.9,North
+CUST-21674,2025-04-04,Standard,Monthly,4,37.48,No,N/A,149.92,East
+CUST-21675,2024-06-24,Premium,Monthly,18,81.17,No,N/A,1461.06,West
+CUST-21676,2024-09-30,Premium,Monthly,24,82.08,No,N/A,1969.92,South
+CUST-21677,2024-09-28,Standard,Annual,2,38.5,Yes,Competitor,77.0,South
+CUST-21678,2024-10-04,Basic,Annual,2,14.73,Yes,Price,29.46,South
+CUST-21679,2024-02-11,Premium,Monthly,2,79.38,Yes,Competitor,158.76,South
+CUST-21680,2024-11-22,Standard,Monthly,0,40.08,No,N/A,0.0,East
+CUST-21681,2025-03-04,Basic,Monthly,16,14.69,Yes,Customer Support,235.04,North
+CUST-21682,2024-12-31,Standard,Monthly,6,38.19,No,N/A,229.14,East
+CUST-21683,2024-04-01,Standard,Monthly,3,40.11,No,N/A,120.33,West
+CUST-21684,2024-02-02,Basic,Monthly,15,14.47,No,N/A,217.05,West
+CUST-21685,2025-05-10,Basic,Monthly,16,14.74,Yes,Product Bug,235.84,South
+CUST-21687,2024-01-22,Standard,Annual,16,39.72,No,N/A,635.52,East
+CUST-21689,2024-02-29,Standard,Monthly,19,38.25,Yes,Price,726.75,East
+CUST-21690,2024-10-03,Standard,Monthly,21,40.9,Yes,Price,858.9,South
+CUST-21691,2025-04-05,Standard,Monthly,21,38.59,No,N/A,810.39,West
+CUST-21692,2024-11-10,Basic,Monthly,3,14.72,Yes,Price,44.16,North
+CUST-21693,2024-08-19,Basic,Monthly,13,15.16,Yes,No_Reason,197.08,East
+CUST-21694,2025-01-15,Basic,Monthly,1,14.7,Yes,No_Reason,14.7,South
+CUST-21697,2024-07-02,Basic,Monthly,14,15.4,No,N/A,215.6,West
+CUST-21698,2024-06-12,Premium,Annual,23,79.5,No,N/A,1828.5,East
+CUST-21699,2025-03-29,Premium,Monthly,8,80.6,Yes,Product Bug,644.8,East
+CUST-21700,2024-03-04,Standard,Annual,23,37.39,No,N/A,859.97,South
+CUST-21701,2024-01-02,Standard,Monthly,23,37.17,Yes,No_Reason,854.91,South
+CUST-21702,2024-05-23,Basic,Annual,7,15.09,Yes,Competitor,105.63,South
+CUST-21703,2024-03-09,Basic,Monthly,21,14.84,Yes,Product Bug,311.64,East
+CUST-21705,2024-04-29,Premium,Annual,21,77.31,Yes,Price,1623.51,South
+CUST-21706,2024-06-29,Standard,Monthly,24,37.22,Yes,No_Reason,893.28,North
+CUST-21707,2024-02-29,Basic,Monthly,2,15.51,No,N/A,31.02,North
+CUST-21708,2025-03-31,Standard,Annual,16,37.74,No,N/A,603.84,East
+CUST-21709,2024-08-18,Premium,Annual,16,81.16,No,N/A,1298.56,North
+CUST-21710,2024-03-26,Premium,Annual,20,78.26,No,N/A,1565.2,South
+CUST-21711,2024-10-10,Basic,Monthly,14,14.62,No,N/A,204.68,South
+CUST-21712,2024-05-06,Premium,Monthly,4,75.48,No,N/A,301.92,South
+CUST-21713,2024-02-13,Standard,Annual,0,40.68,Yes,Product Bug,0.0,West
+CUST-21714,2024-03-17,Standard,Monthly,10,39.72,No,N/A,397.2,West
+CUST-21715,2024-04-07,Premium,Monthly,7,75.26,No,N/A,526.82,East
+CUST-21716,2025-03-12,Basic,Annual,19,14.41,Yes,No_Reason,273.79,North
+CUST-21717,2024-02-20,Basic,Monthly,13,15.63,Yes,Price,203.19,North
+CUST-21718,2025-01-26,Standard,Annual,20,39.17,Yes,Price,783.4,South
+CUST-21719,2024-08-30,Basic,Monthly,1,14.79,Yes,No_Reason,14.79,East
+CUST-21720,2024-03-27,Basic,Monthly,3,14.27,No,N/A,42.81,North
+CUST-21721,2024-05-19,Standard,Annual,9,39.31,No,N/A,353.79,East
+CUST-21722,2024-07-31,Basic,Monthly,7,14.69,No,N/A,102.83,West
+CUST-21723,2024-09-21,Standard,Monthly,2,40.24,No,N/A,80.48,South
+CUST-21724,2024-05-16,Standard,Monthly,9,39.56,No,N/A,356.04,West
+CUST-21725,2024-10-21,Standard,Monthly,18,40.9,Yes,Customer Support,736.2,East
+CUST-21727,2024-01-25,Basic,Monthly,21,14.59,No,N/A,306.39,North
+CUST-21728,2024-02-13,Standard,Annual,19,39.23,Yes,No_Reason,745.37,West
+CUST-21729,2024-07-31,Basic,Annual,17,14.62,No,N/A,248.54,North
+CUST-21730,2024-04-23,Premium,Monthly,7,81.08,No,N/A,567.56,North
+CUST-21731,2025-03-15,Standard,Annual,14,38.46,No,N/A,538.44,South
+CUST-21732,2024-06-07,Standard,Annual,4,37.35,Yes,Competitor,149.4,East
+CUST-21733,2024-12-27,Standard,Monthly,19,37.81,Yes,Price,718.39,North
+CUST-21735,2024-01-25,Standard,Monthly,3,40.18,Yes,Competitor,120.54,West
+CUST-21736,2025-04-12,Standard,Annual,9,37.28,No,N/A,335.52,North
+CUST-21737,2024-04-28,Basic,Annual,3,15.62,Yes,Competitor,46.86,South
+CUST-21738,2024-03-20,Basic,Annual,23,14.3,No,N/A,328.9,North
+CUST-21739,2025-04-01,Basic,Annual,24,14.43,No,N/A,346.32,East
+CUST-21740,2024-11-14,Basic,Monthly,18,15.21,Yes,Price,273.78,North
+CUST-21741,2024-04-09,Standard,Annual,20,38.94,No,N/A,778.8,North
+CUST-21742,2024-04-20,Standard,Annual,7,40.69,No,N/A,284.83,East
+CUST-21743,2024-06-05,Standard,Monthly,11,38.3,No,N/A,421.3,South
+CUST-21744,2025-05-15,Basic,Annual,6,15.58,No,N/A,93.48,North
+CUST-21745,2025-05-08,Basic,Monthly,0,14.95,Yes,Product Bug,0.0,East
+CUST-21746,2024-11-04,Premium,Annual,12,79.41,No,N/A,952.92,West
+CUST-21747,2024-09-24,Premium,Annual,3,78.49,No,N/A,235.47,South
+CUST-21748,2024-06-26,Basic,Monthly,11,15.69,Yes,Competitor,172.59,North
+CUST-21749,2024-03-23,Premium,Annual,13,78.93,No,N/A,1026.09,East
+CUST-21750,2024-10-26,Premium,Annual,23,82.63,Yes,Price,1900.49,East
+CUST-21751,2024-07-01,Standard,Monthly,20,39.51,No,N/A,790.2,West
+CUST-21752,2024-10-30,Basic,Monthly,7,15.08,Yes,Customer Support,105.56,West
+CUST-21753,2024-02-19,Standard,Annual,12,39.0,No,N/A,468.0,East
+CUST-21754,2025-03-28,Premium,Monthly,6,75.37,Yes,Customer Support,452.22,West
+CUST-21755,2024-07-01,Standard,Annual,17,40.25,Yes,Product Bug,684.25,North
+CUST-21756,2024-11-04,Standard,Annual,10,38.01,Yes,Price,380.1,West
+CUST-21757,2024-12-20,Premium,Annual,23,80.94,No,N/A,1861.62,East
+CUST-21759,2025-01-21,Premium,Monthly,5,80.76,No,N/A,403.8,North
+CUST-21760,2025-01-29,Premium,Annual,10,81.41,Yes,Competitor,814.1,North
+CUST-21761,2025-03-24,Premium,Monthly,14,80.83,Yes,No_Reason,1131.62,North
+CUST-21762,2024-03-10,Standard,Annual,11,38.81,No,N/A,426.91,South
+CUST-21763,2024-07-27,Premium,Annual,6,79.53,No,N/A,477.18,East
+CUST-21764,2025-02-17,Standard,Annual,20,40.66,Yes,No_Reason,813.2,North
+CUST-21765,2024-06-28,Premium,Annual,4,77.65,No,N/A,310.6,North
+CUST-21767,2024-10-25,Basic,Monthly,15,15.33,Yes,Price,229.95,South
+CUST-21768,2024-11-28,Basic,Annual,6,15.2,No,N/A,91.2,South
+CUST-21769,2024-05-24,Standard,Annual,22,37.34,No,N/A,821.48,South
+CUST-21770,2024-06-03,Basic,Monthly,16,14.55,No,N/A,232.8,East
+CUST-21771,2024-02-13,Standard,Annual,23,37.51,No,N/A,862.73,North
+CUST-21772,2024-04-06,Standard,Monthly,15,38.28,No,N/A,574.2,East
+CUST-21773,2024-03-23,Premium,Monthly,19,78.83,No,N/A,1497.77,South
+CUST-21774,2024-04-07,Standard,Annual,16,38.91,Yes,Product Bug,622.56,South
+CUST-21775,2024-03-06,Premium,Monthly,23,77.28,Yes,Competitor,1777.44,South
+CUST-21776,2025-05-06,Standard,Annual,0,40.39,No,N/A,0.0,West
+CUST-21777,2024-12-22,Premium,Annual,19,77.64,Yes,Customer Support,1475.16,East
+CUST-21779,2024-02-01,Basic,Annual,14,14.82,Yes,No_Reason,207.48,West
+CUST-21780,2024-09-18,Basic,Annual,0,15.14,No,N/A,0.0,South
+CUST-21782,2025-02-22,Standard,Monthly,8,37.59,Yes,Product Bug,300.72,North
+CUST-21783,2024-03-21,Basic,Monthly,12,15.74,No,N/A,188.88,South
+CUST-21784,2024-06-05,Premium,Monthly,11,81.29,Yes,No_Reason,894.19,East
+CUST-21785,2025-05-06,Standard,Annual,12,37.42,No,N/A,449.04,East
+CUST-21786,2024-02-15,Premium,Monthly,6,80.28,No,N/A,481.68,East
+CUST-21787,2024-05-27,Standard,Monthly,7,38.13,Yes,Competitor,266.91,East
+CUST-21788,2025-03-04,Premium,Monthly,20,81.36,No,N/A,1627.2,South
+CUST-21789,2024-06-10,Basic,Annual,6,14.92,Yes,Product Bug,89.52,North
+CUST-21792,2025-05-05,Standard,Monthly,22,39.53,No,N/A,869.66,East
+CUST-21793,2024-08-26,Standard,Annual,10,37.24,No,N/A,372.4,West
+CUST-21794,2025-02-18,Premium,Monthly,5,80.93,Yes,Price,404.65,West
+CUST-21795,2024-11-26,Standard,Monthly,11,39.4,No,N/A,433.4,West
+CUST-21796,2024-05-04,Standard,Monthly,0,40.13,No,N/A,0.0,East
+CUST-21797,2024-08-05,Standard,Annual,13,40.8,Yes,Price,530.4,East
+CUST-21798,2024-12-18,Standard,Monthly,5,37.71,Yes,Product Bug,188.55,East
+CUST-21800,2024-10-18,Premium,Annual,7,79.0,No,N/A,553.0,South
+CUST-21801,2025-01-24,Standard,Annual,22,37.68,Yes,Customer Support,828.96,East
+CUST-21802,2024-02-25,Standard,Monthly,11,37.99,No,N/A,417.89,North
+CUST-21803,2024-05-22,Premium,Monthly,14,81.8,No,N/A,1145.2,West
+CUST-21804,2024-03-31,Basic,Monthly,0,14.75,Yes,No_Reason,0.0,North
+CUST-21805,2024-04-28,Premium,Monthly,17,79.8,No,N/A,1356.6,West
+CUST-21806,2024-06-13,Basic,Monthly,18,15.43,Yes,Customer Support,277.74,North
+CUST-21807,2024-03-22,Premium,Monthly,23,76.4,No,N/A,1757.2,South
+CUST-21808,2024-06-17,Premium,Monthly,14,81.67,Yes,Customer Support,1143.38,East
+CUST-21810,2024-01-11,Standard,Annual,4,39.54,Yes,Customer Support,158.16,North
+CUST-21811,2024-01-24,Premium,Monthly,18,77.43,Yes,Price,1393.74,East
+CUST-21812,2024-02-15,Premium,Monthly,13,81.5,No,N/A,1059.5,West
+CUST-21815,2024-12-03,Standard,Monthly,18,37.28,No,N/A,671.04,North
+CUST-21816,2025-03-24,Standard,Annual,15,39.01,No,N/A,585.15,South
+CUST-21817,2025-01-26,Premium,Monthly,12,76.44,No,N/A,917.28,East
+CUST-21818,2024-11-12,Standard,Monthly,18,40.49,Yes,Product Bug,728.82,West
+CUST-21819,2024-01-06,Premium,Monthly,22,77.02,No,N/A,1694.44,North
+CUST-21820,2024-07-04,Basic,Monthly,8,15.0,Yes,Competitor,120.0,West
+CUST-21821,2024-05-18,Basic,Annual,4,15.21,Yes,Product Bug,60.84,West
+CUST-21822,2025-04-01,Basic,Monthly,18,15.55,Yes,Product Bug,279.9,North
+CUST-21824,2024-07-08,Basic,Monthly,20,15.48,Yes,No_Reason,309.6,South
+CUST-21825,2024-07-05,Premium,Annual,18,81.98,No,N/A,1475.64,East
+CUST-21826,2024-11-21,Basic,Monthly,16,15.48,No,N/A,247.68,South
+CUST-21828,2024-02-16,Basic,Annual,15,14.98,No,N/A,224.7,North
+CUST-21829,2024-07-21,Standard,Monthly,20,39.69,No,N/A,793.8,East
+CUST-21830,2025-01-29,Basic,Monthly,19,15.31,Yes,Price,290.89,West
+CUST-21832,2024-10-13,Basic,Monthly,9,14.48,Yes,No_Reason,130.32,East
+CUST-21833,2025-04-14,Premium,Monthly,7,76.54,No,N/A,535.78,South
+CUST-21834,2025-04-22,Basic,Annual,14,14.52,No,N/A,203.28,South
+CUST-21835,2025-02-19,Basic,Annual,8,15.52,No,N/A,124.16,North
+CUST-21836,2024-10-22,Premium,Annual,4,82.11,Yes,Product Bug,328.44,East
+CUST-21837,2024-07-16,Basic,Annual,4,14.53,Yes,Price,58.12,East
+CUST-21838,2024-02-18,Standard,Monthly,1,38.28,Yes,Competitor,38.28,South
+CUST-21839,2024-03-02,Basic,Annual,13,15.52,No,N/A,201.76,West
+CUST-21840,2024-10-03,Standard,Monthly,8,38.72,Yes,Customer Support,309.76,West
+CUST-21841,2024-12-10,Premium,Monthly,15,75.29,Yes,Customer Support,1129.35,East
+CUST-21842,2024-09-30,Standard,Monthly,21,37.82,Yes,Customer Support,794.22,South
+CUST-21844,2025-01-17,Standard,Monthly,13,39.18,Yes,Price,509.34,West
+CUST-21845,2025-02-17,Premium,Annual,17,80.78,Yes,Customer Support,1373.26,South
+CUST-21846,2025-03-14,Premium,Monthly,3,75.53,No,N/A,226.59,North
+CUST-21847,2024-11-27,Standard,Annual,23,38.42,No,N/A,883.66,East
+CUST-21848,2024-07-05,Premium,Annual,0,79.54,Yes,No_Reason,0.0,South
+CUST-21849,2024-08-28,Premium,Annual,7,79.96,No,N/A,559.72,South
+CUST-21850,2024-08-02,Basic,Monthly,20,14.58,No,N/A,291.6,North
+CUST-21851,2024-12-19,Premium,Annual,14,76.71,Yes,Customer Support,1073.94,East
+CUST-21852,2024-03-25,Premium,Monthly,18,81.99,No,N/A,1475.82,West
+CUST-21853,2025-02-01,Premium,Annual,7,82.58,No,N/A,578.06,West
+CUST-21854,2024-11-26,Premium,Annual,17,78.64,No,N/A,1336.88,East
+CUST-21855,2025-04-06,Premium,Annual,17,82.19,No,N/A,1397.23,West
+CUST-21856,2024-10-12,Basic,Monthly,24,15.46,No,N/A,371.04,West
+CUST-21857,2024-02-26,Premium,Monthly,14,77.7,No,N/A,1087.8,East
+CUST-21858,2025-03-06,Premium,Annual,21,78.89,No,N/A,1656.69,South
+CUST-21859,2024-11-05,Standard,Annual,14,38.71,No,N/A,541.94,South
+CUST-21860,2024-03-10,Basic,Monthly,5,14.92,Yes,No_Reason,74.6,North
+CUST-21861,2024-09-20,Premium,Monthly,3,80.8,No,N/A,242.4,South
+CUST-21862,2025-01-07,Premium,Monthly,3,76.93,No,N/A,230.79,West
+CUST-21863,2025-01-25,Basic,Monthly,7,15.6,No,N/A,109.2,East
+CUST-21864,2024-07-16,Basic,Monthly,9,15.22,Yes,Customer Support,136.98,North
+CUST-21865,2024-11-14,Standard,Monthly,2,39.99,Yes,No_Reason,79.98,East
+CUST-21866,2025-02-11,Premium,Annual,11,75.88,No,N/A,834.68,South
+CUST-21867,2025-02-16,Basic,Annual,24,15.03,No,N/A,360.72,South
+CUST-21868,2025-02-07,Basic,Monthly,4,14.76,No,N/A,59.04,South
+CUST-21869,2025-03-16,Standard,Monthly,6,37.91,No,N/A,227.46,West
+CUST-21870,2024-06-21,Standard,Annual,23,38.7,No,N/A,890.1,North
+CUST-21871,2024-12-30,Premium,Monthly,17,79.44,No,N/A,1350.48,West
+CUST-21873,2025-03-30,Basic,Monthly,16,14.79,No,N/A,236.64,North
+CUST-21874,2025-01-07,Premium,Annual,1,76.29,Yes,Product Bug,76.29,South
+CUST-21875,2025-03-08,Basic,Monthly,10,15.58,No,N/A,155.8,North
+CUST-21876,2024-06-23,Basic,Annual,24,14.51,No,N/A,348.24,East
+CUST-21878,2024-08-22,Standard,Monthly,11,38.88,No,N/A,427.68,East
+CUST-21879,2024-08-15,Basic,Monthly,9,15.6,No,N/A,140.4,East
+CUST-21880,2024-07-04,Basic,Monthly,0,14.41,Yes,Price,0.0,South
+CUST-21881,2025-05-03,Premium,Annual,17,81.59,No,N/A,1387.03,East
+CUST-21882,2024-09-25,Basic,Monthly,13,14.33,Yes,No_Reason,186.29,East
+CUST-21884,2024-07-19,Premium,Annual,14,82.87,No,N/A,1160.18,South
+CUST-21885,2024-05-22,Basic,Annual,11,14.77,No,N/A,162.47,South
+CUST-21886,2024-01-18,Basic,Annual,21,15.62,No,N/A,328.02,West
+CUST-21887,2024-09-20,Basic,Monthly,14,14.77,Yes,No_Reason,206.78,West
+CUST-21888,2025-03-09,Premium,Monthly,15,78.37,Yes,Competitor,1175.55,South
+CUST-21891,2024-05-28,Basic,Monthly,20,14.32,Yes,Price,286.4,West
+CUST-21892,2024-03-02,Premium,Monthly,7,76.85,Yes,Product Bug,537.95,East
+CUST-21893,2025-03-03,Basic,Monthly,16,14.83,Yes,No_Reason,237.28,South
+CUST-21894,2024-10-15,Standard,Monthly,9,38.31,No,N/A,344.79,South
+CUST-21895,2024-12-07,Premium,Annual,21,80.27,No,N/A,1685.67,South
+CUST-21896,2025-05-07,Premium,Monthly,1,82.19,No,N/A,82.19,East
+CUST-21897,2024-03-26,Premium,Monthly,9,81.8,No,N/A,736.2,North
+CUST-21898,2025-05-06,Premium,Monthly,16,79.74,No,N/A,1275.84,North
+CUST-21899,2024-06-25,Basic,Annual,10,14.76,No,N/A,147.6,North
+CUST-21900,2025-01-25,Basic,Monthly,16,14.79,No,N/A,236.64,South
+CUST-21901,2024-05-06,Basic,Monthly,3,15.12,No,N/A,45.36,North
+CUST-21902,2024-06-05,Standard,Monthly,1,38.37,Yes,Price,38.37,East
+CUST-21903,2024-10-19,Premium,Annual,18,81.89,Yes,Customer Support,1474.02,East
+CUST-21905,2025-01-06,Premium,Annual,15,80.55,No,N/A,1208.25,East
+CUST-21906,2025-03-17,Premium,Annual,20,77.19,No,N/A,1543.8,West
+CUST-21907,2024-03-10,Basic,Annual,11,15.37,No,N/A,169.07,North
+CUST-21908,2025-01-25,Premium,Annual,23,82.48,No,N/A,1897.04,West
+CUST-21909,2025-01-07,Premium,Annual,19,75.82,No,N/A,1440.58,North
+CUST-21910,2024-10-20,Premium,Annual,13,79.47,No,N/A,1033.11,North
+CUST-21911,2024-09-19,Premium,Monthly,10,75.35,Yes,Product Bug,753.5,West
+CUST-21912,2024-10-23,Basic,Monthly,12,15.26,Yes,Price,183.12,North
+CUST-21913,2024-08-30,Premium,Monthly,3,81.63,Yes,Customer Support,244.89,South
+CUST-21914,2024-09-10,Basic,Monthly,18,15.01,No,N/A,270.18,East
+CUST-21917,2024-05-02,Premium,Monthly,13,79.7,No,N/A,1036.1,North
+CUST-21918,2025-02-12,Basic,Monthly,10,14.51,Yes,Customer Support,145.1,South
+CUST-21919,2024-01-27,Standard,Monthly,7,37.64,Yes,Product Bug,263.48,South
+CUST-21920,2024-07-03,Basic,Monthly,6,14.76,Yes,Competitor,88.56,North
+CUST-21921,2025-02-07,Standard,Monthly,3,40.88,Yes,Customer Support,122.64,East
+CUST-21923,2024-03-16,Standard,Monthly,4,37.87,Yes,No_Reason,151.48,North
+CUST-21924,2024-06-10,Standard,Monthly,14,38.87,No,N/A,544.18,North
+CUST-21925,2024-01-21,Basic,Monthly,7,14.34,Yes,Price,100.38,North
+CUST-21927,2024-12-08,Premium,Monthly,15,76.46,No,N/A,1146.9,West
+CUST-21928,2024-07-02,Standard,Monthly,5,39.49,Yes,Product Bug,197.45,West
+CUST-21929,2024-09-27,Standard,Annual,7,37.95,No,N/A,265.65,North
+CUST-21930,2024-04-11,Basic,Monthly,9,15.35,No,N/A,138.15,South
+CUST-21931,2025-05-01,Premium,Monthly,4,77.2,Yes,Customer Support,308.8,South
+CUST-21933,2025-04-16,Basic,Annual,7,15.55,Yes,Competitor,108.85,North
+CUST-21934,2024-10-04,Standard,Monthly,19,37.42,No,N/A,710.98,West
+CUST-21935,2024-07-21,Basic,Annual,20,15.46,No,N/A,309.2,East
+CUST-21936,2024-06-19,Basic,Annual,16,14.67,No,N/A,234.72,South
+CUST-21937,2025-02-25,Premium,Annual,7,80.82,No,N/A,565.74,South
+CUST-21939,2024-02-14,Premium,Monthly,4,81.54,No,N/A,326.16,North
+CUST-21940,2024-03-01,Basic,Annual,21,15.45,No,N/A,324.45,North
+CUST-21941,2025-03-02,Premium,Monthly,17,77.96,No,N/A,1325.32,East
+CUST-21943,2024-12-31,Basic,Annual,23,14.8,No,N/A,340.4,West
+CUST-21944,2025-01-08,Basic,Annual,16,15.49,No,N/A,247.84,West
+CUST-21946,2024-09-09,Premium,Annual,11,76.77,No,N/A,844.47,South
+CUST-21947,2024-04-03,Premium,Annual,13,78.91,No,N/A,1025.83,South
+CUST-21950,2025-01-03,Standard,Monthly,19,40.54,Yes,Competitor,770.26,West
+CUST-21951,2025-04-02,Standard,Annual,23,38.2,Yes,Customer Support,878.6,North
+CUST-21952,2024-03-13,Premium,Monthly,21,77.46,Yes,Competitor,1626.66,North
+CUST-21953,2024-05-21,Standard,Annual,15,37.07,No,N/A,556.05,North
+CUST-21954,2025-01-20,Standard,Annual,18,39.41,No,N/A,709.38,East
+CUST-21955,2024-08-16,Premium,Monthly,9,80.69,No,N/A,726.21,East
+CUST-21956,2025-01-25,Basic,Annual,0,14.58,No,N/A,0.0,North
+CUST-21957,2024-12-19,Standard,Monthly,18,39.86,Yes,Customer Support,717.48,South
+CUST-21958,2025-04-15,Standard,Annual,3,39.08,No,N/A,117.24,West
+CUST-21959,2024-08-19,Basic,Annual,4,14.31,Yes,No_Reason,57.24,South
+CUST-21960,2024-05-08,Standard,Annual,20,38.14,No,N/A,762.8,North
+CUST-21961,2025-05-02,Basic,Annual,24,15.07,No,N/A,361.68,North
+CUST-21962,2024-03-20,Basic,Monthly,18,15.07,Yes,Customer Support,271.26,West
+CUST-21963,2025-01-29,Premium,Annual,17,79.82,No,N/A,1356.94,North
+CUST-21964,2024-12-10,Premium,Monthly,21,75.29,No,N/A,1581.09,East
+CUST-21966,2025-02-09,Basic,Monthly,3,15.46,Yes,Price,46.38,West
+CUST-21967,2024-10-09,Premium,Annual,22,76.17,Yes,No_Reason,1675.74,East
+CUST-21968,2024-06-25,Standard,Annual,19,37.83,No,N/A,718.77,West
+CUST-21969,2025-03-12,Basic,Annual,16,15.31,Yes,No_Reason,244.96,West
+CUST-21971,2024-03-03,Premium,Annual,1,77.22,Yes,No_Reason,77.22,West
+CUST-21972,2024-03-08,Premium,Annual,2,80.01,Yes,No_Reason,160.02,East
+CUST-21974,2024-10-29,Standard,Annual,21,40.56,Yes,Customer Support,851.76,South
+CUST-21975,2025-03-20,Premium,Annual,6,78.51,No,N/A,471.06,East
+CUST-21976,2024-08-14,Standard,Annual,6,38.64,No,N/A,231.84,North
+CUST-21978,2024-12-20,Basic,Monthly,21,15.63,No,N/A,328.23,North
+CUST-21979,2024-03-11,Standard,Annual,18,39.66,No,N/A,713.88,West
+CUST-21980,2024-04-02,Basic,Monthly,13,15.36,Yes,Customer Support,199.68,South
+CUST-21981,2024-12-05,Premium,Annual,22,78.2,No,N/A,1720.4,East
+CUST-21982,2024-10-13,Premium,Annual,18,76.33,No,N/A,1373.94,South
+CUST-21983,2024-09-13,Standard,Annual,9,39.74,No,N/A,357.66,South
+CUST-21984,2024-06-13,Basic,Monthly,20,15.73,No,N/A,314.6,South
+CUST-21985,2024-02-22,Premium,Annual,10,77.42,No,N/A,774.2,West
+CUST-21986,2024-09-07,Basic,Monthly,19,15.32,No,N/A,291.08,East
+CUST-21989,2025-03-07,Standard,Monthly,13,39.39,No,N/A,512.07,East
+CUST-21990,2025-02-16,Basic,Monthly,0,14.7,Yes,Price,0.0,South
+CUST-21991,2025-04-12,Standard,Annual,24,38.38,Yes,Customer Support,921.12,South
+CUST-21993,2025-02-05,Basic,Annual,19,15.39,No,N/A,292.41,East
+CUST-21994,2024-10-19,Premium,Annual,9,75.09,No,N/A,675.81,South
+CUST-21995,2024-05-15,Basic,Monthly,21,14.47,No,N/A,303.87,East
+CUST-21996,2025-04-28,Premium,Monthly,12,75.6,Yes,Customer Support,907.2,South
+CUST-21997,2024-04-23,Standard,Monthly,22,40.47,No,N/A,890.34,East
+CUST-21998,2025-05-03,Basic,Monthly,5,14.35,Yes,Customer Support,71.75,North
+CUST-21999,2024-09-30,Standard,Monthly,17,39.32,No,N/A,668.44,South
+CUST-22000,2024-12-26,Basic,Monthly,5,15.4,Yes,Competitor,77.0,West

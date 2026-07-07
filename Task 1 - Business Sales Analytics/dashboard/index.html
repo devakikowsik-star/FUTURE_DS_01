@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Sales Performance Analytics Dashboard</title>
+    <!-- CSS Stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <div class="app-container">
+        
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="logo-container">
+                <div class="logo-icon">FI</div>
+                <div class="logo-text">Future Analytics</div>
+            </div>
+            
+            <ul class="nav-menu">
+                <li class="nav-item active" data-tab="dashboard">
+                    <button>
+                        <i class="fa-solid fa-chart-line"></i>
+                        <span>Executive Dashboard</span>
+                    </button>
+                </li>
+                <li class="nav-item" data-tab="pipeline">
+                    <button>
+                        <i class="fa-solid fa-filter-circle-dollar"></i>
+                        <span>Data Pipeline</span>
+                    </button>
+                </li>
+                <li class="nav-item" data-tab="insights">
+                    <button>
+                        <i class="fa-solid fa-lightbulb"></i>
+                        <span>Strategic Insights</span>
+                    </button>
+                </li>
+            </ul>
+            
+            <div class="sidebar-footer">
+                <div class="user-badge">
+                    <div class="user-avatar">DA</div>
+                    <div class="user-info">
+                        <p class="user-name">Data Analyst</p>
+                        <p class="user-role">Future Interns</p>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            
+            <!-- Top Header -->
+            <header class="top-header">
+                <div class="header-title">
+                    <h1 id="page-title">Executive Sales Overview</h1>
+                    <p id="page-subtitle">Interactive analysis of business sales performance, profit margins, and trends.</p>
+                </div>
+                <div class="header-actions">
+                    <!-- Export Report Action -->
+                    <button class="btn-reset" onclick="window.print()" style="margin: 0;">
+                        <i class="fa-solid fa-print"></i> Print Report
+                    </button>
+                </div>
+            </header>
+
+            <!-- Interactive Filters (Shared across tabs where relevant) -->
+            <section class="filters-bar" id="filters-container">
+                <div class="filter-group">
+                    <label for="filter-region">Region</label>
+                    <select id="filter-region" class="filter-select">
+                        <option value="All">All Regions</option>
+                        <option value="East">East</option>
+                        <option value="West">West</option>
+                        <option value="North">North</option>
+                        <option value="South">South</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label for="filter-category">Product Category</label>
+                    <select id="filter-category" class="filter-select">
+                        <option value="All">All Categories</option>
+                        <option value="Technology">Technology</option>
+                        <option value="Furniture">Furniture</option>
+                        <option value="Office Supplies">Office Supplies</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filter-segment">Customer Segment</label>
+                    <select id="filter-segment" class="filter-select">
+                        <option value="All">All Segments</option>
+                        <option value="Consumer">Consumer</option>
+                        <option value="Corporate">Corporate</option>
+                        <option value="Home Office">Home Office</option>
+                    </select>
+                </div>
+
+                <button id="reset-filters" class="btn-reset">
+                    <i class="fa-solid fa-rotate-left"></i> Reset
+                </button>
+            </section>
+
+            <!-- TAB 1: EXECUTIVE DASHBOARD -->
+            <div id="dashboard" class="tab-content active">
+                
+                <!-- KPI Counter Cards -->
+                <div class="kpi-grid">
+                    
+                    <!-- Revenue KPI -->
+                    <div class="kpi-card kpi-revenue">
+                        <div class="kpi-card-header">
+                            <span>TOTAL REVENUE</span>
+                            <div class="kpi-icon">
+                                <i class="fa-solid fa-dollar-sign"></i>
+                            </div>
+                        </div>
+                        <div class="kpi-value" id="kpi-revenue-val">$0.00</div>
+                        <div class="kpi-trend trend-up">
+                            <i class="fa-solid fa-arrow-trend-up"></i>
+                            <span>Target: On Track</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Net Profit KPI -->
+                    <div class="kpi-card kpi-profit">
+                        <div class="kpi-card-header">
+                            <span>NET PROFIT</span>
+                            <div class="kpi-icon">
+                                <i class="fa-solid fa-wallet"></i>
+                            </div>
+                        </div>
+                        <div class="kpi-value" id="kpi-profit-val">$0.00</div>
+                        <div class="kpi-trend trend-up" id="kpi-profit-trend">
+                            <i class="fa-solid fa-arrow-trend-up"></i>
+                            <span>Target: +12% vs last Q</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Avg Margin KPI -->
+                    <div class="kpi-card kpi-margin">
+                        <div class="kpi-card-header">
+                            <span>AVG PROFIT MARGIN</span>
+                            <div class="kpi-icon">
+                                <i class="fa-solid fa-percent"></i>
+                            </div>
+                        </div>
+                        <div class="kpi-value" id="kpi-margin-val">0.0%</div>
+                        <div class="kpi-trend trend-up" id="kpi-margin-trend">
+                            <i class="fa-solid fa-circle-info"></i>
+                            <span>Avg Cost Ratio: 58.2%</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Orders KPI -->
+                    <div class="kpi-card kpi-orders">
+                        <div class="kpi-card-header">
+                            <span>TOTAL ITEMS SOLD</span>
+                            <div class="kpi-icon">
+                                <i class="fa-solid fa-box-open"></i>
+                            </div>
+                        </div>
+                        <div class="kpi-value" id="kpi-orders-val">0</div>
+                        <div class="kpi-trend trend-down" id="kpi-orders-trend">
+                            <i class="fa-solid fa-bag-shopping"></i>
+                            <span>Avg Order Qty: ~5.2</span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Charts Section Grid -->
+                <div class="charts-grid">
+                    
+                    <!-- Sales Trend line chart -->
+                    <div class="chart-card col-8">
+                        <div class="chart-card-header">
+                            <div>
+                                <div class="chart-card-title">Monthly Revenue & Profit Trends</div>
+                                <div class="chart-card-subtitle">Monthly breakdown for fiscal year 2025</div>
+                            </div>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="trend-chart"></canvas>
+                        </div>
+                    </div>
+
+                    <!-- Category Donut Chart -->
+                    <div class="chart-card col-4">
+                        <div class="chart-card-header">
+                            <div>
+                                <div class="chart-card-title">Revenue Share by Category</div>
+                                <div class="chart-card-subtitle">Proportional sales distribution</div>
+                            </div>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="category-chart"></canvas>
+                        </div>
+                    </div>
+
+                    <!-- Top Selling Products Bar Chart -->
+                    <div class="chart-card col-6">
+                        <div class="chart-card-header">
+                            <div>
+                                <div class="chart-card-title">Top 5 Products by Revenue</div>
+                                <div class="chart-card-subtitle">Highest generating inventory items</div>
+                            </div>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="products-chart"></canvas>
+                        </div>
+                    </div>
+
+                    <!-- Regional Margin Bar Chart -->
+                    <div class="chart-card col-6">
+                        <div class="chart-card-header">
+                            <div>
+                                <div class="chart-card-title">Regional Sales vs. Profitability</div>
+                                <div class="chart-card-subtitle">Volume and profit comparison by geographical region</div>
+                            </div>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="region-chart"></canvas>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- TAB 2: DATA PIPELINE VIEW -->
+            <div id="pipeline" class="tab-content">
+                
+                <!-- Data Pipeline Audit Summary -->
+                <div class="pipeline-metrics-summary">
+                    <div class="pipeline-metric-card">
+                        <div class="pipeline-metric-value" id="audit-raw-count">0</div>
+                        <div class="pipeline-metric-label">Raw Transactions Input</div>
+                    </div>
+                    <div class="pipeline-metric-card">
+                        <div class="pipeline-metric-value highlight-red" id="audit-dupes">0</div>
+                        <div class="pipeline-metric-label">Duplicates Removed</div>
+                    </div>
+                    <div class="pipeline-metric-card">
+                        <div class="pipeline-metric-value highlight-red" id="audit-dates">0</div>
+                        <div class="pipeline-metric-label">Malformed Dates Removed</div>
+                    </div>
+                    <div class="pipeline-metric-card">
+                        <div class="pipeline-metric-value highlight-red" id="audit-qtys">0</div>
+                        <div class="pipeline-metric-label">Invalid Quantities Removed</div>
+                    </div>
+                    <div class="pipeline-metric-card">
+                        <div class="pipeline-metric-value highlight-blue" id="audit-imputed">0</div>
+                        <div class="pipeline-metric-label">Missing Prices Imputed</div>
+                    </div>
+                    <div class="pipeline-metric-card">
+                        <div class="pipeline-metric-value highlight-green" id="audit-cleaned-count">0</div>
+                        <div class="pipeline-metric-label">Cleaned Transactions</div>
+                    </div>
+                </div>
+
+                <!-- Side-by-side Table Comparison -->
+                <div class="pipeline-tables">
+                    
+                    <!-- Raw Data Preview (showing issues) -->
+                    <div class="table-section">
+                        <div class="table-header">
+                            <div>
+                                <h3 class="chart-card-title">Raw Messy Dataset Preview</h3>
+                                <p class="chart-card-subtitle" style="margin-top: 2px;">First 15 raw rows. Notice mixed dates (e.g. DD/MM/YYYY, missing), blank prices, and negative quantities.</p>
+                            </div>
+                        </div>
+                        <div class="table-container">
+                            <table class="data-table" id="raw-data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Txn ID</th>
+                                        <th>Date</th>
+                                        <th>Customer ID</th>
+                                        <th>Product Name</th>
+                                        <th>Category</th>
+                                        <th>Qty</th>
+                                        <th>Unit Price</th>
+                                        <th>Region</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <!-- Populated dynamically -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Cleaned Data Preview -->
+                    <div class="table-section">
+                        <div class="table-header">
+                            <div>
+                                <h3 class="chart-card-title">Cleaned & Structured Dataset</h3>
+                                <p class="chart-card-subtitle" style="margin-top: 2px;">First 15 cleaned rows. Standardized ISO dates, imputed prices, and engineered features (Revenue, Profit).</p>
+                            </div>
+                            <button class="btn-reset" id="download-csv" style="margin: 0;">
+                                <i class="fa-solid fa-download"></i> Export Cleaned CSV
+                            </button>
+                        </div>
+                        <div class="table-container">
+                            <table class="data-table" id="cleaned-data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Txn ID</th>
+                                        <th>Date</th>
+                                        <th>Product Name</th>
+                                        <th>Category</th>
+                                        <th>Qty</th>
+                                        <th>Unit Price</th>
+                                        <th>Revenue</th>
+                                        <th>Cost</th>
+                                        <th>Profit</th>
+                                        <th>Region</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <!-- Populated dynamically -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- TAB 3: STRATEGIC INSIGHTS -->
+            <div id="insights" class="tab-content">
+                
+                <div class="insights-container">
+                    
+                    <!-- Executive Intro Card -->
+                    <div class="insights-intro-card">
+                        <h3><i class="fa-solid fa-chart-line"></i> Executive Business Analysis & Strategic Recommendations</h3>
+                        <p>Based on the cleaning and analysis of 2025 sales transaction logs, we have identified key revenue-driving areas, profit anomalies, and structural opportunities. The following insights represent a consultative review of business sales performance, indicating where management should focus resources for maximum growth and margin expansion.</p>
+                    </div>
+
+                    <!-- Grid of Actionable Insights -->
+                    <div class="insights-grid">
+                        
+                        <!-- Insight 1: Product Performance -->
+                        <div class="insight-card priority">
+                            <div class="insight-header">
+                                <div class="insight-num-badge">1</div>
+                                <h4>Technology Dominates Revenue, Furniture Drags Profit Margins</h4>
+                            </div>
+                            <div class="insight-body">
+                                <p><strong>Analysis:</strong> Our analysis reveals that <strong>Technology</strong> products generate over 50% of total company revenue, with products like the <em>Pro Laptop 15</em> leading in sales volume and unit price. Conversely, the <strong>Furniture</strong> category generates high transaction volumes but suffers from significantly lower profit margins due to high product acquisition costs (averaging ~60-65% cost ratios).</p>
+                            </div>
+                            <div class="insight-recommendation">
+                                <div class="insight-recommendation-title">Action Plan</div>
+                                <p class="insight-recommendation-text">Optimize the shipping/warehousing cost structure for Furniture items. Reposition Furniture as bundle addons to Technology purchases (e.g., selling standing desks with monitor mounts) to enhance overall basket value.</p>
+                            </div>
+                        </div>
+
+                        <!-- Insight 2: Pricing Imputations and Profit Leakage -->
+                        <div class="insight-card">
+                            <div class="insight-header">
+                                <div class="insight-num-badge">2</div>
+                                <h4>Data Quality Audit & Sales Leakage Resolved</h4>
+                            </div>
+                            <div class="insight-body">
+                                <p><strong>Analysis:</strong> During the data engineering stage, our pipeline identified that approximately <strong>3% of entries were duplicates</strong>, and multiple sales records lacked valid unit prices or quantity figures. By running the Python imputation algorithm, we resolved pricing gaps (averaging $12-$1200 per product) and filtered out negative quantities, which would have artificially depressed reported profits by thousands of dollars.</p>
+                            </div>
+                            <div class="insight-recommendation">
+                                <div class="insight-recommendation-title">Action Plan</div>
+                                <p class="insight-recommendation-text">Implement POS software restrictions preventing negative quantity inputs, and require product database linkages to automatically fill unit prices at checkout to eliminate manual entry price gaps.</p>
+                            </div>
+                        </div>
+
+                        <!-- Insight 3: Regional Strategy -->
+                        <div class="insight-card priority">
+                            <div class="insight-header">
+                                <div class="insight-num-badge">3</div>
+                                <h4>High Profitability in Regional Pockets</h4>
+                            </div>
+                            <div class="insight-body">
+                                <p><strong>Analysis:</strong> Cross-tabulation of region and profit margin shows that the <strong>East and West regions</strong> produce the largest overall sales volume, but the <strong>North region</strong> shows the highest net profit margin percentage (average 42%). This indicates that sales in the North, though lower in total volume, are highly efficient and focused on high-margin accessory items (e.g., USB-C cables, mouse pads, sticky notes).</p>
+                            </div>
+                            <div class="insight-recommendation">
+                                <div class="insight-recommendation-title">Action Plan</div>
+                                <p class="insight-recommendation-text">Shift a portion of the marketing budget from the highly competitive West region to the North region. Run targeted local campaigns to expand customer acquisition in the North, utilizing their high-margin profile to increase overall company profitability.</p>
+                            </div>
+                        </div>
+
+                        <!-- Insight 4: Inventory Turn Rate Optimization -->
+                        <div class="insight-card">
+                            <div class="insight-header">
+                                <div class="insight-num-badge">4</div>
+                                <h4>Capitalize on High-Turn, Low-Cost Accessories</h4>
+                            </div>
+                            <div class="insight-body">
+                                <p><strong>Analysis:</strong> Office supplies (like <em>Gel Pens</em> and <em>Sticky Notes</em>) have exceptionally low unit prices but exhibit extremely high sales velocities. Because their cost-of-goods-sold (COGS) ratio is minimal (~25-30%), they contribute a steady, risk-free stream of profit with low overhead and capital lock-up compared to big-ticket electronics.</p>
+                            </div>
+                            <div class="insight-recommendation">
+                                <div class="insight-recommendation-title">Action Plan</div>
+                                <p class="insight-recommendation-text">Place high-turn accessory items directly at checkout/main-landing-pages as point-of-sale impulse purchases to increase average order value (AOV) without inventory pressure.</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </main>
+    </div>
+
+    <!-- Loaded JS data and controller -->
+    <script src="dashboard_data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
